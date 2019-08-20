@@ -1,5 +1,5 @@
 {
-  "name": "log-ipfs-dependencies",
+  "name": "log-ipld-dependencies",
   "version": "0.0.0-dev",
   "description": "",
   "main": "cli.js",
