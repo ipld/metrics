@@ -1,8 +1,8 @@
 # metrics repo
 
-Regularly collect and log metrics about IPFS related projects.
+Regularly collect and log metrics about IPLD related projects.
 
-This repo contains a scheduled GitHub Action which pulls IPFS dependency data out of BigQuery and stores it 
+This repo contains a scheduled GitHub Action which pulls IPLD dependency data out of BigQuery and stores it 
 in [timestamped json](./logs) files in this repo.
 
 ## Recent Data
@@ -14,29 +14,29 @@ represent search interest relative to the highest point on the chart for the giv
 time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is 
 half as popular. Likewise a score of 0 means the term was less than 1% as popular as the peak."*
 
-This is the google trend data for searches of the term "IPFS" for the
+This is the google trend data for searches of the term "IPLD" for the
 last 12 months. The last 10 years is [available here.](./results/google-trends.md)
 
 
 
 Google Trends:
-*  8/2019: 63
-*  7/2019: 66
-*  6/2019: 72
-*  5/2019: 77
-*  4/2019: 74
-*  3/2019: 72
-*  2/2019: 69
-*  1/2019: 73
-*  12/2018: 75
-*  11/2018: 79
-*  10/2018: 82
-*  9/2018: 90
+*  8/2019: 13
+*  7/2019: 16
+*  6/2019: 13
+*  5/2019: 22
+*  4/2019: 24
+*  3/2019: 13
+*  2/2019: 13
+*  1/2019: 12
+*  12/2018: 8
+*  11/2018: 12
+*  10/2018: 14
+*  9/2018: 10
 
 ### GitHub Search
 
-These do a repository search, filtered by language, for "ipfs." This search
-finds references to ipfs in project names, descriptions, and anything else
+These do a repository search, filtered by language, for "ipld." This search
+finds references to ipld in project names, descriptions, and anything else
 GitHub finds relevant (this isn't actually documented very well by GitHub).
 
 GitHub limits the maximum results to 1K. We can get around this a little bit
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1068
+Total Matches: 36
 
-Total Results (Limited by GitHUB API): 267
+Total Results (Limited by GitHUB API): 18
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [treeder/ipfsutils](https://github.com/treeder/ipfsutils)| 0 | 0 | 22| 2019-08-17 | 2019-08-18 |
-| [DeedleFake/9ipfs](https://github.com/DeedleFake/9ipfs)| 0 | 0 | 4| 2019-08-13 | 2019-08-13 |
-| [DeedleFake/ipfs-pubpin](https://github.com/DeedleFake/ipfs-pubpin)| 0 | 0 | 7| 2019-08-02 | 2019-08-02 |
-| [hasyimibhar/avalanche](https://github.com/hasyimibhar/avalanche)| 1 | 0 | 5| 2019-07-22 | 2019-07-22 |
-| [RTradeLtd/cluster-lite](https://github.com/RTradeLtd/cluster-lite)| 0 | 0 | 133| 2019-07-17 | 2019-07-20 |
-| [dmcarrington/hlf-ipfs](https://github.com/dmcarrington/hlf-ipfs)| 0 | 0 | 51481| 2019-07-14 | 2019-08-11 |
-| [ItalyPaleAle/pinatapinner](https://github.com/ItalyPaleAle/pinatapinner)| 2 | 0 | 12| 2019-07-12 | 2019-07-28 |
-| [dtubenetwork/go-ds-sia](https://github.com/dtubenetwork/go-ds-sia)| 0 | 0 | 21| 2019-07-12 | 2019-07-18 |
-| [realChainLife/factory24-ipfs-course-test...](https://github.com/realChainLife/factory24-ipfs-course-tests)| 0 | 0 | 23| 2019-07-10 | 2019-07-10 |
-| [aanupam23/go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs)| 10 | 1 | 63| 2019-07-10 | 2019-08-12 |
+| [rvagg/go-ds-zipcar](https://github.com/rvagg/go-ds-zipcar)| 0 | 0 | 57| 2019-08-06 | 2019-08-13 |
+| [Netflix/p2plab](https://github.com/Netflix/p2plab)| 5 | 3 | 7103| 2019-07-27 | 2019-08-20 |
+| [whyrusleeping/ipld-schema](https://github.com/whyrusleeping/ipld-schema)| 4 | 0 | 15| 2019-07-01 | 2019-07-08 |
+| [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite)| 42 | 3 | 246| 2019-03-09 | 2019-08-12 |
+| [whyrusleeping/sharray](https://github.com/whyrusleeping/sharray)| 2 | 0 | 6| 2019-01-16 | 2019-07-18 |
+| [jonnycrunch/go-ipld-jsonld](https://github.com/jonnycrunch/go-ipld-jsonld)| 0 | 0 | 6| 2018-11-21 | 2018-07-13 |
+| [ipld/go-ipld-prime](https://github.com/ipld/go-ipld-prime)| 19 | 5 | 427| 2018-10-31 | 2019-08-15 |
+| [qri-io/go-ipld-manifest](https://github.com/qri-io/go-ipld-manifest)| 6 | 2 | 5| 2018-09-25 | 2018-09-25 |
+| [ipfs/go-unixfs](https://github.com/ipfs/go-unixfs)| 43 | 16 | 26665| 2018-07-30 | 2019-07-26 |
+| [computes/go-ipld-polymorph](https://github.com/computes/go-ipld-polymorph)| 1 | 4 | 46| 2018-02-05 | 2018-11-12 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 60550
+Total Matches: 118
 
-Total Results (Limited by GitHUB API): 1106
+Total Results (Limited by GitHUB API): 59
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [iuwqyir/ipfs-upload](https://github.com/iuwqyir/ipfs-upload)| 0 | 0 | 320| 2019-08-19 | 2019-08-19 |
-| [autonome/ipfs-stackbot](https://github.com/autonome/ipfs-stackbot)| 1 | 0 | 14| 2019-08-16 | 2019-08-17 |
-| [nparfen/Blockchain-Document-Management-S...](https://github.com/nparfen/Blockchain-Document-Management-System)| 0 | 0 | 945| 2019-08-16 | 2019-08-16 |
-| [SunCowbee/TruffleIpfs](https://github.com/SunCowbee/TruffleIpfs)| 0 | 0 | 341| 2019-08-15 | 2019-08-15 |
-| [MicroMolecula/using_IPFS_at_Express](https://github.com/MicroMolecula/using_IPFS_at_Express)| 0 | 0 | 18169| 2019-08-15 | 2019-08-15 |
-| [matryoshka-technologies/IPFS-Distributed...](https://github.com/matryoshka-technologies/IPFS-Distributed-Web-uploaded)| 0 | 0 | 488| 2019-08-14 | 2019-08-14 |
-| [ipfs/metrics](https://github.com/ipfs/metrics)| 4 | 0 | 279| 2019-08-13 | 2019-08-19 |
-| [jimpick/blockly-playground](https://github.com/jimpick/blockly-playground)| 4 | 0 | 28| 2019-08-13 | 2019-08-13 |
-| [vinmaxx99/zeta](https://github.com/vinmaxx99/zeta)| 0 | 0 | 738| 2019-08-13 | 2019-08-13 |
-| [bocahrokok/ipfs-app](https://github.com/bocahrokok/ipfs-app)| 0 | 0 | 46610| 2019-08-12 | 2019-08-14 |
+| [rvagg/js-ds-zipcar](https://github.com/rvagg/js-ds-zipcar)| 2 | 0 | 25| 2019-08-12 | 2019-08-13 |
+| [ipld/js-cli](https://github.com/ipld/js-cli)| 0 | 0 | 2| 2019-06-14 | 2019-08-14 |
+| [ipld/js-printify](https://github.com/ipld/js-printify)| 5 | 1 | 7| 2019-06-04 | 2019-08-14 |
+| [ipld/js-iq](https://github.com/ipld/js-iq)| 2 | 0 | 26| 2019-05-31 | 2019-08-14 |
+| [ipld/js-composites](https://github.com/ipld/js-composites)| 5 | 2 | 52| 2019-05-27 | 2019-08-08 |
+| [ipld/js-block](https://github.com/ipld/js-block)| 0 | 1 | 10| 2019-05-19 | 2019-06-10 |
+| [ipld/js-get-codec](https://github.com/ipld/js-get-codec)| 0 | 1 | 12| 2019-05-09 | 2019-08-14 |
+| [ipld/js-path-level-one](https://github.com/ipld/js-path-level-one)| 0 | 0 | 7| 2019-05-07 | 2019-08-14 |
+| [ipld/js-codec-interface](https://github.com/ipld/js-codec-interface)| 2 | 0 | 13| 2019-05-03 | 2019-08-14 |
+| [mikeal/js-ipld-http-storage](https://github.com/mikeal/js-ipld-http-storage)| 1 | 0 | 15| 2019-05-02 | 2019-08-19 |
 
 
 The above set is limited to the 10 most recently created. 
