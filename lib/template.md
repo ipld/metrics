@@ -1,8 +1,8 @@
 # metrics repo
 
-Regularly collect and log metrics about IPFS related projects.
+Regularly collect and log metrics about IPLD related projects.
 
-This repo contains a scheduled GitHub Action which pulls IPFS dependency data out of BigQuery and stores it 
+This repo contains a scheduled GitHub Action which pulls IPLD dependency data out of BigQuery and stores it 
 in [timestamped json](./logs) files in this repo.
 
 ## Recent Data
@@ -14,7 +14,7 @@ represent search interest relative to the highest point on the chart for the giv
 time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is 
 half as popular. Likewise a score of 0 means the term was less than 1% as popular as the peak."*
 
-This is the google trend data for searches of the term "IPFS" for the
+This is the google trend data for searches of the term "IPLD" for the
 last 12 months. The last 10 years is [available here.](./results/google-trends.md)
 
 
@@ -23,8 +23,8 @@ GOOGLE_TRENDS
 
 ### GitHub Search
 
-These do a repository search, filtered by language, for "ipfs." This search
-finds references to ipfs in project names, descriptions, and anything else
+These do a repository search, filtered by language, for "ipld." This search
+finds references to ipld in project names, descriptions, and anything else
 GitHub finds relevant (this isn't actually documented very well by GitHub).
 
 GitHub limits the maximum results to 1K. We can get around this a little bit
