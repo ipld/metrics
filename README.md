@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2019: 13
-*  7/2019: 16
-*  6/2019: 13
-*  5/2019: 22
-*  4/2019: 24
-*  3/2019: 13
-*  2/2019: 13
-*  1/2019: 12
-*  12/2018: 8
+*  8/2019: 12
+*  7/2019: 11
+*  6/2019: 8
+*  5/2019: 13
+*  4/2019: 18
+*  3/2019: 9
+*  2/2019: 8
+*  1/2019: 9
+*  12/2018: 11
 *  11/2018: 12
-*  10/2018: 14
-*  9/2018: 10
+*  10/2018: 10
+*  9/2018: 11
 
 ### GitHub Search
 
@@ -57,14 +57,14 @@ Total Results (Limited by GitHUB API): 18
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [rvagg/go-ds-zipcar](https://github.com/rvagg/go-ds-zipcar)| 0 | 0 | 57| 2019-08-06 | 2019-08-13 |
-| [Netflix/p2plab](https://github.com/Netflix/p2plab)| 5 | 3 | 7103| 2019-07-27 | 2019-08-20 |
+| [Netflix/p2plab](https://github.com/Netflix/p2plab)| 10 | 3 | 7504| 2019-07-27 | 2019-08-24 |
 | [whyrusleeping/ipld-schema](https://github.com/whyrusleeping/ipld-schema)| 4 | 0 | 15| 2019-07-01 | 2019-07-08 |
 | [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite)| 42 | 3 | 246| 2019-03-09 | 2019-08-12 |
 | [whyrusleeping/sharray](https://github.com/whyrusleeping/sharray)| 2 | 0 | 6| 2019-01-16 | 2019-07-18 |
 | [jonnycrunch/go-ipld-jsonld](https://github.com/jonnycrunch/go-ipld-jsonld)| 0 | 0 | 6| 2018-11-21 | 2018-07-13 |
 | [ipld/go-ipld-prime](https://github.com/ipld/go-ipld-prime)| 19 | 5 | 427| 2018-10-31 | 2019-08-15 |
 | [qri-io/go-ipld-manifest](https://github.com/qri-io/go-ipld-manifest)| 6 | 2 | 5| 2018-09-25 | 2018-09-25 |
-| [ipfs/go-unixfs](https://github.com/ipfs/go-unixfs)| 43 | 16 | 26665| 2018-07-30 | 2019-07-26 |
+| [ipfs/go-unixfs](https://github.com/ipfs/go-unixfs)| 43 | 16 | 26666| 2018-07-30 | 2019-08-23 |
 | [computes/go-ipld-polymorph](https://github.com/computes/go-ipld-polymorph)| 1 | 4 | 46| 2018-02-05 | 2018-11-12 |
 
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 118
+Total Matches: 124
 
-Total Results (Limited by GitHUB API): 59
+Total Results (Limited by GitHUB API): 62
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 349| 2019-08-25 | 2019-08-25 |
+| [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
+| [mikeal/ipld-schema-gen](https://github.com/mikeal/ipld-schema-gen)| 0 | 0 | 10| 2019-08-22 | 2019-08-22 |
 | [rvagg/js-ds-zipcar](https://github.com/rvagg/js-ds-zipcar)| 2 | 0 | 25| 2019-08-12 | 2019-08-13 |
 | [ipld/js-cli](https://github.com/ipld/js-cli)| 0 | 0 | 2| 2019-06-14 | 2019-08-14 |
 | [ipld/js-printify](https://github.com/ipld/js-printify)| 5 | 1 | 7| 2019-06-04 | 2019-08-14 |
 | [ipld/js-iq](https://github.com/ipld/js-iq)| 2 | 0 | 26| 2019-05-31 | 2019-08-14 |
-| [ipld/js-composites](https://github.com/ipld/js-composites)| 5 | 2 | 52| 2019-05-27 | 2019-08-08 |
+| [ipld/js-composites](https://github.com/ipld/js-composites)| 5 | 2 | 55| 2019-05-27 | 2019-08-23 |
 | [ipld/js-block](https://github.com/ipld/js-block)| 0 | 1 | 10| 2019-05-19 | 2019-06-10 |
-| [ipld/js-get-codec](https://github.com/ipld/js-get-codec)| 0 | 1 | 12| 2019-05-09 | 2019-08-14 |
-| [ipld/js-path-level-one](https://github.com/ipld/js-path-level-one)| 0 | 0 | 7| 2019-05-07 | 2019-08-14 |
-| [ipld/js-codec-interface](https://github.com/ipld/js-codec-interface)| 2 | 0 | 13| 2019-05-03 | 2019-08-14 |
-| [mikeal/js-ipld-http-storage](https://github.com/mikeal/js-ipld-http-storage)| 1 | 0 | 15| 2019-05-02 | 2019-08-19 |
+| [ipld/js-get-codec](https://github.com/ipld/js-get-codec)| 0 | 1 | 14| 2019-05-09 | 2019-08-21 |
 
 
 The above set is limited to the 10 most recently created. 
