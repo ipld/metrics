@@ -4,8 +4,8 @@ Total Results (Limited by GitHUB API): 63
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 4 | 0 | 17| 2019-08-26 | 2019-08-27 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 366| 2019-08-25 | 2019-08-27 |
+| [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 6 | 0 | 19| 2019-08-26 | 2019-08-28 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 375| 2019-08-25 | 2019-08-28 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
 | [mikeal/ipld-schema-gen](https://github.com/mikeal/ipld-schema-gen)| 0 | 0 | 10| 2019-08-22 | 2019-08-22 |
 | [rvagg/js-ds-zipcar](https://github.com/rvagg/js-ds-zipcar)| 2 | 0 | 25| 2019-08-12 | 2019-08-13 |
@@ -17,8 +17,8 @@ Total Results (Limited by GitHUB API): 63
 | [ipld/js-get-codec](https://github.com/ipld/js-get-codec)| 0 | 1 | 14| 2019-05-09 | 2019-08-21 |
 | [ipld/js-path-level-one](https://github.com/ipld/js-path-level-one)| 0 | 0 | 7| 2019-05-07 | 2019-08-14 |
 | [ipld/js-codec-interface](https://github.com/ipld/js-codec-interface)| 2 | 0 | 13| 2019-05-03 | 2019-08-14 |
-| [mikeal/js-ipld-http-storage](https://github.com/mikeal/js-ipld-http-storage)| 1 | 0 | 23| 2019-05-02 | 2019-08-27 |
-| [rvagg/js-ipld-schema](https://github.com/rvagg/js-ipld-schema)| 1 | 0 | 29| 2019-04-30 | 2019-05-10 |
+| [mikeal/js-ipld-http-storage](https://github.com/mikeal/js-ipld-http-storage)| 1 | 0 | 26| 2019-05-02 | 2019-08-28 |
+| [rvagg/js-ipld-schema](https://github.com/rvagg/js-ipld-schema)| 1 | 0 | 66| 2019-04-30 | 2019-08-28 |
 | [mikeal/ipld-http-block-store](https://github.com/mikeal/ipld-http-block-store)| 0 | 0 | 1| 2019-04-19 | 2019-04-19 |
 | [ipld/js-ipld-stack](https://github.com/ipld/js-ipld-stack)| 7 | 2 | 110| 2019-04-02 | 2019-05-23 |
 | [mikeal/dumb-collection](https://github.com/mikeal/dumb-collection)| 2 | 0 | 1| 2019-03-26 | 2019-03-26 |
