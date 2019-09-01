@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2019: 19
-*  7/2019: 20
-*  6/2019: 17
-*  5/2019: 45
-*  4/2019: 27
-*  3/2019: 16
-*  2/2019: 0
-*  1/2019: 7
+*  8/2019: 18
+*  7/2019: 9
+*  6/2019: 15
+*  5/2019: 28
+*  4/2019: 28
+*  3/2019: 21
+*  2/2019: 8
+*  1/2019: 15
 *  12/2018: 14
-*  11/2018: 27
+*  11/2018: 11
 *  10/2018: 6
-*  9/2018: 30
+*  9/2018: 14
 
 ### GitHub Search
 
@@ -80,7 +80,7 @@ Total Results (Limited by GitHUB API): 63
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 392| 2019-08-25 | 2019-08-30 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 401| 2019-08-25 | 2019-08-31 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
 | [mikeal/ipld-schema-gen](https://github.com/mikeal/ipld-schema-gen)| 0 | 0 | 13| 2019-08-22 | 2019-08-29 |
 | [rvagg/js-ds-zipcar](https://github.com/rvagg/js-ds-zipcar)| 2 | 0 | 25| 2019-08-12 | 2019-08-13 |
