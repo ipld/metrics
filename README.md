@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 0
-*  8/2019: 12
-*  7/2019: 9
-*  6/2019: 10
+*  9/2019: 11
+*  8/2019: 15
+*  7/2019: 8
+*  6/2019: 14
 *  5/2019: 12
-*  4/2019: 7
-*  3/2019: 10
-*  2/2019: 7
+*  4/2019: 15
+*  3/2019: 11
+*  2/2019: 9
 *  1/2019: 8
-*  12/2018: 7
-*  11/2018: 16
-*  10/2018: 9
+*  12/2018: 9
+*  11/2018: 11
+*  10/2018: 10
 
 ### GitHub Search
 
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 19
 | [jonnycrunch/go-ipld-jsonld](https://github.com/jonnycrunch/go-ipld-jsonld)| 0 | 0 | 6| 2018-11-21 | 2018-07-13 |
 | [ipld/go-ipld-prime](https://github.com/ipld/go-ipld-prime)| 19 | 5 | 468| 2018-10-31 | 2019-08-30 |
 | [qri-io/go-ipld-manifest](https://github.com/qri-io/go-ipld-manifest)| 6 | 2 | 5| 2018-09-25 | 2018-09-25 |
-| [ipfs/go-unixfs](https://github.com/ipfs/go-unixfs)| 43 | 18 | 26667| 2018-07-30 | 2019-08-27 |
+| [ipfs/go-unixfs](https://github.com/ipfs/go-unixfs)| 43 | 17 | 26667| 2018-07-30 | 2019-08-27 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -80,7 +80,7 @@ Total Results (Limited by GitHUB API): 63
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 455| 2019-08-25 | 2019-09-07 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 464| 2019-08-25 | 2019-09-08 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
 | [mikeal/ipld-schema-gen](https://github.com/mikeal/ipld-schema-gen)| 0 | 0 | 17| 2019-08-22 | 2019-09-07 |
 | [rvagg/js-ds-zipcar](https://github.com/rvagg/js-ds-zipcar)| 2 | 0 | 25| 2019-08-12 | 2019-08-13 |
