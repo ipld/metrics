@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 8
-*  8/2019: 15
-*  7/2019: 11
-*  6/2019: 14
-*  5/2019: 14
-*  4/2019: 12
-*  3/2019: 11
-*  2/2019: 9
-*  1/2019: 10
-*  12/2018: 10
-*  11/2018: 11
-*  10/2018: 11
+*  9/2019: 11
+*  8/2019: 14
+*  7/2019: 10
+*  6/2019: 7
+*  5/2019: 15
+*  4/2019: 17
+*  3/2019: 12
+*  2/2019: 7
+*  1/2019: 8
+*  12/2018: 6
+*  11/2018: 14
+*  10/2018: 5
 
 ### GitHub Search
 
@@ -57,13 +57,13 @@ Total Results (Limited by GitHUB API): 19
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 0 | 17| 2019-08-28 | 2019-08-29 |
-| [rvagg/go-ds-zipcar](https://github.com/rvagg/go-ds-zipcar)| 0 | 0 | 57| 2019-08-06 | 2019-08-13 |
+| [rvagg/go-ds-zipcar](https://github.com/rvagg/go-ds-zipcar)| 2 | 0 | 57| 2019-08-06 | 2019-08-13 |
 | [Netflix/p2plab](https://github.com/Netflix/p2plab)| 13 | 4 | 17114| 2019-07-27 | 2019-09-14 |
-| [ipld/go-ipld-schema](https://github.com/ipld/go-ipld-schema)| 4 | 0 | 41| 2019-07-01 | 2019-09-15 |
+| [ipld/go-ipld-schema](https://github.com/ipld/go-ipld-schema)| 4 | 0 | 47| 2019-07-01 | 2019-09-16 |
 | [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite)| 43 | 4 | 246| 2019-03-09 | 2019-08-12 |
 | [whyrusleeping/sharray](https://github.com/whyrusleeping/sharray)| 2 | 0 | 6| 2019-01-16 | 2019-07-18 |
 | [jonnycrunch/go-ipld-jsonld](https://github.com/jonnycrunch/go-ipld-jsonld)| 0 | 0 | 6| 2018-11-21 | 2018-07-13 |
-| [ipld/go-ipld-prime](https://github.com/ipld/go-ipld-prime)| 20 | 5 | 468| 2018-10-31 | 2019-08-30 |
+| [ipld/go-ipld-prime](https://github.com/ipld/go-ipld-prime)| 20 | 5 | 484| 2018-10-31 | 2019-09-16 |
 | [qri-io/go-ipld-manifest](https://github.com/qri-io/go-ipld-manifest)| 6 | 2 | 5| 2018-09-25 | 2018-09-25 |
 | [ipfs/go-unixfs](https://github.com/ipfs/go-unixfs)| 44 | 17 | 26667| 2018-07-30 | 2019-08-27 |
 
@@ -80,10 +80,10 @@ Total Results (Limited by GitHUB API): 63
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 531| 2019-08-25 | 2019-09-15 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 541| 2019-08-25 | 2019-09-16 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
-| [mikeal/ipld-schema-gen](https://github.com/mikeal/ipld-schema-gen)| 0 | 0 | 28| 2019-08-22 | 2019-09-14 |
-| [rvagg/js-ds-zipcar](https://github.com/rvagg/js-ds-zipcar)| 2 | 0 | 25| 2019-08-12 | 2019-08-13 |
+| [mikeal/ipld-schema-gen](https://github.com/mikeal/ipld-schema-gen)| 0 | 0 | 34| 2019-08-22 | 2019-09-16 |
+| [rvagg/js-ds-zipcar](https://github.com/rvagg/js-ds-zipcar)| 7 | 0 | 25| 2019-08-12 | 2019-08-13 |
 | [ipld/js-cli](https://github.com/ipld/js-cli)| 0 | 0 | 2| 2019-06-14 | 2019-08-14 |
 | [ipld/js-printify](https://github.com/ipld/js-printify)| 5 | 1 | 7| 2019-06-04 | 2019-08-14 |
 | [ipld/js-iq](https://github.com/ipld/js-iq)| 2 | 0 | 26| 2019-05-31 | 2019-08-14 |
