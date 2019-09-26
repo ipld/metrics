@@ -21,15 +21,15 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  9/2019: 9
-*  8/2019: 12
-*  7/2019: 6
+*  8/2019: 14
+*  7/2019: 12
 *  6/2019: 10
-*  5/2019: 10
-*  4/2019: 15
-*  3/2019: 11
-*  2/2019: 6
-*  1/2019: 8
-*  12/2018: 6
+*  5/2019: 14
+*  4/2019: 13
+*  3/2019: 9
+*  2/2019: 8
+*  1/2019: 5
+*  12/2018: 12
 *  11/2018: 10
 *  10/2018: 7
 
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 19
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 0 | 17| 2019-08-28 | 2019-09-20 |
 | [rvagg/go-ds-zipcar](https://github.com/rvagg/go-ds-zipcar)| 2 | 0 | 57| 2019-08-06 | 2019-08-13 |
-| [Netflix/p2plab](https://github.com/Netflix/p2plab)| 13 | 4 | 17120| 2019-07-27 | 2019-09-24 |
+| [Netflix/p2plab](https://github.com/Netflix/p2plab)| 13 | 4 | 17123| 2019-07-27 | 2019-09-25 |
 | [ipld/go-ipld-schema](https://github.com/ipld/go-ipld-schema)| 4 | 0 | 47| 2019-07-01 | 2019-09-16 |
 | [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite)| 44 | 4 | 246| 2019-03-09 | 2019-08-12 |
 | [whyrusleeping/sharray](https://github.com/whyrusleeping/sharray)| 2 | 0 | 6| 2019-01-16 | 2019-07-18 |
@@ -80,7 +80,7 @@ Total Results (Limited by GitHUB API): 63
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 622| 2019-08-25 | 2019-09-24 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 632| 2019-08-25 | 2019-09-25 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
 | [mikeal/ipld-schema-gen](https://github.com/mikeal/ipld-schema-gen)| 0 | 0 | 54| 2019-08-22 | 2019-09-20 |
 | [rvagg/js-ds-zipcar](https://github.com/rvagg/js-ds-zipcar)| 8 | 0 | 25| 2019-08-12 | 2019-08-13 |
