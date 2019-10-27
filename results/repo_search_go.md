@@ -24,4 +24,4 @@ Total Results (Limited by GitHUB API): 21
 | [ipfs/go-ipld-zcash](https://github.com/ipfs/go-ipld-zcash)| 13 | 2 | 40| 2016-10-28 | 2019-02-28 |
 | [ipfs/go-ipld-cbor](https://github.com/ipfs/go-ipld-cbor)| 23 | 20 | 131| 2016-10-24 | 2019-09-19 |
 | [ipfs/go-ipld-format](https://github.com/ipfs/go-ipld-format)| 44 | 15 | 77| 2016-10-14 | 2019-09-19 |
-| [ipld/go-ipld-deprecated](https://github.com/ipld/go-ipld-deprecated)| 32 | 13 | 49| 2015-07-23 | 2018-08-08 |
+| [ipld/go-ipld-deprecated](https://github.com/ipld/go-ipld-deprecated)| 32 | 12 | 49| 2015-07-23 | 2018-08-08 |
