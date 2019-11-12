@@ -6,7 +6,7 @@ Total Results (Limited by GitHUB API): 64
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 0 | 0 | 18| 2019-10-05 | 2019-10-06 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 792| 2019-08-25 | 2019-11-10 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 805| 2019-08-25 | 2019-11-11 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 0 | 0 | 80| 2019-08-22 | 2019-10-31 |
 | [rvagg/js-ds-zipcar](https://github.com/rvagg/js-ds-zipcar)| 8 | 0 | 25| 2019-08-12 | 2019-08-13 |
@@ -35,7 +35,7 @@ Total Results (Limited by GitHUB API): 64
 | [mikeal/linx](https://github.com/mikeal/linx)| 1 | 0 | 8| 2018-10-07 | 2018-10-07 |
 | [underlay/dweb-loader](https://github.com/underlay/dweb-loader)| 7 | 0 | 50| 2018-10-04 | 2019-08-19 |
 | [interplanetarymindmap/mind-map](https://github.com/interplanetarymindmap/mind-map)| 8 | 0 | 2008| 2018-09-20 | 2018-11-15 |
-| [ipfs-shipyard/ipld-explorer-components](https://github.com/ipfs-shipyard/ipld-explorer-components)| 6 | 2 | 4396| 2018-09-05 | 2019-11-10 |
+| [ipfs-shipyard/ipld-explorer-components](https://github.com/ipfs-shipyard/ipld-explorer-components)| 6 | 2 | 6029| 2018-09-05 | 2019-11-11 |
 | [jimpick/hypercore-simple-ipld](https://github.com/jimpick/hypercore-simple-ipld)| 3 | 0 | 22| 2018-09-04 | 2018-10-15 |
 | [ipld/js-dag-json](https://github.com/ipld/js-dag-json)| 2 | 0 | 32| 2018-08-14 | 2019-09-18 |
 | [vmx/dagbuilder](https://github.com/vmx/dagbuilder)| 2 | 0 | 30| 2018-08-10 | 2019-02-27 |
