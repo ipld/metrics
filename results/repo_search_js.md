@@ -4,10 +4,10 @@ Total Results (Limited by GitHUB API): 65
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 0| 2019-11-27 | 2019-11-27 |
+| [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 7| 2019-11-27 | 2019-11-27 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 0 | 0 | 18| 2019-10-05 | 2019-10-06 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1010| 2019-08-25 | 2019-11-26 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1024| 2019-08-25 | 2019-11-27 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 0 | 0 | 80| 2019-08-22 | 2019-10-31 |
 | [rvagg/js-ds-zipcar](https://github.com/rvagg/js-ds-zipcar)| 8 | 0 | 25| 2019-08-12 | 2019-08-13 |
@@ -67,5 +67,5 @@ Total Results (Limited by GitHUB API): 65
 | [ipld/js-ipld-eth-block](https://github.com/ipld/js-ipld-eth-block)| 11 | 3 | 31| 2016-10-03 | 2017-11-20 |
 | [ipld/react-ipld](https://github.com/ipld/react-ipld)| 4 | 2 | 22| 2016-07-05 | 2016-07-07 |
 | [ipld/js-ipld-cli](https://github.com/ipld/js-ipld-cli)| 12 | 4 | 14| 2016-04-11 | 2018-01-10 |
-| [ipld/js-ipld](https://github.com/ipld/js-ipld)| 101 | 33 | 1578| 2016-04-08 | 2019-11-20 |
+| [ipld/js-ipld](https://github.com/ipld/js-ipld)| 101 | 33 | 1580| 2016-04-08 | 2019-11-27 |
 | [ipld/js-ipld-dag-cbor](https://github.com/ipld/js-ipld-dag-cbor)| 46 | 20 | 153| 2015-08-27 | 2019-10-11 |
