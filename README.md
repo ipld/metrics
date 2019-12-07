@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 0
-*  11/2019: 14
-*  10/2019: 14
-*  9/2019: 5
-*  8/2019: 12
-*  7/2019: 20
-*  6/2019: 17
-*  5/2019: 21
-*  4/2019: 21
-*  3/2019: 15
-*  2/2019: 9
-*  1/2019: 10
+*  12/2019: 15
+*  11/2019: 6
+*  10/2019: 10
+*  9/2019: 3
+*  8/2019: 10
+*  7/2019: 10
+*  6/2019: 11
+*  5/2019: 16
+*  4/2019: 14
+*  3/2019: 13
+*  2/2019: 7
+*  1/2019: 7
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 22
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [rvagg/go-car-example](https://github.com/rvagg/go-car-example)| 0 | 0 | 15| 2019-12-05 | 2019-12-05 |
+| [rvagg/go-car-example](https://github.com/rvagg/go-car-example)| 0 | 0 | 16| 2019-12-05 | 2019-12-06 |
 | [ipld/go-ipld-prime-proto](https://github.com/ipld/go-ipld-prime-proto)| 0 | 0 | 44| 2019-10-25 | 2019-11-13 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 23| 2019-10-24 | 2019-11-21 |
 | [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 1 | 24| 2019-08-28 | 2019-12-05 |
@@ -82,7 +82,7 @@ Total Results (Limited by GitHUB API): 65
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 8| 2019-11-27 | 2019-12-03 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 0 | 0 | 18| 2019-10-05 | 2019-10-06 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1122| 2019-08-25 | 2019-12-05 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1136| 2019-08-25 | 2019-12-06 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 0 | 0 | 83| 2019-08-22 | 2019-12-03 |
 | [rvagg/js-ds-zipcar](https://github.com/rvagg/js-ds-zipcar)| 8 | 0 | 30| 2019-08-12 | 2019-12-02 |
