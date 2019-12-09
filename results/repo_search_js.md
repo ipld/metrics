@@ -5,9 +5,9 @@ Total Results (Limited by GitHUB API): 65
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 8| 2019-11-27 | 2019-12-03 |
-| [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 0 | 0 | 18| 2019-10-05 | 2019-10-06 |
+| [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 0 | 0 | 20| 2019-10-05 | 2019-12-08 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1151| 2019-08-25 | 2019-12-07 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1165| 2019-08-25 | 2019-12-08 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 0 | 0 | 83| 2019-08-22 | 2019-12-03 |
 | [rvagg/js-ds-zipcar](https://github.com/rvagg/js-ds-zipcar)| 8 | 0 | 30| 2019-08-12 | 2019-12-02 |
@@ -25,7 +25,7 @@ Total Results (Limited by GitHUB API): 65
 | [ipld/js-ipld-stack](https://github.com/ipld/js-ipld-stack)| 7 | 2 | 110| 2019-04-02 | 2019-05-23 |
 | [mikeal/dumb-collection](https://github.com/mikeal/dumb-collection)| 2 | 0 | 1| 2019-03-26 | 2019-03-26 |
 | [ipfs-shipyard/peer-base-pinner](https://github.com/ipfs-shipyard/peer-base-pinner)| 6 | 1 | 58| 2019-03-12 | 2019-05-07 |
-| [vasa-develop/ultimate-ipfs-series](https://github.com/vasa-develop/ultimate-ipfs-series)| 9 | 3 | 56| 2019-02-22 | 2019-11-29 |
+| [vasa-develop/ultimate-ipfs-series](https://github.com/vasa-develop/ultimate-ipfs-series)| 9 | 3 | 62| 2019-02-22 | 2019-12-08 |
 | [vmx/ipld-graphviz](https://github.com/vmx/ipld-graphviz)| 0 | 0 | 7| 2019-02-14 | 2019-06-03 |
 | [vmx/js-ipld-selectors](https://github.com/vmx/js-ipld-selectors)| 4 | 0 | 39| 2019-02-13 | 2019-03-06 |
 | [alanshaw/ipld-formats](https://github.com/alanshaw/ipld-formats)| 2 | 0 | 3539| 2019-01-17 | 2019-01-18 |
