@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 8
-*  11/2019: 9
-*  10/2019: 8
-*  9/2019: 8
-*  8/2019: 12
-*  7/2019: 8
-*  6/2019: 15
-*  5/2019: 10
-*  4/2019: 15
-*  3/2019: 9
-*  2/2019: 9
-*  1/2019: 10
+*  12/2019: 6
+*  11/2019: 4
+*  10/2019: 4
+*  9/2019: 7
+*  8/2019: 7
+*  7/2019: 4
+*  6/2019: 5
+*  5/2019: 7
+*  4/2019: 13
+*  3/2019: 6
+*  2/2019: 6
+*  1/2019: 5
 
 ### GitHub Search
 
@@ -64,7 +64,7 @@ Total Results (Limited by GitHUB API): 23
 | [rvagg/go-ds-zipcar](https://github.com/rvagg/go-ds-zipcar)| 2 | 0 | 57| 2019-08-06 | 2019-08-13 |
 | [Netflix/p2plab](https://github.com/Netflix/p2plab)| 23 | 7 | 16713| 2019-07-27 | 2019-11-07 |
 | [ipld/go-ipld-schema](https://github.com/ipld/go-ipld-schema)| 4 | 0 | 84| 2019-07-01 | 2019-10-18 |
-| [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite)| 71 | 8 | 279| 2019-03-09 | 2019-11-04 |
+| [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite)| 72 | 8 | 279| 2019-03-09 | 2019-11-04 |
 | [whyrusleeping/sharray](https://github.com/whyrusleeping/sharray)| 2 | 0 | 6| 2019-01-16 | 2019-07-18 |
 
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 132
+Total Matches: 134
 
-Total Results (Limited by GitHUB API): 66
+Total Results (Limited by GitHUB API): 67
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [mikeal/s3-block-store](https://github.com/mikeal/s3-block-store)| 2 | 0 | 2| 2019-12-10 | 2019-12-10 |
 | [rvagg/js-ipld-vector](https://github.com/rvagg/js-ipld-vector)| 1 | 0 | 20| 2019-12-09 | 2019-12-09 |
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 8| 2019-11-27 | 2019-12-03 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 0 | 0 | 20| 2019-10-05 | 2019-12-08 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1179| 2019-08-25 | 2019-12-09 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1194| 2019-08-25 | 2019-12-10 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 0 | 0 | 83| 2019-08-22 | 2019-12-03 |
 | [rvagg/js-ds-zipcar](https://github.com/rvagg/js-ds-zipcar)| 8 | 0 | 30| 2019-08-12 | 2019-12-02 |
 | [ipld/js-cli](https://github.com/ipld/js-cli)| 0 | 0 | 2| 2019-06-14 | 2019-08-14 |
-| [ipld/js-printify](https://github.com/ipld/js-printify)| 5 | 1 | 7| 2019-06-04 | 2019-08-14 |
 
 
 The above set is limited to the 10 most recently created. 
