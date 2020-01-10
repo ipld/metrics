@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 18
-*  12/2019: 13
-*  11/2019: 16
-*  10/2019: 16
-*  9/2019: 11
-*  8/2019: 20
-*  7/2019: 9
-*  6/2019: 16
-*  5/2019: 15
-*  4/2019: 31
-*  3/2019: 15
-*  2/2019: 13
+*  1/2020: 15
+*  12/2019: 8
+*  11/2019: 8
+*  10/2019: 7
+*  9/2019: 10
+*  8/2019: 11
+*  7/2019: 11
+*  6/2019: 11
+*  5/2019: 14
+*  4/2019: 17
+*  3/2019: 9
+*  2/2019: 7
 
 ### GitHub Search
 
@@ -62,9 +62,9 @@ Total Results (Limited by GitHUB API): 23
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 5 | 0 | 27| 2019-10-24 | 2020-01-07 |
 | [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 1 | 24| 2019-08-28 | 2019-12-05 |
 | [rvagg/go-datastore-zipcar](https://github.com/rvagg/go-datastore-zipcar)| 2 | 0 | 57| 2019-08-06 | 2019-08-13 |
-| [Netflix/p2plab](https://github.com/Netflix/p2plab)| 31 | 7 | 16713| 2019-07-27 | 2019-11-07 |
+| [Netflix/p2plab](https://github.com/Netflix/p2plab)| 30 | 7 | 16713| 2019-07-27 | 2019-11-07 |
 | [ipld/go-ipld-schema](https://github.com/ipld/go-ipld-schema)| 4 | 0 | 84| 2019-07-01 | 2019-10-18 |
-| [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite)| 73 | 10 | 308| 2019-03-09 | 2020-01-07 |
+| [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite)| 74 | 10 | 308| 2019-03-09 | 2020-01-07 |
 | [whyrusleeping/sharray](https://github.com/whyrusleeping/sharray)| 2 | 0 | 6| 2019-01-16 | 2019-07-18 |
 
 
@@ -82,9 +82,9 @@ Total Results (Limited by GitHUB API): 67
 | [mikeal/s3-block-store](https://github.com/mikeal/s3-block-store)| 2 | 0 | 2| 2019-12-10 | 2019-12-10 |
 | [rvagg/js-ipld-vector](https://github.com/rvagg/js-ipld-vector)| 1 | 0 | 20| 2019-12-09 | 2019-12-09 |
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 8| 2019-11-27 | 2019-12-03 |
-| [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 0 | 0 | 20| 2019-10-05 | 2019-12-08 |
+| [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 20| 2019-10-05 | 2019-12-08 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1075| 2019-08-25 | 2020-01-08 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1091| 2019-08-25 | 2020-01-09 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 0 | 0 | 83| 2019-08-22 | 2019-12-03 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |
