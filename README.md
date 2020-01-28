@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  1/2020: 12
-*  12/2019: 8
-*  11/2019: 6
+*  12/2019: 9
+*  11/2019: 8
 *  10/2019: 8
-*  9/2019: 8
-*  8/2019: 10
-*  7/2019: 8
-*  6/2019: 9
-*  5/2019: 7
-*  4/2019: 11
-*  3/2019: 8
-*  2/2019: 6
+*  9/2019: 9
+*  8/2019: 17
+*  7/2019: 12
+*  6/2019: 12
+*  5/2019: 13
+*  4/2019: 17
+*  3/2019: 16
+*  2/2019: 10
 
 ### GitHub Search
 
@@ -79,13 +79,13 @@ Total Results (Limited by GitHUB API): 68
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [nooron/noong](https://github.com/nooron/noong)| 0 | 0 | 19| 2020-01-26 | 2020-01-26 |
+| [nooron/noong](https://github.com/nooron/noong)| 0 | 0 | 42| 2020-01-26 | 2020-01-27 |
 | [mikeal/s3-block-store](https://github.com/mikeal/s3-block-store)| 2 | 0 | 2| 2019-12-10 | 2019-12-10 |
 | [rvagg/js-ipld-vector](https://github.com/rvagg/js-ipld-vector)| 1 | 0 | 20| 2019-12-09 | 2019-12-09 |
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 8| 2019-11-27 | 2019-12-03 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 22| 2019-10-05 | 2020-01-15 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1359| 2019-08-25 | 2020-01-26 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1377| 2019-08-25 | 2020-01-27 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 0 | 0 | 83| 2019-08-22 | 2019-12-03 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |
