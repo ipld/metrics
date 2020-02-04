@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 10
-*  12/2019: 5
+*  2/2020: 33
+*  1/2020: 8
+*  12/2019: 4
 *  11/2019: 6
-*  10/2019: 6
-*  9/2019: 8
-*  8/2019: 8
-*  7/2019: 6
+*  10/2019: 5
+*  9/2019: 4
+*  8/2019: 5
+*  7/2019: 3
 *  6/2019: 7
-*  5/2019: 10
-*  4/2019: 13
-*  3/2019: 7
-*  2/2019: 5
+*  5/2019: 8
+*  4/2019: 8
+*  3/2019: 4
 
 ### GitHub Search
 
@@ -84,7 +84,7 @@ Total Results (Limited by GitHUB API): 67
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 8| 2019-11-27 | 2019-12-03 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 22| 2019-10-05 | 2020-01-15 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1481| 2019-08-25 | 2020-02-02 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1498| 2019-08-25 | 2020-02-03 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 0 | 0 | 83| 2019-08-22 | 2019-12-03 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |
