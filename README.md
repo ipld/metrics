@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  2/2020: 0
-*  1/2020: 9
-*  12/2019: 8
-*  11/2019: 9
-*  10/2019: 8
-*  9/2019: 2
-*  8/2019: 11
-*  7/2019: 9
-*  6/2019: 12
-*  5/2019: 22
-*  4/2019: 13
-*  3/2019: 10
+*  1/2020: 12
+*  12/2019: 7
+*  11/2019: 14
+*  10/2019: 9
+*  9/2019: 9
+*  8/2019: 9
+*  7/2019: 8
+*  6/2019: 7
+*  5/2019: 14
+*  4/2019: 11
+*  3/2019: 15
 
 ### GitHub Search
 
@@ -50,14 +50,15 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 50
+Total Matches: 52
 
-Total Results (Limited by GitHUB API): 25
+Total Results (Limited by GitHUB API): 26
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [jameshih/ipld-bookstore](https://github.com/jameshih/ipld-bookstore)| 0 | 0 | 0| 2020-02-04 | 2020-02-04 |
-| [likecoin/likecoin-iscn-poc](https://github.com/likecoin/likecoin-iscn-poc)| 0 | 0 | 47| 2020-01-30 | 2020-01-30 |
+| [jameshih/ipld-bookstore](https://github.com/jameshih/ipld-bookstore)| 0 | 0 | 8| 2020-02-04 | 2020-02-05 |
+| [likecoin/likecoin-iscn-ipld](https://github.com/likecoin/likecoin-iscn-ipld)| 0 | 0 | 42| 2020-02-03 | 2020-02-05 |
+| [likecoin/likecoin-iscn-poc](https://github.com/likecoin/likecoin-iscn-poc)| 0 | 0 | 61| 2020-01-30 | 2020-02-05 |
 | [rvagg/go-car-example](https://github.com/rvagg/go-car-example)| 0 | 0 | 16| 2019-12-05 | 2019-12-06 |
 | [0zAND1z/redis-ipld-benchmark](https://github.com/0zAND1z/redis-ipld-benchmark)| 0 | 0 | 5| 2019-12-05 | 2019-12-08 |
 | [ipld/go-ipld-prime-proto](https://github.com/ipld/go-ipld-prime-proto)| 0 | 0 | 44| 2019-10-25 | 2019-11-13 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 25
 | [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 2 | 59| 2019-08-28 | 2020-01-31 |
 | [rvagg/go-datastore-zipcar](https://github.com/rvagg/go-datastore-zipcar)| 2 | 0 | 57| 2019-08-06 | 2019-08-13 |
 | [Netflix/p2plab](https://github.com/Netflix/p2plab)| 32 | 7 | 16640| 2019-07-27 | 2020-01-16 |
-| [ipld/go-ipld-schema](https://github.com/ipld/go-ipld-schema)| 4 | 0 | 84| 2019-07-01 | 2019-10-18 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -79,13 +79,13 @@ Total Results (Limited by GitHUB API): 68
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 0 | 0 | 0| 2020-02-05 | 2020-02-05 |
+| [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 1 | 0 | 1| 2020-02-05 | 2020-02-05 |
 | [mikeal/s3-block-store](https://github.com/mikeal/s3-block-store)| 2 | 0 | 2| 2019-12-10 | 2019-12-10 |
 | [rvagg/js-ipld-vector](https://github.com/rvagg/js-ipld-vector)| 1 | 0 | 20| 2019-12-09 | 2019-12-09 |
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 8| 2019-11-27 | 2019-12-03 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 22| 2019-10-05 | 2020-01-15 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1519| 2019-08-25 | 2020-02-04 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1537| 2019-08-25 | 2020-02-05 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 0 | 0 | 83| 2019-08-22 | 2019-12-03 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |
