@@ -1,6 +1,6 @@
-Total Matches: 136
+Total Matches: 134
 
-Total Results (Limited by GitHUB API): 68
+Total Results (Limited by GitHUB API): 67
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -10,7 +10,7 @@ Total Results (Limited by GitHUB API): 68
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 8| 2019-11-27 | 2019-12-03 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 22| 2019-10-05 | 2020-01-15 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1072| 2019-08-25 | 2020-02-20 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1090| 2019-08-25 | 2020-02-21 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 13| 2019-08-22 | 2019-08-22 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 0 | 0 | 83| 2019-08-22 | 2019-12-03 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |
@@ -32,7 +32,6 @@ Total Results (Limited by GitHUB API): 68
 | [vmx/ipld-graphviz](https://github.com/vmx/ipld-graphviz)| 0 | 0 | 7| 2019-02-14 | 2019-06-03 |
 | [vmx/js-ipld-selectors](https://github.com/vmx/js-ipld-selectors)| 4 | 0 | 39| 2019-02-13 | 2019-03-06 |
 | [alanshaw/ipld-formats](https://github.com/alanshaw/ipld-formats)| 2 | 0 | 3539| 2019-01-17 | 2019-01-18 |
-| [hazae41/ipfs-files.user.js](https://github.com/hazae41/ipfs-files.user.js)| 0 | 0 | 6| 2019-01-15 | 2019-01-15 |
 | [ipld/ipld-in-memory](https://github.com/ipld/ipld-in-memory)| 3 | 1 | 145| 2019-01-13 | 2020-02-05 |
 | [terorie/js-ipld-nimiq](https://github.com/terorie/js-ipld-nimiq)| 0 | 0 | 4| 2018-12-14 | 2018-12-14 |
 | [ipfs-shipyard/js-ipfs-versidag](https://github.com/ipfs-shipyard/js-ipfs-versidag)| 2 | 0 | 193| 2018-11-27 | 2018-12-11 |
