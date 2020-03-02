@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 15
-*  1/2020: 10
-*  12/2019: 5
-*  11/2019: 7
-*  10/2019: 7
-*  9/2019: 7
-*  8/2019: 10
-*  7/2019: 5
-*  6/2019: 7
-*  5/2019: 9
-*  4/2019: 12
+*  2/2020: 16
+*  1/2020: 13
+*  12/2019: 7
+*  11/2019: 9
+*  10/2019: 9
+*  9/2019: 12
+*  8/2019: 11
+*  7/2019: 10
+*  6/2019: 14
+*  5/2019: 12
+*  4/2019: 16
 *  3/2019: 8
 
 ### GitHub Search
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 26
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 5 | 0 | 31| 2019-10-24 | 2020-01-15 |
 | [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 2 | 59| 2019-08-28 | 2020-01-31 |
 | [rvagg/go-datastore-zipcar](https://github.com/rvagg/go-datastore-zipcar)| 2 | 0 | 57| 2019-08-06 | 2019-08-13 |
-| [Netflix/p2plab](https://github.com/Netflix/p2plab)| 73 | 11 | 16688| 2019-07-27 | 2020-02-19 |
+| [Netflix/p2plab](https://github.com/Netflix/p2plab)| 74 | 11 | 16688| 2019-07-27 | 2020-02-19 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -88,7 +88,7 @@ Total Results (Limited by GitHUB API): 70
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 8| 2019-11-27 | 2019-12-03 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 22| 2019-10-05 | 2020-01-15 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1243| 2019-08-25 | 2020-02-29 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1262| 2019-08-25 | 2020-03-01 |
 
 
 The above set is limited to the 10 most recently created. 
