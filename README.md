@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2020: 16
-*  2/2020: 21
-*  1/2020: 14
-*  12/2019: 9
+*  3/2020: 27
+*  2/2020: 23
+*  1/2020: 11
+*  12/2019: 6
 *  11/2019: 11
-*  10/2019: 12
-*  9/2019: 11
-*  8/2019: 18
-*  7/2019: 7
-*  6/2019: 13
-*  5/2019: 15
-*  4/2019: 15
+*  10/2019: 6
+*  9/2019: 9
+*  8/2019: 20
+*  7/2019: 13
+*  6/2019: 18
+*  5/2019: 12
+*  4/2019: 17
 
 ### GitHub Search
 
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 26
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 5 | 0 | 31| 2019-10-24 | 2020-01-15 |
 | [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 2 | 59| 2019-08-28 | 2020-01-31 |
 | [rvagg/go-datastore-zipcar](https://github.com/rvagg/go-datastore-zipcar)| 2 | 0 | 57| 2019-08-06 | 2019-08-13 |
-| [Netflix/p2plab](https://github.com/Netflix/p2plab)| 79 | 13 | 16688| 2019-07-27 | 2020-02-19 |
+| [Netflix/p2plab](https://github.com/Netflix/p2plab)| 80 | 13 | 16688| 2019-07-27 | 2020-02-19 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -81,14 +81,14 @@ Total Results (Limited by GitHUB API): 70
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
 | [mikeal/ipld-schema-validation](https://github.com/mikeal/ipld-schema-validation)| 0 | 0 | 15| 2020-02-27 | 2020-03-15 |
-| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 7 | 2 | 128| 2020-02-13 | 2020-03-15 |
+| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 7 | 2 | 144| 2020-02-13 | 2020-03-16 |
 | [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 1 | 0 | 1| 2020-02-05 | 2020-02-05 |
 | [mikeal/s3-block-store](https://github.com/mikeal/s3-block-store)| 2 | 0 | 2| 2019-12-10 | 2019-12-10 |
 | [rvagg/js-ipld-vector](https://github.com/rvagg/js-ipld-vector)| 1 | 0 | 20| 2019-12-09 | 2019-12-09 |
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 8| 2019-11-27 | 2019-12-03 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 22| 2019-10-05 | 2020-01-15 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1544| 2019-08-25 | 2020-03-15 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1564| 2019-08-25 | 2020-03-16 |
 
 
 The above set is limited to the 10 most recently created. 
