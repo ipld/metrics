@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2020: 9
-*  2/2020: 13
-*  1/2020: 17
-*  12/2019: 7
-*  11/2019: 11
-*  10/2019: 5
-*  9/2019: 6
-*  8/2019: 7
-*  7/2019: 12
-*  6/2019: 10
-*  5/2019: 17
-*  4/2019: 11
+*  3/2020: 8
+*  2/2020: 10
+*  1/2020: 9
+*  12/2019: 8
+*  11/2019: 5
+*  10/2019: 7
+*  9/2019: 8
+*  8/2019: 6
+*  7/2019: 9
+*  6/2019: 6
+*  5/2019: 9
+*  4/2019: 12
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 142
+Total Matches: 144
 
-Total Results (Limited by GitHUB API): 71
+Total Results (Limited by GitHUB API): 72
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 0 | 0 | 1792| 2020-03-20 | 2020-03-25 |
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
 | [mikeal/ipld-schema-validation](https://github.com/mikeal/ipld-schema-validation)| 0 | 0 | 23| 2020-02-27 | 2020-03-21 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 71
 | [rvagg/js-ipld-vector](https://github.com/rvagg/js-ipld-vector)| 1 | 0 | 20| 2019-12-09 | 2019-12-09 |
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 8| 2019-11-27 | 2019-12-03 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 40| 2019-10-05 | 2020-03-17 |
-| [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
 
 
 The above set is limited to the 10 most recently created. 
