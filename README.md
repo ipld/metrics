@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2020: 12
-*  2/2020: 15
-*  1/2020: 10
-*  12/2019: 7
-*  11/2019: 8
-*  10/2019: 9
-*  9/2019: 6
-*  8/2019: 12
-*  7/2019: 10
-*  6/2019: 8
-*  5/2019: 11
-*  4/2019: 10
+*  3/2020: 6
+*  2/2020: 16
+*  1/2020: 12
+*  12/2019: 9
+*  11/2019: 12
+*  10/2019: 10
+*  9/2019: 9
+*  8/2019: 11
+*  7/2019: 14
+*  6/2019: 10
+*  5/2019: 9
+*  4/2019: 16
 
 ### GitHub Search
 
@@ -61,7 +61,7 @@ Total Results (Limited by GitHUB API): 26
 | [likecoin/iscn-poc](https://github.com/likecoin/iscn-poc)| 0 | 0 | 74| 2020-01-30 | 2020-03-02 |
 | [rvagg/go-car-example](https://github.com/rvagg/go-car-example)| 0 | 0 | 16| 2019-12-05 | 2019-12-06 |
 | [0zAND1z/redis-ipld-benchmark](https://github.com/0zAND1z/redis-ipld-benchmark)| 0 | 0 | 5| 2019-12-05 | 2019-12-08 |
-| [ipld/go-ipld-prime-proto](https://github.com/ipld/go-ipld-prime-proto)| 0 | 0 | 44| 2019-10-25 | 2019-11-13 |
+| [ipld/go-ipld-prime-proto](https://github.com/ipld/go-ipld-prime-proto)| 0 | 0 | 90| 2019-10-25 | 2020-03-31 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 5 | 0 | 31| 2019-10-24 | 2020-01-15 |
 | [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 2 | 59| 2019-08-28 | 2020-01-31 |
 | [rvagg/go-datastore-zipcar](https://github.com/rvagg/go-datastore-zipcar)| 2 | 0 | 57| 2019-08-06 | 2019-08-13 |
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 72
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 0 | 0 | 1792| 2020-03-20 | 2020-03-25 |
+| [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 1 | 0 | 1792| 2020-03-20 | 2020-03-25 |
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
 | [mikeal/ipld-schema-validation](https://github.com/mikeal/ipld-schema-validation)| 0 | 0 | 23| 2020-02-27 | 2020-03-21 |
