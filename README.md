@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 19
-*  3/2020: 11
-*  2/2020: 17
-*  1/2020: 11
-*  12/2019: 8
-*  11/2019: 6
-*  10/2019: 3
-*  9/2019: 8
-*  8/2019: 10
-*  7/2019: 5
-*  6/2019: 13
-*  5/2019: 14
+*  4/2020: 17
+*  3/2020: 9
+*  2/2020: 31
+*  1/2020: 10
+*  12/2019: 13
+*  11/2019: 11
+*  10/2019: 8
+*  9/2019: 11
+*  8/2019: 20
+*  7/2019: 11
+*  6/2019: 14
+*  5/2019: 8
 
 ### GitHub Search
 
@@ -63,7 +63,7 @@ Total Results (Limited by GitHUB API): 26
 | [0zAND1z/redis-ipld-benchmark](https://github.com/0zAND1z/redis-ipld-benchmark)| 0 | 0 | 5| 2019-12-05 | 2019-12-08 |
 | [ipld/go-ipld-prime-proto](https://github.com/ipld/go-ipld-prime-proto)| 0 | 0 | 90| 2019-10-25 | 2020-03-31 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 5 | 0 | 31| 2019-10-24 | 2020-01-15 |
-| [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 2 | 59| 2019-08-28 | 2020-01-31 |
+| [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 2 | 61| 2019-08-28 | 2020-04-06 |
 | [rvagg/go-datastore-zipcar](https://github.com/rvagg/go-datastore-zipcar)| 2 | 0 | 57| 2019-08-06 | 2019-08-13 |
 | [Netflix/p2plab](https://github.com/Netflix/p2plab)| 81 | 15 | 16729| 2019-07-27 | 2020-03-27 |
 
