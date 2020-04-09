@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 17
-*  3/2020: 14
-*  2/2020: 19
-*  1/2020: 18
-*  12/2019: 9
-*  11/2019: 19
-*  10/2019: 3
-*  9/2019: 10
+*  4/2020: 0
+*  3/2020: 15
+*  2/2020: 24
+*  1/2020: 13
+*  12/2019: 7
+*  11/2019: 7
+*  10/2019: 17
+*  9/2019: 0
 *  8/2019: 7
-*  7/2019: 0
-*  6/2019: 3
-*  5/2019: 10
+*  7/2019: 14
+*  6/2019: 0
+*  5/2019: 18
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 52
+Total Matches: 54
 
-Total Results (Limited by GitHUB API): 26
+Total Results (Limited by GitHUB API): 27
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [cuitaixiang/go-ipld-prime-notes](https://github.com/cuitaixiang/go-ipld-prime-notes)| 0 | 0 | 858| 2020-04-08 | 2020-04-08 |
 | [jameshih/ipld-bookstore](https://github.com/jameshih/ipld-bookstore)| 0 | 0 | 8| 2020-02-04 | 2020-02-05 |
 | [likecoin/iscn-ipld](https://github.com/likecoin/iscn-ipld)| 0 | 0 | 46| 2020-02-03 | 2020-03-02 |
 | [likecoin/iscn-poc](https://github.com/likecoin/iscn-poc)| 0 | 0 | 74| 2020-01-30 | 2020-03-02 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 26
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 5 | 0 | 31| 2019-10-24 | 2020-01-15 |
 | [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 2 | 61| 2019-08-28 | 2020-04-06 |
 | [rvagg/go-datastore-zipcar](https://github.com/rvagg/go-datastore-zipcar)| 2 | 0 | 57| 2019-08-06 | 2019-08-13 |
-| [Netflix/p2plab](https://github.com/Netflix/p2plab)| 81 | 15 | 16729| 2019-07-27 | 2020-03-27 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -83,7 +83,7 @@ Total Results (Limited by GitHUB API): 72
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
 | [ipld/js-schema-validation](https://github.com/ipld/js-schema-validation)| 0 | 0 | 29| 2020-02-27 | 2020-04-01 |
-| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 13 | 2 | 587| 2020-02-13 | 2020-04-07 |
+| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 13 | 2 | 720| 2020-02-13 | 2020-04-08 |
 | [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 1 | 0 | 1| 2020-02-05 | 2020-02-05 |
 | [mikeal/s3-block-store](https://github.com/mikeal/s3-block-store)| 2 | 0 | 2| 2019-12-10 | 2019-12-10 |
 | [rvagg/js-ipld-vector](https://github.com/rvagg/js-ipld-vector)| 1 | 0 | 20| 2019-12-09 | 2019-12-09 |
