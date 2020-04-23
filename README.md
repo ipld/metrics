@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 7
-*  3/2020: 8
-*  2/2020: 6
-*  1/2020: 7
-*  12/2019: 4
-*  11/2019: 4
-*  10/2019: 4
-*  9/2019: 4
-*  8/2019: 7
+*  4/2020: 3
+*  3/2020: 9
+*  2/2020: 9
+*  1/2020: 9
+*  12/2019: 3
+*  11/2019: 10
+*  10/2019: 5
+*  9/2019: 5
+*  8/2019: 5
 *  7/2019: 7
-*  6/2019: 9
-*  5/2019: 8
+*  6/2019: 10
+*  5/2019: 7
 
 ### GitHub Search
 
@@ -63,7 +63,7 @@ Total Results (Limited by GitHUB API): 28
 | [likecoin/iscn-poc](https://github.com/likecoin/iscn-poc)| 1 | 0 | 74| 2020-01-30 | 2020-03-02 |
 | [rvagg/go-car-example](https://github.com/rvagg/go-car-example)| 0 | 0 | 16| 2019-12-05 | 2019-12-06 |
 | [0zAND1z/redis-ipld-benchmark](https://github.com/0zAND1z/redis-ipld-benchmark)| 0 | 0 | 5| 2019-12-05 | 2019-12-08 |
-| [ipld/go-ipld-prime-proto](https://github.com/ipld/go-ipld-prime-proto)| 0 | 0 | 82| 2019-10-25 | 2020-04-09 |
+| [ipld/go-ipld-prime-proto](https://github.com/ipld/go-ipld-prime-proto)| 0 | 0 | 107| 2019-10-25 | 2020-04-22 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 6 | 0 | 31| 2019-10-24 | 2020-01-15 |
 | [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 2 | 61| 2019-08-28 | 2020-04-06 |
 
