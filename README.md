@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 3
+*  4/2020: 10
 *  3/2020: 9
-*  2/2020: 9
-*  1/2020: 9
-*  12/2019: 3
-*  11/2019: 10
-*  10/2019: 5
-*  9/2019: 5
-*  8/2019: 5
-*  7/2019: 7
-*  6/2019: 10
-*  5/2019: 7
+*  2/2020: 14
+*  1/2020: 17
+*  12/2019: 6
+*  11/2019: 8
+*  10/2019: 9
+*  9/2019: 6
+*  8/2019: 18
+*  7/2019: 13
+*  6/2019: 15
+*  5/2019: 10
 
 ### GitHub Search
 
@@ -63,7 +63,7 @@ Total Results (Limited by GitHUB API): 28
 | [likecoin/iscn-poc](https://github.com/likecoin/iscn-poc)| 1 | 0 | 74| 2020-01-30 | 2020-03-02 |
 | [rvagg/go-car-example](https://github.com/rvagg/go-car-example)| 0 | 0 | 16| 2019-12-05 | 2019-12-06 |
 | [0zAND1z/redis-ipld-benchmark](https://github.com/0zAND1z/redis-ipld-benchmark)| 0 | 0 | 5| 2019-12-05 | 2019-12-08 |
-| [ipld/go-ipld-prime-proto](https://github.com/ipld/go-ipld-prime-proto)| 0 | 0 | 107| 2019-10-25 | 2020-04-22 |
+| [ipld/go-ipld-prime-proto](https://github.com/ipld/go-ipld-prime-proto)| 0 | 0 | 107| 2019-10-25 | 2020-04-23 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 6 | 0 | 31| 2019-10-24 | 2020-01-15 |
 | [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 2 | 61| 2019-08-28 | 2020-04-06 |
 
@@ -83,7 +83,7 @@ Total Results (Limited by GitHUB API): 72
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
 | [ipld/js-schema-validation](https://github.com/ipld/js-schema-validation)| 0 | 0 | 29| 2020-02-27 | 2020-04-01 |
-| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 14 | 2 | 268| 2020-02-13 | 2020-04-21 |
+| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 14 | 2 | 276| 2020-02-13 | 2020-04-23 |
 | [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 1 | 0 | 1| 2020-02-05 | 2020-02-05 |
 | [mikeal/s3-block-store](https://github.com/mikeal/s3-block-store)| 2 | 0 | 2| 2019-12-10 | 2019-12-10 |
 | [rvagg/js-ipld-vector](https://github.com/rvagg/js-ipld-vector)| 1 | 0 | 20| 2019-12-09 | 2019-12-09 |
