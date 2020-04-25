@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 10
-*  3/2020: 9
-*  2/2020: 14
-*  1/2020: 17
-*  12/2019: 6
-*  11/2019: 8
-*  10/2019: 9
-*  9/2019: 6
-*  8/2019: 18
-*  7/2019: 13
-*  6/2019: 15
-*  5/2019: 10
+*  4/2020: 11
+*  3/2020: 8
+*  2/2020: 21
+*  1/2020: 14
+*  12/2019: 9
+*  11/2019: 7
+*  10/2019: 7
+*  9/2019: 17
+*  8/2019: 17
+*  7/2019: 4
+*  6/2019: 16
+*  5/2019: 17
 
 ### GitHub Search
 
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 28
 | [0zAND1z/redis-ipld-benchmark](https://github.com/0zAND1z/redis-ipld-benchmark)| 0 | 0 | 5| 2019-12-05 | 2019-12-08 |
 | [ipld/go-ipld-prime-proto](https://github.com/ipld/go-ipld-prime-proto)| 0 | 0 | 107| 2019-10-25 | 2020-04-23 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 6 | 0 | 31| 2019-10-24 | 2020-01-15 |
-| [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 2 | 61| 2019-08-28 | 2020-04-06 |
+| [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 2 | 73| 2019-08-28 | 2020-04-24 |
 
 
 The above set is limited to the 10 most recently created. 
