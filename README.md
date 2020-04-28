@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 7
-*  3/2020: 8
-*  2/2020: 9
-*  1/2020: 10
-*  12/2019: 4
-*  11/2019: 5
-*  10/2019: 9
-*  9/2019: 6
-*  8/2019: 5
-*  7/2019: 3
-*  6/2019: 9
-*  5/2019: 9
+*  4/2020: 5
+*  3/2020: 12
+*  2/2020: 10
+*  1/2020: 11
+*  12/2019: 5
+*  11/2019: 2
+*  10/2019: 6
+*  9/2019: 4
+*  8/2019: 4
+*  7/2019: 7
+*  6/2019: 8
+*  5/2019: 12
 
 ### GitHub Search
 
@@ -61,7 +61,7 @@ Total Results (Limited by GitHUB API): 28
 | [jameshih/ipld-bookstore](https://github.com/jameshih/ipld-bookstore)| 0 | 0 | 8| 2020-02-04 | 2020-02-05 |
 | [likecoin/iscn-ipld](https://github.com/likecoin/iscn-ipld)| 1 | 0 | 46| 2020-02-03 | 2020-03-02 |
 | [likecoin/iscn-poc](https://github.com/likecoin/iscn-poc)| 1 | 0 | 74| 2020-01-30 | 2020-03-02 |
-| [rvagg/go-car-example](https://github.com/rvagg/go-car-example)| 0 | 0 | 16| 2019-12-05 | 2019-12-06 |
+| [rvagg/go-car-example](https://github.com/rvagg/go-car-example)| 0 | 1 | 16| 2019-12-05 | 2019-12-06 |
 | [0zAND1z/redis-ipld-benchmark](https://github.com/0zAND1z/redis-ipld-benchmark)| 0 | 0 | 5| 2019-12-05 | 2019-12-08 |
 | [ipld/go-ipld-prime-proto](https://github.com/ipld/go-ipld-prime-proto)| 0 | 0 | 107| 2019-10-25 | 2020-04-23 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 6 | 0 | 31| 2019-10-24 | 2020-01-15 |
