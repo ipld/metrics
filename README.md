@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
+*  5/2020: 56
 *  4/2020: 4
-*  3/2020: 5
-*  2/2020: 16
-*  1/2020: 4
-*  12/2019: 2
-*  11/2019: 6
-*  10/2019: 6
-*  9/2019: 11
-*  8/2019: 9
-*  7/2019: 2
-*  6/2019: 7
-*  5/2019: 4
+*  3/2020: 13
+*  2/2020: 11
+*  1/2020: 10
+*  12/2019: 7
+*  11/2019: 11
+*  10/2019: 9
+*  9/2019: 6
+*  8/2019: 7
+*  7/2019: 10
+*  6/2019: 6
 
 ### GitHub Search
 
@@ -59,8 +59,8 @@ Total Results (Limited by GitHUB API): 28
 | [jhamPac/purple](https://github.com/jhamPac/purple)| 0 | 0 | 4| 2020-04-19 | 2020-04-20 |
 | [cuitaixiang/go-ipld-prime-notes](https://github.com/cuitaixiang/go-ipld-prime-notes)| 0 | 0 | 867| 2020-04-08 | 2020-04-14 |
 | [jameshih/ipld-bookstore](https://github.com/jameshih/ipld-bookstore)| 0 | 0 | 8| 2020-02-04 | 2020-02-05 |
-| [likecoin/iscn-ipld](https://github.com/likecoin/iscn-ipld)| 1 | 0 | 46| 2020-02-03 | 2020-03-02 |
-| [likecoin/iscn-poc](https://github.com/likecoin/iscn-poc)| 1 | 0 | 74| 2020-01-30 | 2020-03-02 |
+| [likecoin/iscn-ipld](https://github.com/likecoin/iscn-ipld)| 1 | 1 | 76| 2020-02-03 | 2020-05-05 |
+| [likecoin/iscn-poc](https://github.com/likecoin/iscn-poc)| 1 | 1 | 130| 2020-01-30 | 2020-05-05 |
 | [rvagg/go-car-example](https://github.com/rvagg/go-car-example)| 0 | 1 | 16| 2019-12-05 | 2019-12-06 |
 | [0zAND1z/redis-ipld-benchmark](https://github.com/0zAND1z/redis-ipld-benchmark)| 0 | 0 | 5| 2019-12-05 | 2019-12-08 |
 | [ipld/go-ipld-prime-proto](https://github.com/ipld/go-ipld-prime-proto)| 0 | 0 | 108| 2019-10-25 | 2020-04-28 |
