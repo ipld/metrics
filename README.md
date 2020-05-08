@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 25
-*  4/2020: 3
-*  3/2020: 10
-*  2/2020: 12
-*  1/2020: 15
-*  12/2019: 5
-*  11/2019: 12
-*  10/2019: 9
-*  9/2019: 7
-*  8/2019: 4
-*  7/2019: 7
-*  6/2019: 7
+*  5/2020: 14
+*  4/2020: 5
+*  3/2020: 9
+*  2/2020: 9
+*  1/2020: 10
+*  12/2019: 6
+*  11/2019: 8
+*  10/2019: 5
+*  9/2019: 5
+*  8/2019: 8
+*  7/2019: 3
+*  6/2019: 12
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 56
+Total Matches: 58
 
-Total Results (Limited by GitHUB API): 28
+Total Results (Limited by GitHUB API): 29
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [creationix/sel-parse-go](https://github.com/creationix/sel-parse-go)| 0 | 0 | 3| 2020-05-07 | 2020-05-07 |
 | [jhamPac/purple](https://github.com/jhamPac/purple)| 0 | 0 | 4| 2020-04-19 | 2020-04-20 |
 | [cuitaixiang/go-ipld-prime-notes](https://github.com/cuitaixiang/go-ipld-prime-notes)| 0 | 0 | 867| 2020-04-08 | 2020-04-14 |
 | [jameshih/ipld-bookstore](https://github.com/jameshih/ipld-bookstore)| 0 | 0 | 8| 2020-02-04 | 2020-02-05 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 28
 | [0zAND1z/redis-ipld-benchmark](https://github.com/0zAND1z/redis-ipld-benchmark)| 0 | 0 | 5| 2019-12-05 | 2019-12-08 |
 | [ipld/go-ipld-prime-proto](https://github.com/ipld/go-ipld-prime-proto)| 0 | 0 | 108| 2019-10-25 | 2020-04-28 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 6 | 0 | 31| 2019-10-24 | 2020-01-15 |
-| [filecoin-project/go-amt-ipld](https://github.com/filecoin-project/go-amt-ipld)| 1 | 2 | 73| 2019-08-28 | 2020-04-24 |
 
 
 The above set is limited to the 10 most recently created. 
