@@ -1,9 +1,10 @@
-Total Matches: 144
+Total Matches: 146
 
-Total Results (Limited by GitHUB API): 72
+Total Results (Limited by GitHUB API): 73
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 156| 2020-05-12 | 2020-05-12 |
 | [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 1 | 0 | 1792| 2020-03-20 | 2020-03-25 |
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
@@ -15,7 +16,7 @@ Total Results (Limited by GitHUB API): 72
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 8| 2019-11-27 | 2019-12-03 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 58| 2019-10-05 | 2020-04-03 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1704| 2019-08-25 | 2020-05-11 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1728| 2019-08-25 | 2020-05-12 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 14| 2019-08-22 | 2020-03-20 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 0 | 0 | 83| 2019-08-22 | 2019-12-03 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |
@@ -45,7 +46,7 @@ Total Results (Limited by GitHUB API): 72
 | [interplanetarymindmap/mind-map](https://github.com/interplanetarymindmap/mind-map)| 8 | 0 | 2008| 2018-09-20 | 2018-11-15 |
 | [ipfs-shipyard/ipld-explorer-components](https://github.com/ipfs-shipyard/ipld-explorer-components)| 8 | 3 | 3390| 2018-09-05 | 2020-04-27 |
 | [jimpick/hypercore-simple-ipld](https://github.com/jimpick/hypercore-simple-ipld)| 3 | 0 | 22| 2018-09-04 | 2018-10-15 |
-| [ipld/js-dag-json](https://github.com/ipld/js-dag-json)| 2 | 0 | 37| 2018-08-14 | 2020-03-09 |
+| [ipld/js-dag-json](https://github.com/ipld/js-dag-json)| 2 | 0 | 41| 2018-08-14 | 2020-05-12 |
 | [vmx/dagbuilder](https://github.com/vmx/dagbuilder)| 2 | 0 | 29| 2018-08-10 | 2020-04-29 |
 | [mikeal/graph-push](https://github.com/mikeal/graph-push)| 1 | 0 | 43| 2018-07-03 | 2018-07-07 |
 | [fiatjaf/data](https://github.com/fiatjaf/data)| 0 | 0 | 1| 2018-07-01 | 2018-07-01 |
@@ -62,7 +63,7 @@ Total Results (Limited by GitHUB API): 72
 | [xStorage/xS-js-ipld-zcash](https://github.com/xStorage/xS-js-ipld-zcash)| 0 | 0 | 29| 2018-06-09 | 2018-06-09 |
 | [xStorage/xS-js-ipld-dag-pb](https://github.com/xStorage/xS-js-ipld-dag-pb)| 0 | 0 | 30| 2018-06-09 | 2018-06-13 |
 | [xStorage/xS-js-ipld-dag-cbor](https://github.com/xStorage/xS-js-ipld-dag-cbor)| 0 | 0 | 20| 2018-06-09 | 2018-06-13 |
-| [tableflip/ipld-explorer-cli](https://github.com/tableflip/ipld-explorer-cli)| 22 | 8 | 470| 2018-04-18 | 2018-11-09 |
+| [tableflip/ipld-explorer-cli](https://github.com/tableflip/ipld-explorer-cli)| 21 | 8 | 470| 2018-04-18 | 2018-11-09 |
 | [ipld/js-ipld-zcash](https://github.com/ipld/js-ipld-zcash)| 12 | 1 | 4017| 2018-01-22 | 2020-05-07 |
 | [ipld/js-ipld-bitcoin](https://github.com/ipld/js-ipld-bitcoin)| 9 | 8 | 8533| 2018-01-05 | 2020-05-10 |
 | [ipld/js-ipld-raw](https://github.com/ipld/js-ipld-raw)| 4 | 2 | 1231| 2017-08-25 | 2020-05-07 |
