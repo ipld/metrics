@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 10
-*  4/2020: 5
-*  3/2020: 8
-*  2/2020: 13
-*  1/2020: 12
-*  12/2019: 4
-*  11/2019: 8
-*  10/2019: 15
-*  9/2019: 12
-*  8/2019: 13
-*  7/2019: 10
-*  6/2019: 9
+*  5/2020: 5
+*  4/2020: 7
+*  3/2020: 5
+*  2/2020: 9
+*  1/2020: 11
+*  12/2019: 7
+*  11/2019: 6
+*  10/2019: 8
+*  9/2019: 6
+*  8/2019: 8
+*  7/2019: 8
+*  6/2019: 7
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 124
+Total Matches: 146
 
-Total Results (Limited by GitHUB API): 62
+Total Results (Limited by GitHUB API): 73
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 161| 2020-05-12 | 2020-05-14 |
 | [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 1 | 0 | 1792| 2020-03-20 | 2020-03-25 |
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
+| [ipld/js-schema-validation](https://github.com/ipld/js-schema-validation)| 0 | 0 | 33| 2020-02-27 | 2020-05-03 |
 | [mikeal/dagdb](https://github.com/mikeal/dagdb)| 14 | 2 | 550| 2020-02-13 | 2020-05-11 |
 | [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 1 | 0 | 1| 2020-02-05 | 2020-02-05 |
+| [mikeal/s3-block-store](https://github.com/mikeal/s3-block-store)| 2 | 0 | 2| 2019-12-10 | 2019-12-10 |
 | [rvagg/js-ipld-vector](https://github.com/rvagg/js-ipld-vector)| 1 | 0 | 20| 2019-12-09 | 2019-12-09 |
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 8| 2019-11-27 | 2019-12-03 |
-| [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 58| 2019-10-05 | 2020-04-03 |
-| [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1873| 2019-08-25 | 2020-05-18 |
 
 
 The above set is limited to the 10 most recently created. 
