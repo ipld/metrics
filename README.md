@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
+*  6/2020: 0
 *  5/2020: 9
-*  4/2020: 2
-*  3/2020: 3
-*  2/2020: 13
-*  1/2020: 7
-*  12/2019: 5
-*  11/2019: 6
-*  10/2019: 6
-*  9/2019: 6
-*  8/2019: 14
-*  7/2019: 4
-*  6/2019: 12
+*  4/2020: 7
+*  3/2020: 9
+*  2/2020: 12
+*  1/2020: 6
+*  12/2019: 3
+*  11/2019: 8
+*  10/2019: 10
+*  9/2019: 5
+*  8/2019: 12
+*  7/2019: 9
 
 ### GitHub Search
 
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 74
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15870| 2020-05-27 | 2020-05-27 |
+| [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15877| 2020-05-27 | 2020-06-03 |
 | [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 161| 2020-05-12 | 2020-05-14 |
 | [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 1 | 0 | 1792| 2020-03-20 | 2020-03-25 |
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
