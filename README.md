@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 0
-*  5/2020: 9
-*  4/2020: 4
-*  3/2020: 9
-*  2/2020: 12
-*  1/2020: 7
+*  6/2020: 7
+*  5/2020: 8
+*  4/2020: 7
+*  3/2020: 4
+*  2/2020: 14
+*  1/2020: 8
 *  12/2019: 6
 *  11/2019: 6
-*  10/2019: 4
-*  9/2019: 4
+*  10/2019: 7
+*  9/2019: 7
 *  8/2019: 10
-*  7/2019: 4
+*  7/2019: 8
 
 ### GitHub Search
 
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 29
 | [rvagg/go-car-example](https://github.com/rvagg/go-car-example)| 0 | 1 | 16| 2019-12-05 | 2019-12-06 |
 | [0zAND1z/redis-ipld-benchmark](https://github.com/0zAND1z/redis-ipld-benchmark)| 0 | 0 | 5| 2019-12-05 | 2019-12-08 |
 | [ipld/go-ipld-prime-proto](https://github.com/ipld/go-ipld-prime-proto)| 0 | 0 | 108| 2019-10-25 | 2020-04-28 |
-| [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 6 | 0 | 35| 2019-10-24 | 2020-05-16 |
+| [0zAND1z/ipldcrud](https://github.com/0zAND1z/ipldcrud)| 6 | 0 | 44| 2019-10-24 | 2020-06-13 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -80,14 +80,14 @@ Total Results (Limited by GitHUB API): 74
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15877| 2020-05-27 | 2020-06-03 |
-| [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 174| 2020-05-12 | 2020-06-12 |
+| [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 180| 2020-05-12 | 2020-06-13 |
 | [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 1 | 0 | 1926| 2020-03-20 | 2020-06-08 |
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
 | [ipld/js-schema-validation](https://github.com/ipld/js-schema-validation)| 0 | 0 | 33| 2020-02-27 | 2020-05-03 |
-| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 14 | 1 | 550| 2020-02-13 | 2020-05-11 |
+| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 14 | 1 | 685| 2020-02-13 | 2020-06-13 |
 | [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 1 | 0 | 1| 2020-02-05 | 2020-02-05 |
-| [mikeal/s3-block-store](https://github.com/mikeal/s3-block-store)| 2 | 0 | 2| 2019-12-10 | 2019-12-10 |
+| [mikeal/s3-block-store](https://github.com/mikeal/s3-block-store)| 2 | 0 | 3| 2019-12-10 | 2020-06-13 |
 | [rvagg/js-ipld-vector](https://github.com/rvagg/js-ipld-vector)| 1 | 0 | 20| 2019-12-09 | 2019-12-09 |
 
 
