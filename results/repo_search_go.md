@@ -1,9 +1,10 @@
-Total Matches: 58
+Total Matches: 60
 
-Total Results (Limited by GitHUB API): 29
+Total Results (Limited by GitHUB API): 30
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
 | [creationix/sel-parse-go](https://github.com/creationix/sel-parse-go)| 0 | 0 | 5| 2020-05-07 | 2020-05-17 |
 | [jhamPac/purple](https://github.com/jhamPac/purple)| 0 | 0 | 4| 2020-04-19 | 2020-04-20 |
 | [cuitaixiang/go-ipld-prime-notes](https://github.com/cuitaixiang/go-ipld-prime-notes)| 0 | 0 | 867| 2020-04-08 | 2020-04-14 |
@@ -31,5 +32,5 @@ Total Results (Limited by GitHUB API): 29
 | [ipld/go-ipld-btc](https://github.com/ipld/go-ipld-btc)| 17 | 11 | 2824| 2016-12-13 | 2019-09-25 |
 | [ipfs/go-ipld-zcash](https://github.com/ipfs/go-ipld-zcash)| 14 | 2 | 42| 2016-10-28 | 2020-05-04 |
 | [ipfs/go-ipld-cbor](https://github.com/ipfs/go-ipld-cbor)| 24 | 23 | 138| 2016-10-24 | 2020-05-04 |
-| [ipfs/go-ipld-format](https://github.com/ipfs/go-ipld-format)| 46 | 19 | 93| 2016-10-14 | 2020-06-10 |
+| [ipfs/go-ipld-format](https://github.com/ipfs/go-ipld-format)| 47 | 19 | 93| 2016-10-14 | 2020-06-10 |
 | [ipld/go-ipld-deprecated](https://github.com/ipld/go-ipld-deprecated)| 32 | 13 | 49| 2015-07-23 | 2018-08-08 |
