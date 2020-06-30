@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 5
-*  5/2020: 9
-*  4/2020: 8
-*  3/2020: 8
-*  2/2020: 16
-*  1/2020: 15
-*  12/2019: 8
-*  11/2019: 6
-*  10/2019: 12
-*  9/2019: 5
-*  8/2019: 13
-*  7/2019: 7
+*  6/2020: 11
+*  5/2020: 10
+*  4/2020: 6
+*  3/2020: 11
+*  2/2020: 13
+*  1/2020: 8
+*  12/2019: 7
+*  11/2019: 8
+*  10/2019: 10
+*  9/2019: 7
+*  8/2019: 17
+*  7/2019: 6
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 148
+Total Matches: 150
 
-Total Results (Limited by GitHUB API): 74
+Total Results (Limited by GitHUB API): 75
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15877| 2020-05-27 | 2020-06-03 |
+| [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 51| 2020-06-29 | 2020-06-29 |
+| [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15881| 2020-05-27 | 2020-06-29 |
 | [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 188| 2020-05-12 | 2020-06-24 |
 | [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 1 | 0 | 1926| 2020-03-20 | 2020-06-08 |
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
 | [ipld/js-schema-validation](https://github.com/ipld/js-schema-validation)| 0 | 0 | 46| 2020-02-27 | 2020-06-24 |
-| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 16 | 2 | 713| 2020-02-13 | 2020-06-27 |
+| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 16 | 2 | 793| 2020-02-13 | 2020-06-29 |
 | [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 1 | 0 | 1| 2020-02-05 | 2020-02-05 |
 | [mikeal/s3-block-store](https://github.com/mikeal/s3-block-store)| 2 | 0 | 4| 2019-12-10 | 2020-06-16 |
-| [rvagg/js-ipld-vector](https://github.com/rvagg/js-ipld-vector)| 1 | 0 | 20| 2019-12-09 | 2019-12-09 |
 
 
 The above set is limited to the 10 most recently created. 
