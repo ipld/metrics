@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 11
-*  5/2020: 10
-*  4/2020: 6
-*  3/2020: 11
-*  2/2020: 13
-*  1/2020: 8
-*  12/2019: 7
-*  11/2019: 8
+*  6/2020: 7
+*  5/2020: 7
+*  4/2020: 8
+*  3/2020: 5
+*  2/2020: 12
+*  1/2020: 6
+*  12/2019: 8
+*  11/2019: 4
 *  10/2019: 10
-*  9/2019: 7
-*  8/2019: 17
-*  7/2019: 6
+*  9/2019: 5
+*  8/2019: 13
+*  7/2019: 5
 
 ### GitHub Search
 
@@ -86,7 +86,7 @@ Total Results (Limited by GitHUB API): 75
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
 | [ipld/js-schema-validation](https://github.com/ipld/js-schema-validation)| 0 | 0 | 46| 2020-02-27 | 2020-06-24 |
-| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 16 | 2 | 793| 2020-02-13 | 2020-06-29 |
+| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 16 | 2 | 807| 2020-02-13 | 2020-06-30 |
 | [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 1 | 0 | 1| 2020-02-05 | 2020-02-05 |
 | [mikeal/s3-block-store](https://github.com/mikeal/s3-block-store)| 2 | 0 | 4| 2019-12-10 | 2020-06-16 |
 
