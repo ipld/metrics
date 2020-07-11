@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 0
+*  7/2020: 22
 *  6/2020: 7
-*  5/2020: 11
+*  5/2020: 7
 *  4/2020: 5
 *  3/2020: 7
-*  2/2020: 8
-*  1/2020: 6
-*  12/2019: 7
-*  11/2019: 10
-*  10/2019: 7
-*  9/2019: 4
-*  8/2019: 7
+*  2/2020: 10
+*  1/2020: 7
+*  12/2019: 3
+*  11/2019: 2
+*  10/2019: 8
+*  9/2019: 7
+*  8/2019: 4
 
 ### GitHub Search
 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 150
+Total Matches: 134
 
-Total Results (Limited by GitHUB API): 75
+Total Results (Limited by GitHUB API): 67
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
