@@ -4,7 +4,7 @@ Total Results (Limited by GitHUB API): 68
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 242| 2020-07-10 | 2020-07-14 |
+| [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 420| 2020-07-10 | 2020-07-15 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 51| 2020-06-29 | 2020-06-29 |
 | [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15881| 2020-05-27 | 2020-06-29 |
 | [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 188| 2020-05-12 | 2020-06-24 |
@@ -19,7 +19,7 @@ Total Results (Limited by GitHUB API): 68
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 10| 2019-11-27 | 2020-06-16 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 58| 2019-10-05 | 2020-04-03 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1932| 2019-08-25 | 2020-07-14 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 1959| 2019-08-25 | 2020-07-15 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 14| 2019-08-22 | 2020-03-20 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 1 | 1 | 68| 2019-08-22 | 2020-06-18 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |

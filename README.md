@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 12
-*  6/2020: 4
-*  5/2020: 11
-*  4/2020: 6
-*  3/2020: 11
+*  7/2020: 17
+*  6/2020: 11
+*  5/2020: 16
+*  4/2020: 8
+*  3/2020: 17
 *  2/2020: 12
-*  1/2020: 13
-*  12/2019: 8
-*  11/2019: 5
-*  10/2019: 5
-*  9/2019: 3
-*  8/2019: 8
+*  1/2020: 12
+*  12/2019: 6
+*  11/2019: 10
+*  10/2019: 11
+*  9/2019: 8
+*  8/2019: 12
 
 ### GitHub Search
 
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 68
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 242| 2020-07-10 | 2020-07-14 |
+| [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 420| 2020-07-10 | 2020-07-15 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 51| 2020-06-29 | 2020-06-29 |
 | [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15881| 2020-05-27 | 2020-06-29 |
 | [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 188| 2020-05-12 | 2020-06-24 |
