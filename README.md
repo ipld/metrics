@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  7/2020: 10
-*  6/2020: 2
+*  6/2020: 4
 *  5/2020: 7
-*  4/2020: 7
-*  3/2020: 7
-*  2/2020: 17
-*  1/2020: 10
-*  12/2019: 0
+*  4/2020: 5
+*  3/2020: 4
+*  2/2020: 10
+*  1/2020: 7
+*  12/2019: 6
 *  11/2019: 3
-*  10/2019: 7
-*  9/2019: 3
-*  8/2019: 11
+*  10/2019: 2
+*  9/2019: 2
+*  8/2019: 6
 
 ### GitHub Search
 
@@ -79,8 +79,8 @@ Total Results (Limited by GitHUB API): 69
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [keyko-io/js-hamt-ipld](https://github.com/keyko-io/js-hamt-ipld)| 0 | 0 | 27| 2020-07-15 | 2020-07-16 |
-| [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 420| 2020-07-10 | 2020-07-16 |
+| [keyko-io/js-hamt-ipld](https://github.com/keyko-io/js-hamt-ipld)| 0 | 0 | 28| 2020-07-15 | 2020-07-17 |
+| [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 533| 2020-07-10 | 2020-07-17 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 51| 2020-06-29 | 2020-06-29 |
 | [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15881| 2020-05-27 | 2020-06-29 |
 | [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 188| 2020-05-12 | 2020-06-24 |
@@ -88,7 +88,7 @@ Total Results (Limited by GitHUB API): 69
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
 | [ipld/js-schema-validation](https://github.com/ipld/js-schema-validation)| 0 | 0 | 46| 2020-02-27 | 2020-06-24 |
-| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 16 | 2 | 918| 2020-02-13 | 2020-07-02 |
+| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 16 | 2 | 919| 2020-02-13 | 2020-07-17 |
 
 
 The above set is limited to the 10 most recently created. 
