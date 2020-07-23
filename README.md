@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 8
-*  6/2020: 7
-*  5/2020: 6
-*  4/2020: 3
-*  3/2020: 5
-*  2/2020: 13
-*  1/2020: 9
-*  12/2019: 2
-*  11/2019: 6
-*  10/2019: 4
-*  9/2019: 5
-*  8/2019: 7
+*  7/2020: 9
+*  6/2020: 0
+*  5/2020: 7
+*  4/2020: 5
+*  3/2020: 4
+*  2/2020: 11
+*  1/2020: 6
+*  12/2019: 6
+*  11/2019: 3
+*  10/2019: 5
+*  9/2019: 3
+*  8/2019: 5
 
 ### GitHub Search
 
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 69
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [keyko-io/js-hamt-ipld](https://github.com/keyko-io/js-hamt-ipld)| 0 | 1 | 56| 2020-07-15 | 2020-07-21 |
+| [keyko-io/js-hamt-ipld](https://github.com/keyko-io/js-hamt-ipld)| 0 | 1 | 96| 2020-07-15 | 2020-07-22 |
 | [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 913| 2020-07-10 | 2020-07-21 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 51| 2020-06-29 | 2020-06-29 |
 | [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15881| 2020-05-27 | 2020-06-29 |
