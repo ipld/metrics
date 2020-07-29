@@ -4,8 +4,8 @@ Total Results (Limited by GitHUB API): 69
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [keyko-io/js-hamt-ipld](https://github.com/keyko-io/js-hamt-ipld)| 0 | 1 | 147| 2020-07-15 | 2020-07-27 |
-| [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 913| 2020-07-10 | 2020-07-21 |
+| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 0 | 1 | 149| 2020-07-15 | 2020-07-28 |
+| [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 982| 2020-07-10 | 2020-07-29 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 51| 2020-06-29 | 2020-06-29 |
 | [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15881| 2020-05-27 | 2020-06-29 |
 | [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 191| 2020-05-12 | 2020-07-19 |
@@ -20,7 +20,7 @@ Total Results (Limited by GitHUB API): 69
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 10| 2019-11-27 | 2020-06-16 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 76| 2019-10-05 | 2020-07-18 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 2290| 2019-08-25 | 2020-07-27 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 2321| 2019-08-25 | 2020-07-28 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 14| 2019-08-22 | 2020-03-20 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 1 | 1 | 68| 2019-08-22 | 2020-06-18 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |
@@ -48,7 +48,7 @@ Total Results (Limited by GitHUB API): 69
 | [mikeal/linx](https://github.com/mikeal/linx)| 1 | 0 | 8| 2018-10-07 | 2018-10-07 |
 | [underlay/js-dweb-loader](https://github.com/underlay/js-dweb-loader)| 8 | 0 | 101| 2018-10-04 | 2020-07-16 |
 | [interplanetarymindmap/mind-map](https://github.com/interplanetarymindmap/mind-map)| 9 | 0 | 2008| 2018-09-20 | 2018-11-15 |
-| [ipfs-shipyard/ipld-explorer-components](https://github.com/ipfs-shipyard/ipld-explorer-components)| 11 | 9 | 4175| 2018-09-05 | 2020-07-24 |
+| [ipfs-shipyard/ipld-explorer-components](https://github.com/ipfs-shipyard/ipld-explorer-components)| 11 | 9 | 4175| 2018-09-05 | 2020-07-28 |
 | [jimpick/hypercore-simple-ipld](https://github.com/jimpick/hypercore-simple-ipld)| 3 | 0 | 22| 2018-09-04 | 2018-10-15 |
 | [ipld/js-dag-json](https://github.com/ipld/js-dag-json)| 2 | 0 | 60| 2018-08-14 | 2020-07-19 |
 | [vmx/dagbuilder](https://github.com/vmx/dagbuilder)| 2 | 0 | 29| 2018-08-10 | 2020-04-29 |
