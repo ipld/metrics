@@ -4,8 +4,8 @@ Total Results (Limited by GitHUB API): 69
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 0 | 1 | 149| 2020-07-15 | 2020-07-28 |
-| [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 982| 2020-07-10 | 2020-07-29 |
+| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 0 | 1 | 153| 2020-07-15 | 2020-07-29 |
+| [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 1472| 2020-07-10 | 2020-07-29 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 51| 2020-06-29 | 2020-06-29 |
 | [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15881| 2020-05-27 | 2020-06-29 |
 | [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 191| 2020-05-12 | 2020-07-19 |
@@ -20,7 +20,7 @@ Total Results (Limited by GitHUB API): 69
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 10| 2019-11-27 | 2020-06-16 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 76| 2019-10-05 | 2020-07-18 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 2321| 2019-08-25 | 2020-07-28 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 2349| 2019-08-25 | 2020-07-29 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 14| 2019-08-22 | 2020-03-20 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 1 | 1 | 68| 2019-08-22 | 2020-06-18 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |
@@ -72,4 +72,4 @@ Total Results (Limited by GitHUB API): 69
 | [ipld/react-ipld](https://github.com/ipld/react-ipld)| 4 | 2 | 22| 2016-07-05 | 2016-07-07 |
 | [ipld/js-ipld-cli](https://github.com/ipld/js-ipld-cli)| 12 | 4 | 14| 2016-04-11 | 2018-01-10 |
 | [ipld/js-ipld](https://github.com/ipld/js-ipld)| 103 | 36 | 1641| 2016-04-08 | 2020-07-24 |
-| [ipld/js-ipld-dag-cbor](https://github.com/ipld/js-ipld-dag-cbor)| 50 | 23 | 1362| 2015-08-27 | 2020-07-10 |
+| [ipld/js-ipld-dag-cbor](https://github.com/ipld/js-ipld-dag-cbor)| 51 | 23 | 1362| 2015-08-27 | 2020-07-10 |
