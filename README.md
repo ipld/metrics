@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 12
+*  7/2020: 18
 *  6/2020: 6
 *  5/2020: 9
-*  4/2020: 7
+*  4/2020: 6
 *  3/2020: 6
-*  2/2020: 10
-*  1/2020: 8
-*  12/2019: 4
-*  11/2019: 6
-*  10/2019: 5
-*  9/2019: 5
-*  8/2019: 8
+*  2/2020: 16
+*  1/2020: 10
+*  12/2019: 8
+*  11/2019: 10
+*  10/2019: 8
+*  9/2019: 8
+*  8/2019: 6
 
 ### GitHub Search
 
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 69
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 0 | 1 | 165| 2020-07-15 | 2020-07-30 |
+| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 0 | 1 | 166| 2020-07-15 | 2020-07-31 |
 | [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 1472| 2020-07-10 | 2020-07-29 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 51| 2020-06-29 | 2020-06-29 |
 | [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15881| 2020-05-27 | 2020-06-29 |
@@ -88,7 +88,7 @@ Total Results (Limited by GitHUB API): 69
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
 | [ipld/js-schema-validation](https://github.com/ipld/js-schema-validation)| 0 | 0 | 46| 2020-02-27 | 2020-06-24 |
-| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 18 | 3 | 932| 2020-02-13 | 2020-07-25 |
+| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 20 | 3 | 417| 2020-02-13 | 2020-07-31 |
 
 
 The above set is limited to the 10 most recently created. 
