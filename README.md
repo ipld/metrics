@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 18
-*  6/2020: 6
-*  5/2020: 9
-*  4/2020: 6
-*  3/2020: 6
+*  7/2020: 13
+*  6/2020: 13
+*  5/2020: 13
+*  4/2020: 5
+*  3/2020: 7
 *  2/2020: 16
-*  1/2020: 10
-*  12/2019: 8
-*  11/2019: 10
-*  10/2019: 8
-*  9/2019: 8
-*  8/2019: 6
+*  1/2020: 16
+*  12/2019: 4
+*  11/2019: 4
+*  10/2019: 7
+*  9/2019: 5
+*  8/2019: 7
 
 ### GitHub Search
 
@@ -84,11 +84,11 @@ Total Results (Limited by GitHUB API): 69
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 51| 2020-06-29 | 2020-06-29 |
 | [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15881| 2020-05-27 | 2020-06-29 |
 | [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 191| 2020-05-12 | 2020-07-19 |
-| [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 1 | 0 | 2060| 2020-03-20 | 2020-07-19 |
+| [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 1 | 0 | 2194| 2020-03-20 | 2020-08-01 |
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
 | [ipld/js-schema-validation](https://github.com/ipld/js-schema-validation)| 0 | 0 | 46| 2020-02-27 | 2020-06-24 |
-| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 20 | 3 | 417| 2020-02-13 | 2020-07-31 |
+| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 34 | 4 | 459| 2020-02-13 | 2020-08-01 |
 
 
 The above set is limited to the 10 most recently created. 
