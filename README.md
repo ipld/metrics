@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 10
-*  6/2020: 6
-*  5/2020: 11
-*  4/2020: 11
-*  3/2020: 11
-*  2/2020: 15
-*  1/2020: 9
-*  12/2019: 12
+*  8/2020: 81
+*  7/2020: 12
+*  6/2020: 8
+*  5/2020: 7
+*  4/2020: 8
+*  3/2020: 8
+*  2/2020: 16
+*  1/2020: 10
+*  12/2019: 9
 *  11/2019: 9
-*  10/2019: 10
-*  9/2019: 4
-*  8/2019: 8
+*  10/2019: 7
+*  9/2019: 7
 
 ### GitHub Search
 
@@ -88,7 +88,7 @@ Total Results (Limited by GitHUB API): 69
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
 | [ipld/js-schema-validation](https://github.com/ipld/js-schema-validation)| 0 | 0 | 46| 2020-02-27 | 2020-06-24 |
-| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 47 | 4 | 459| 2020-02-13 | 2020-08-01 |
+| [mikeal/dagdb](https://github.com/mikeal/dagdb)| 56 | 4 | 460| 2020-02-13 | 2020-08-03 |
 
 
 The above set is limited to the 10 most recently created. 
