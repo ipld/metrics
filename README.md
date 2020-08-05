@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 81
-*  7/2020: 12
-*  6/2020: 8
-*  5/2020: 7
-*  4/2020: 8
-*  3/2020: 8
-*  2/2020: 16
-*  1/2020: 10
-*  12/2019: 9
-*  11/2019: 9
-*  10/2019: 7
-*  9/2019: 7
+*  8/2020: 0
+*  7/2020: 10
+*  6/2020: 6
+*  5/2020: 4
+*  4/2020: 4
+*  3/2020: 6
+*  2/2020: 7
+*  1/2020: 6
+*  12/2019: 5
+*  11/2019: 5
+*  10/2019: 6
+*  9/2019: 4
 
 ### GitHub Search
 
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 69
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 0 | 1 | 166| 2020-07-15 | 2020-07-31 |
+| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 0 | 1 | 189| 2020-07-15 | 2020-08-04 |
 | [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 1472| 2020-07-10 | 2020-07-29 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 51| 2020-06-29 | 2020-06-29 |
 | [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15881| 2020-05-27 | 2020-06-29 |
