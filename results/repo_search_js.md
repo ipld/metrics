@@ -4,8 +4,8 @@ Total Results (Limited by GitHUB API): 70
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 0 | 0 | 7| 2020-08-06 | 2020-08-07 |
-| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 0 | 1 | 244| 2020-07-15 | 2020-08-11 |
+| [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 1 | 0 | 7| 2020-08-06 | 2020-08-07 |
+| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 0 | 1 | 141| 2020-07-15 | 2020-08-12 |
 | [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 1472| 2020-07-10 | 2020-07-29 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 51| 2020-06-29 | 2020-06-29 |
 | [rvagg/js-bitcoin](https://github.com/rvagg/js-bitcoin)| 0 | 0 | 15881| 2020-05-27 | 2020-06-29 |
@@ -21,7 +21,7 @@ Total Results (Limited by GitHUB API): 70
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 10| 2019-11-27 | 2020-06-16 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 94| 2019-10-05 | 2020-07-31 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 7 | 0 | 19| 2019-08-26 | 2019-08-28 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 2723| 2019-08-25 | 2020-08-11 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 0 | 2751| 2019-08-25 | 2020-08-12 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 14| 2019-08-22 | 2020-03-20 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 1 | 1 | 68| 2019-08-22 | 2020-06-18 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |
@@ -64,7 +64,7 @@ Total Results (Limited by GitHUB API): 70
 | [ipld/js-ipld-zcash](https://github.com/ipld/js-ipld-zcash)| 11 | 1 | 4042| 2018-01-22 | 2020-08-04 |
 | [ipld/js-ipld-bitcoin](https://github.com/ipld/js-ipld-bitcoin)| 9 | 9 | 17116| 2018-01-05 | 2020-08-05 |
 | [ipld/js-ipld-raw](https://github.com/ipld/js-ipld-raw)| 4 | 2 | 1236| 2017-08-25 | 2020-08-04 |
-| [ipld/js-ipld-ethereum](https://github.com/ipld/js-ipld-ethereum)| 40 | 10 | 1411| 2017-07-10 | 2020-08-05 |
+| [ipld/js-ipld-ethereum](https://github.com/ipld/js-ipld-ethereum)| 41 | 10 | 1411| 2017-07-10 | 2020-08-05 |
 | [nicola/js-simple-ipld](https://github.com/nicola/js-simple-ipld)| 2 | 1 | 2| 2017-02-17 | 2017-02-17 |
 | [ipld/js-ipld-eth-state-trie](https://github.com/ipld/js-ipld-eth-state-trie)| 0 | 1 | 16| 2016-12-19 | 2018-01-25 |
 | [daviddias/graph-explorer](https://github.com/daviddias/graph-explorer)| 4 | 2 | 426| 2016-12-13 | 2017-07-05 |
