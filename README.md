@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 5
-*  7/2020: 16
-*  6/2020: 6
-*  5/2020: 12
+*  8/2020: 7
+*  7/2020: 9
+*  6/2020: 2
+*  5/2020: 5
 *  4/2020: 5
-*  3/2020: 9
-*  2/2020: 14
-*  1/2020: 12
+*  3/2020: 4
+*  2/2020: 11
+*  1/2020: 7
 *  12/2019: 6
-*  11/2019: 10
-*  10/2019: 10
-*  9/2019: 4
+*  11/2019: 8
+*  10/2019: 12
+*  9/2019: 7
 
 ### GitHub Search
 
@@ -80,15 +80,15 @@ Total Results (Limited by GitHUB API): 70
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 1 | 0 | 7| 2020-08-06 | 2020-08-07 |
-| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 1 | 1 | 149| 2020-07-15 | 2020-08-17 |
+| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 1 | 1 | 153| 2020-07-15 | 2020-08-20 |
 | [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 1472| 2020-07-10 | 2020-07-29 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 51| 2020-06-29 | 2020-06-29 |
 | [ipld/js-bitcoin](https://github.com/ipld/js-bitcoin)| 0 | 0 | 15881| 2020-05-27 | 2020-06-29 |
-| [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 197| 2020-05-12 | 2020-08-19 |
+| [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 199| 2020-05-12 | 2020-08-20 |
 | [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 1 | 0 | 2329| 2020-03-20 | 2020-08-08 |
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
-| [ipld/js-schema-validation](https://github.com/ipld/js-schema-validation)| 0 | 0 | 47| 2020-02-27 | 2020-08-18 |
+| [ipld/js-schema-validation](https://github.com/ipld/js-schema-validation)| 0 | 0 | 52| 2020-02-27 | 2020-08-20 |
 
 
 The above set is limited to the 10 most recently created. 
