@@ -21,15 +21,15 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  8/2020: 9
-*  7/2020: 16
-*  6/2020: 11
-*  5/2020: 15
-*  4/2020: 5
-*  3/2020: 6
-*  2/2020: 17
-*  1/2020: 12
-*  12/2019: 13
-*  11/2019: 9
+*  7/2020: 12
+*  6/2020: 6
+*  5/2020: 12
+*  4/2020: 9
+*  3/2020: 10
+*  2/2020: 21
+*  1/2020: 13
+*  12/2019: 9
+*  11/2019: 7
 *  10/2019: 8
 *  9/2019: 7
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 66
+Total Matches: 68
 
-Total Results (Limited by GitHUB API): 33
+Total Results (Limited by GitHUB API): 34
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60229| 2020-08-26 | 2020-08-26 |
-| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 0 | 60229| 2020-08-26 | 2020-08-26 |
-| [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60241| 2020-08-10 | 2020-08-27 |
+| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 0 | 60260| 2020-08-26 | 2020-08-31 |
+| [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60248| 2020-08-10 | 2020-08-31 |
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
+| [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 4 | 3 | 60302| 2020-05-27 | 2020-08-31 |
 | [creationix/sel-parse-go](https://github.com/creationix/sel-parse-go)| 0 | 0 | 5| 2020-05-07 | 2020-05-17 |
 | [jhamPac/purple](https://github.com/jhamPac/purple)| 0 | 0 | 4| 2020-04-19 | 2020-04-20 |
 | [cuitaixiang/go-ipld-prime-notes](https://github.com/cuitaixiang/go-ipld-prime-notes)| 0 | 0 | 867| 2020-04-08 | 2020-04-14 |
 | [jameshih/ipld-bookstore](https://github.com/jameshih/ipld-bookstore)| 0 | 0 | 8| 2020-02-04 | 2020-02-05 |
 | [likecoin/iscn-ipld](https://github.com/likecoin/iscn-ipld)| 1 | 1 | 128| 2020-02-03 | 2020-05-17 |
-| [likecoin/iscn-poc](https://github.com/likecoin/iscn-poc)| 1 | 1 | 179| 2020-01-30 | 2020-05-16 |
 
 
 The above set is limited to the 10 most recently created. 
