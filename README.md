@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 9
-*  7/2020: 12
-*  6/2020: 6
-*  5/2020: 12
-*  4/2020: 9
-*  3/2020: 10
-*  2/2020: 21
-*  1/2020: 13
-*  12/2019: 9
-*  11/2019: 7
-*  10/2019: 8
-*  9/2019: 7
+*  8/2020: 12
+*  7/2020: 18
+*  6/2020: 13
+*  5/2020: 20
+*  4/2020: 5
+*  3/2020: 17
+*  2/2020: 22
+*  1/2020: 9
+*  12/2019: 5
+*  11/2019: 9
+*  10/2019: 5
+*  9/2019: 11
 
 ### GitHub Search
 
@@ -57,10 +57,10 @@ Total Results (Limited by GitHUB API): 34
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60229| 2020-08-26 | 2020-08-26 |
-| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 0 | 60260| 2020-08-26 | 2020-08-31 |
-| [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60248| 2020-08-10 | 2020-08-31 |
+| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 0 | 60268| 2020-08-26 | 2020-09-01 |
+| [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60249| 2020-08-10 | 2020-09-01 |
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
-| [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 4 | 3 | 60302| 2020-05-27 | 2020-08-31 |
+| [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 4 | 3 | 60360| 2020-05-27 | 2020-09-01 |
 | [creationix/sel-parse-go](https://github.com/creationix/sel-parse-go)| 0 | 0 | 5| 2020-05-07 | 2020-05-17 |
 | [jhamPac/purple](https://github.com/jhamPac/purple)| 0 | 0 | 4| 2020-04-19 | 2020-04-20 |
 | [cuitaixiang/go-ipld-prime-notes](https://github.com/cuitaixiang/go-ipld-prime-notes)| 0 | 0 | 867| 2020-04-08 | 2020-04-14 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 140
+Total Matches: 142
 
-Total Results (Limited by GitHUB API): 70
+Total Results (Limited by GitHUB API): 71
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 0 | 0 | 0| 2020-09-02 | 2020-09-02 |
 | [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 1 | 0 | 7| 2020-08-06 | 2020-08-07 |
 | [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 459| 2020-07-15 | 2020-08-28 |
-| [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 1472| 2020-07-10 | 2020-07-29 |
-| [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 51| 2020-06-29 | 2020-06-29 |
-| [ipld/js-bitcoin](https://github.com/ipld/js-bitcoin)| 0 | 0 | 15881| 2020-05-27 | 2020-06-29 |
+| [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 1665| 2020-07-10 | 2020-09-01 |
+| [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 52| 2020-06-29 | 2020-09-01 |
+| [ipld/js-bitcoin](https://github.com/ipld/js-bitcoin)| 0 | 0 | 15883| 2020-05-27 | 2020-09-01 |
 | [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 176| 2020-05-12 | 2020-08-28 |
 | [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 1 | 0 | 2329| 2020-03-20 | 2020-08-08 |
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
-| [ipld/js-schema-validation](https://github.com/ipld/js-schema-validation)| 0 | 0 | 52| 2020-02-27 | 2020-08-20 |
 
 
 The above set is limited to the 10 most recently created. 
