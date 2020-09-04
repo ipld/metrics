@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
+*  9/2020: 62
 *  8/2020: 5
-*  7/2020: 12
+*  7/2020: 11
 *  6/2020: 7
-*  5/2020: 10
+*  5/2020: 11
 *  4/2020: 6
-*  3/2020: 8
-*  2/2020: 13
-*  1/2020: 12
-*  12/2019: 9
-*  11/2019: 7
+*  3/2020: 11
+*  2/2020: 9
+*  1/2020: 7
+*  12/2019: 6
+*  11/2019: 6
 *  10/2019: 6
-*  9/2019: 8
 
 ### GitHub Search
 
@@ -79,10 +79,10 @@ Total Results (Limited by GitHUB API): 71
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 1 | 0 | 86797| 2020-09-02 | 2020-09-02 |
+| [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86797| 2020-09-02 | 2020-09-02 |
 | [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 1 | 0 | 7| 2020-08-06 | 2020-08-07 |
-| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 459| 2020-07-15 | 2020-08-28 |
-| [ipld/docs](https://github.com/ipld/docs)| 2 | 0 | 1749| 2020-07-10 | 2020-09-02 |
+| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 468| 2020-07-15 | 2020-09-03 |
+| [ipld/docs](https://github.com/ipld/docs)| 3 | 1 | 1749| 2020-07-10 | 2020-09-03 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 52| 2020-06-29 | 2020-09-01 |
 | [ipld/js-bitcoin](https://github.com/ipld/js-bitcoin)| 0 | 0 | 15883| 2020-05-27 | 2020-09-01 |
 | [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 0 | 176| 2020-05-12 | 2020-08-28 |
