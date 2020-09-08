@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 26
-*  8/2020: 4
-*  7/2020: 10
-*  6/2020: 9
-*  5/2020: 12
-*  4/2020: 6
-*  3/2020: 11
-*  2/2020: 13
-*  1/2020: 11
-*  12/2019: 7
-*  11/2019: 9
+*  9/2020: 0
+*  8/2020: 6
+*  7/2020: 7
+*  6/2020: 7
+*  5/2020: 4
+*  4/2020: 7
+*  3/2020: 10
+*  2/2020: 9
+*  1/2020: 9
+*  12/2019: 6
+*  11/2019: 5
 *  10/2019: 9
 
 ### GitHub Search
@@ -81,7 +81,7 @@ Total Results (Limited by GitHUB API): 71
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86797| 2020-09-02 | 2020-09-02 |
 | [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 1 | 0 | 7| 2020-08-06 | 2020-08-07 |
-| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 469| 2020-07-15 | 2020-09-04 |
+| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 471| 2020-07-15 | 2020-09-07 |
 | [ipld/docs](https://github.com/ipld/docs)| 3 | 1 | 1749| 2020-07-10 | 2020-09-03 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 52| 2020-06-29 | 2020-09-01 |
 | [ipld/js-bitcoin](https://github.com/ipld/js-bitcoin)| 0 | 0 | 15883| 2020-05-27 | 2020-09-01 |
