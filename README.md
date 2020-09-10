@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 34
+*  9/2020: 25
 *  8/2020: 6
-*  7/2020: 17
+*  7/2020: 16
 *  6/2020: 13
-*  5/2020: 8
-*  4/2020: 8
-*  3/2020: 14
-*  2/2020: 14
-*  1/2020: 9
-*  12/2019: 8
-*  11/2019: 6
-*  10/2019: 8
+*  5/2020: 10
+*  4/2020: 2
+*  3/2020: 8
+*  2/2020: 16
+*  1/2020: 11
+*  12/2019: 4
+*  11/2019: 9
+*  10/2019: 5
 
 ### GitHub Search
 
@@ -57,7 +57,7 @@ Total Results (Limited by GitHUB API): 34
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
-| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 0 | 60359| 2020-08-26 | 2020-09-02 |
+| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 0 | 60366| 2020-08-26 | 2020-09-09 |
 | [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60256| 2020-08-10 | 2020-09-02 |
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
 | [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 4 | 3 | 60370| 2020-05-27 | 2020-09-05 |
@@ -80,12 +80,12 @@ Total Results (Limited by GitHUB API): 71
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86797| 2020-09-02 | 2020-09-02 |
-| [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 1 | 0 | 10| 2020-08-06 | 2020-09-08 |
+| [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 1 | 0 | 14| 2020-08-06 | 2020-09-09 |
 | [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 474| 2020-07-15 | 2020-09-08 |
 | [ipld/docs](https://github.com/ipld/docs)| 3 | 1 | 1749| 2020-07-10 | 2020-09-03 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 52| 2020-06-29 | 2020-09-01 |
 | [ipld/js-bitcoin](https://github.com/ipld/js-bitcoin)| 0 | 0 | 15883| 2020-05-27 | 2020-09-01 |
-| [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 1 | 176| 2020-05-12 | 2020-09-04 |
+| [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 1 | 176| 2020-05-12 | 2020-09-09 |
 | [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 1 | 0 | 2329| 2020-03-20 | 2020-08-08 |
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 0 | 5| 2020-02-28 | 2020-02-29 |
