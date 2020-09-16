@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 9
-*  8/2020: 6
-*  7/2020: 8
+*  9/2020: 14
+*  8/2020: 3
+*  7/2020: 15
 *  6/2020: 6
-*  5/2020: 9
-*  4/2020: 3
+*  5/2020: 7
+*  4/2020: 6
 *  3/2020: 9
-*  2/2020: 12
-*  1/2020: 6
-*  12/2019: 2
-*  11/2019: 5
-*  10/2019: 0
+*  2/2020: 9
+*  1/2020: 7
+*  12/2019: 6
+*  11/2019: 6
+*  10/2019: 9
 
 ### GitHub Search
 
@@ -57,7 +57,7 @@ Total Results (Limited by GitHUB API): 34
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
-| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 0 | 60367| 2020-08-26 | 2020-09-11 |
+| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 0 | 60367| 2020-08-26 | 2020-09-15 |
 | [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60308| 2020-08-10 | 2020-09-10 |
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
 | [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 4 | 3 | 60375| 2020-05-27 | 2020-09-10 |
@@ -80,9 +80,9 @@ Total Results (Limited by GitHUB API): 72
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [mikeal/hamt-utils](https://github.com/mikeal/hamt-utils)| 0 | 0 | 6| 2020-09-10 | 2020-09-11 |
-| [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86797| 2020-09-02 | 2020-09-02 |
+| [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86799| 2020-09-02 | 2020-09-15 |
 | [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 1 | 0 | 14| 2020-08-06 | 2020-09-09 |
-| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 476| 2020-07-15 | 2020-09-10 |
+| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 497| 2020-07-15 | 2020-09-15 |
 | [ipld/docs](https://github.com/ipld/docs)| 3 | 1 | 2950| 2020-07-10 | 2020-09-14 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 52| 2020-06-29 | 2020-09-01 |
 | [ipld/js-bitcoin](https://github.com/ipld/js-bitcoin)| 0 | 0 | 15883| 2020-05-27 | 2020-09-01 |
