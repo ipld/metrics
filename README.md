@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 14
-*  8/2020: 3
-*  7/2020: 15
-*  6/2020: 6
-*  5/2020: 7
+*  9/2020: 8
+*  8/2020: 4
+*  7/2020: 12
+*  6/2020: 7
+*  5/2020: 6
 *  4/2020: 6
-*  3/2020: 9
-*  2/2020: 9
+*  3/2020: 5
+*  2/2020: 12
 *  1/2020: 7
-*  12/2019: 6
-*  11/2019: 6
-*  10/2019: 9
+*  12/2019: 3
+*  11/2019: 8
+*  10/2019: 8
 
 ### GitHub Search
 
@@ -60,7 +60,7 @@ Total Results (Limited by GitHUB API): 34
 | [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 0 | 60367| 2020-08-26 | 2020-09-15 |
 | [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60308| 2020-08-10 | 2020-09-10 |
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
-| [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 4 | 3 | 60375| 2020-05-27 | 2020-09-10 |
+| [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 4 | 3 | 60385| 2020-05-27 | 2020-09-16 |
 | [creationix/sel-parse-go](https://github.com/creationix/sel-parse-go)| 0 | 0 | 5| 2020-05-07 | 2020-05-17 |
 | [jhamPac/purple](https://github.com/jhamPac/purple)| 0 | 0 | 4| 2020-04-19 | 2020-04-20 |
 | [cuitaixiang/go-ipld-prime-notes](https://github.com/cuitaixiang/go-ipld-prime-notes)| 0 | 0 | 867| 2020-04-08 | 2020-04-14 |
@@ -82,11 +82,11 @@ Total Results (Limited by GitHUB API): 72
 | [mikeal/hamt-utils](https://github.com/mikeal/hamt-utils)| 0 | 0 | 6| 2020-09-10 | 2020-09-11 |
 | [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86799| 2020-09-02 | 2020-09-15 |
 | [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 1 | 0 | 14| 2020-08-06 | 2020-09-09 |
-| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 497| 2020-07-15 | 2020-09-15 |
-| [ipld/docs](https://github.com/ipld/docs)| 3 | 1 | 2950| 2020-07-10 | 2020-09-14 |
+| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 501| 2020-07-15 | 2020-09-16 |
+| [ipld/docs](https://github.com/ipld/docs)| 3 | 1 | 2950| 2020-07-10 | 2020-09-16 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 52| 2020-06-29 | 2020-09-01 |
 | [ipld/js-bitcoin](https://github.com/ipld/js-bitcoin)| 0 | 0 | 15883| 2020-05-27 | 2020-09-01 |
-| [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 1 | 176| 2020-05-12 | 2020-09-09 |
+| [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 1 | 176| 2020-05-12 | 2020-09-16 |
 | [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 1 | 0 | 2463| 2020-03-20 | 2020-09-11 |
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 
