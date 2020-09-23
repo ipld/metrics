@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 7
-*  8/2020: 6
-*  7/2020: 12
-*  6/2020: 2
-*  5/2020: 9
-*  4/2020: 5
+*  9/2020: 6
+*  8/2020: 3
+*  7/2020: 6
+*  6/2020: 4
+*  5/2020: 4
+*  4/2020: 2
 *  3/2020: 4
-*  2/2020: 10
+*  2/2020: 8
 *  1/2020: 6
-*  12/2019: 6
-*  11/2019: 5
-*  10/2019: 3
+*  12/2019: 2
+*  11/2019: 2
+*  10/2019: 5
 
 ### GitHub Search
 
@@ -60,7 +60,7 @@ Total Results (Limited by GitHUB API): 34
 | [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 0 | 60367| 2020-08-26 | 2020-09-15 |
 | [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60308| 2020-08-10 | 2020-09-10 |
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
-| [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 4 | 3 | 60410| 2020-05-27 | 2020-09-18 |
+| [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 4 | 3 | 60396| 2020-05-27 | 2020-09-23 |
 | [creationix/sel-parse-go](https://github.com/creationix/sel-parse-go)| 0 | 0 | 5| 2020-05-07 | 2020-05-17 |
 | [jhamPac/purple](https://github.com/jhamPac/purple)| 0 | 0 | 4| 2020-04-19 | 2020-04-20 |
 | [cuitaixiang/go-ipld-prime-notes](https://github.com/cuitaixiang/go-ipld-prime-notes)| 0 | 0 | 867| 2020-04-08 | 2020-04-14 |
