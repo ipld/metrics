@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 6
-*  8/2020: 5
+*  9/2020: 8
+*  8/2020: 7
 *  7/2020: 10
-*  6/2020: 5
-*  5/2020: 4
-*  4/2020: 7
+*  6/2020: 4
+*  5/2020: 8
+*  4/2020: 3
 *  3/2020: 6
-*  2/2020: 13
-*  1/2020: 9
-*  12/2019: 7
-*  11/2019: 3
-*  10/2019: 9
+*  2/2020: 11
+*  1/2020: 7
+*  12/2019: 4
+*  11/2019: 4
+*  10/2019: 4
 
 ### GitHub Search
 
@@ -57,7 +57,7 @@ Total Results (Limited by GitHUB API): 34
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
-| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 0 | 60394| 2020-08-26 | 2020-09-24 |
+| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 0 | 60396| 2020-08-26 | 2020-09-25 |
 | [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60308| 2020-08-10 | 2020-09-10 |
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
 | [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 4 | 3 | 60251| 2020-05-27 | 2020-09-24 |
@@ -82,7 +82,7 @@ Total Results (Limited by GitHUB API): 72
 | [mikeal/hamt-utils](https://github.com/mikeal/hamt-utils)| 0 | 0 | 6| 2020-09-10 | 2020-09-11 |
 | [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86837| 2020-09-02 | 2020-09-24 |
 | [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 1 | 0 | 14| 2020-08-06 | 2020-09-09 |
-| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 598| 2020-07-15 | 2020-09-24 |
+| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 621| 2020-07-15 | 2020-09-25 |
 | [ipld/docs](https://github.com/ipld/docs)| 3 | 1 | 1550| 2020-07-10 | 2020-09-18 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 52| 2020-06-29 | 2020-09-01 |
 | [ipld/js-bitcoin](https://github.com/ipld/js-bitcoin)| 0 | 0 | 15883| 2020-05-27 | 2020-09-01 |
