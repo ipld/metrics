@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 25
-*  8/2020: 11
-*  7/2020: 25
-*  6/2020: 12
-*  5/2020: 20
-*  4/2020: 6
-*  3/2020: 8
-*  2/2020: 20
-*  1/2020: 17
-*  12/2019: 8
-*  11/2019: 5
-*  10/2019: 11
+*  9/2020: 9
+*  8/2020: 8
+*  7/2020: 8
+*  6/2020: 7
+*  5/2020: 10
+*  4/2020: 5
+*  3/2020: 7
+*  2/2020: 6
+*  1/2020: 7
+*  12/2019: 6
+*  11/2019: 8
+*  10/2019: 2
 
 ### GitHub Search
 
@@ -80,13 +80,13 @@ Total Results (Limited by GitHUB API): 72
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [mikeal/hamt-utils](https://github.com/mikeal/hamt-utils)| 0 | 0 | 6| 2020-09-10 | 2020-09-11 |
-| [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86872| 2020-09-02 | 2020-09-30 |
+| [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86874| 2020-09-02 | 2020-10-01 |
 | [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 1 | 0 | 14| 2020-08-06 | 2020-09-09 |
-| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 401| 2020-07-15 | 2020-09-30 |
-| [ipld/docs](https://github.com/ipld/docs)| 3 | 3 | 1550| 2020-07-10 | 2020-09-18 |
+| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 413| 2020-07-15 | 2020-10-01 |
+| [ipld/docs](https://github.com/ipld/docs)| 3 | 3 | 1682| 2020-07-10 | 2020-10-01 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 52| 2020-06-29 | 2020-09-01 |
 | [ipld/js-bitcoin](https://github.com/ipld/js-bitcoin)| 0 | 0 | 15883| 2020-05-27 | 2020-09-01 |
-| [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 1 | 176| 2020-05-12 | 2020-09-30 |
+| [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 1 | 1 | 184| 2020-05-12 | 2020-10-01 |
 | [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 1 | 0 | 2463| 2020-03-20 | 2020-09-11 |
 | [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
 
