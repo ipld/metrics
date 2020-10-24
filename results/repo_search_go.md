@@ -6,7 +6,7 @@ Total Results (Limited by GitHUB API): 35
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [yondero/go-ipld-multiverse](https://github.com/yondero/go-ipld-multiverse)| 1 | 0 | 27| 2020-10-06 | 2020-10-14 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
-| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60685| 2020-08-26 | 2020-10-22 |
+| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60686| 2020-08-26 | 2020-10-23 |
 | [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60308| 2020-08-10 | 2020-09-10 |
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
 | [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 4 | 4 | 60420| 2020-05-27 | 2020-10-21 |
