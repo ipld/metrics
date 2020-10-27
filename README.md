@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 6
-*  9/2020: 17
-*  8/2020: 8
-*  7/2020: 11
-*  6/2020: 4
-*  5/2020: 6
-*  4/2020: 7
-*  3/2020: 7
-*  2/2020: 16
-*  1/2020: 9
-*  12/2019: 6
-*  11/2019: 9
+*  10/2020: 8
+*  9/2020: 11
+*  8/2020: 5
+*  7/2020: 6
+*  6/2020: 6
+*  5/2020: 14
+*  4/2020: 5
+*  3/2020: 6
+*  2/2020: 12
+*  1/2020: 10
+*  12/2019: 10
+*  11/2019: 4
 
 ### GitHub Search
 
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 35
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [yondero/go-ipld-multiverse](https://github.com/yondero/go-ipld-multiverse)| 1 | 0 | 27| 2020-10-06 | 2020-10-14 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
-| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60686| 2020-08-26 | 2020-10-23 |
+| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60777| 2020-08-26 | 2020-10-26 |
 | [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60308| 2020-08-10 | 2020-09-10 |
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
 | [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 4 | 4 | 60420| 2020-05-27 | 2020-10-24 |
@@ -79,15 +79,15 @@ Total Results (Limited by GitHUB API): 75
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 0 | 3| 2020-10-24 | 2020-10-24 |
+| [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 12| 2020-10-24 | 2020-10-26 |
 | [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 33| 2020-10-24 | 2020-10-24 |
-| [rvagg/js-ipld-schema-describer](https://github.com/rvagg/js-ipld-schema-describer)| 0 | 0 | 14| 2020-10-21 | 2020-10-24 |
+| [rvagg/js-ipld-schema-describer](https://github.com/rvagg/js-ipld-schema-describer)| 1 | 0 | 14| 2020-10-21 | 2020-10-24 |
 | [mikeal/simple-ipld-examples](https://github.com/mikeal/simple-ipld-examples)| 1 | 0 | 1| 2020-10-20 | 2020-10-20 |
 | [mikeal/hamt-utils](https://github.com/mikeal/hamt-utils)| 0 | 0 | 10| 2020-09-10 | 2020-10-10 |
 | [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86876| 2020-09-02 | 2020-10-20 |
 | [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 1 | 0 | 14| 2020-08-06 | 2020-09-09 |
 | [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 408| 2020-07-15 | 2020-10-22 |
-| [ipld/docs](https://github.com/ipld/docs)| 5 | 5 | 1890| 2020-07-10 | 2020-10-19 |
+| [ipld/docs](https://github.com/ipld/docs)| 5 | 4 | 1890| 2020-07-10 | 2020-10-19 |
 | [rvagg/js-zcash](https://github.com/rvagg/js-zcash)| 1 | 0 | 52| 2020-06-29 | 2020-09-01 |
 
 
