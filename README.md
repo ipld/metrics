@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 0
-*  10/2020: 9
-*  9/2020: 12
-*  8/2020: 6
-*  7/2020: 11
-*  6/2020: 6
-*  5/2020: 11
+*  11/2020: 66
+*  10/2020: 11
+*  9/2020: 7
+*  8/2020: 5
+*  7/2020: 9
+*  6/2020: 5
+*  5/2020: 4
 *  4/2020: 4
-*  3/2020: 8
-*  2/2020: 16
-*  1/2020: 14
-*  12/2019: 8
+*  3/2020: 9
+*  2/2020: 8
+*  1/2020: 11
+*  12/2019: 7
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 35
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [multiverse-vcs/go-ipld-multiverse](https://github.com/multiverse-vcs/go-ipld-multiverse)| 1 | 0 | 29| 2020-10-06 | 2020-11-02 |
+| [multiverse-vcs/go-ipld-multiverse](https://github.com/multiverse-vcs/go-ipld-multiverse)| 1 | 0 | 84| 2020-10-06 | 2020-11-04 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
 | [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60491| 2020-08-26 | 2020-11-01 |
 | [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60308| 2020-08-10 | 2020-09-10 |
