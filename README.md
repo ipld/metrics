@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 31
-*  10/2020: 8
-*  9/2020: 12
-*  8/2020: 4
-*  7/2020: 9
-*  6/2020: 5
-*  5/2020: 9
-*  4/2020: 4
-*  3/2020: 7
-*  2/2020: 12
-*  1/2020: 8
-*  12/2019: 6
+*  11/2020: 0
+*  10/2020: 7
+*  9/2020: 8
+*  8/2020: 5
+*  7/2020: 13
+*  6/2020: 7
+*  5/2020: 7
+*  4/2020: 7
+*  3/2020: 5
+*  2/2020: 8
+*  1/2020: 5
+*  12/2019: 9
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 70
+Total Matches: 72
 
-Total Results (Limited by GitHUB API): 35
+Total Results (Limited by GitHUB API): 36
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 0 | 0 | 0| 2020-11-08 | 2020-11-08 |
 | [multiverse-vcs/go-ipld-multiverse](https://github.com/multiverse-vcs/go-ipld-multiverse)| 1 | 0 | 84| 2020-10-06 | 2020-11-04 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
 | [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60491| 2020-08-26 | 2020-11-01 |
 | [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60308| 2020-08-10 | 2020-09-10 |
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
-| [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 4 | 4 | 60415| 2020-05-27 | 2020-11-01 |
+| [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 5 | 4 | 60415| 2020-05-27 | 2020-11-01 |
 | [creationix/sel-parse-go](https://github.com/creationix/sel-parse-go)| 0 | 0 | 5| 2020-05-07 | 2020-05-17 |
 | [jhamPac/purple](https://github.com/jhamPac/purple)| 0 | 0 | 4| 2020-04-19 | 2020-04-20 |
 | [cuitaixiang/go-ipld-prime-notes](https://github.com/cuitaixiang/go-ipld-prime-notes)| 0 | 0 | 867| 2020-04-08 | 2020-04-14 |
-| [jameshih/ipld-bookstore](https://github.com/jameshih/ipld-bookstore)| 0 | 0 | 8| 2020-02-04 | 2020-02-05 |
 
 
 The above set is limited to the 10 most recently created. 
