@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 20
-*  10/2020: 8
-*  9/2020: 11
-*  8/2020: 4
+*  11/2020: 19
+*  10/2020: 14
+*  9/2020: 17
+*  8/2020: 8
 *  7/2020: 9
-*  6/2020: 4
-*  5/2020: 9
-*  4/2020: 4
-*  3/2020: 9
-*  2/2020: 13
-*  1/2020: 11
-*  12/2019: 7
+*  6/2020: 10
+*  5/2020: 14
+*  4/2020: 7
+*  3/2020: 11
+*  2/2020: 19
+*  1/2020: 14
+*  12/2019: 6
 
 ### GitHub Search
 
@@ -57,9 +57,9 @@ Total Results (Limited by GitHUB API): 36
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
-| [multiverse-vcs/go-ipld-multiverse](https://github.com/multiverse-vcs/go-ipld-multiverse)| 1 | 0 | 84| 2020-10-06 | 2020-11-04 |
+| [multiverse-vcs/go-ipld-multiverse](https://github.com/multiverse-vcs/go-ipld-multiverse)| 1 | 0 | 91| 2020-10-06 | 2020-11-12 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
-| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60508| 2020-08-26 | 2020-11-09 |
+| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60517| 2020-08-26 | 2020-11-12 |
 | [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60308| 2020-08-10 | 2020-09-10 |
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
 | [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 5 | 4 | 60415| 2020-05-27 | 2020-11-01 |
