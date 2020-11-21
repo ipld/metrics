@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 9
-*  10/2020: 6
-*  9/2020: 16
-*  8/2020: 8
-*  7/2020: 9
-*  6/2020: 4
-*  5/2020: 5
-*  4/2020: 4
-*  3/2020: 13
-*  2/2020: 11
-*  1/2020: 10
-*  12/2019: 8
+*  11/2020: 6
+*  10/2020: 15
+*  9/2020: 14
+*  8/2020: 7
+*  7/2020: 8
+*  6/2020: 7
+*  5/2020: 13
+*  4/2020: 9
+*  3/2020: 8
+*  2/2020: 14
+*  1/2020: 6
+*  12/2019: 5
 
 ### GitHub Search
 
@@ -73,15 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 152
+Total Matches: 154
 
-Total Results (Limited by GitHUB API): 76
+Total Results (Limited by GitHUB API): 77
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 1 | 0 | 20| 2020-10-28 | 2020-10-29 |
 | [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 14| 2020-10-24 | 2020-10-28 |
-| [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 33| 2020-10-24 | 2020-10-24 |
+| [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 39| 2020-10-24 | 2020-11-20 |
 | [rvagg/js-ipld-schema-describer](https://github.com/rvagg/js-ipld-schema-describer)| 1 | 0 | 14| 2020-10-21 | 2020-10-24 |
 | [mikeal/simple-ipld-examples](https://github.com/mikeal/simple-ipld-examples)| 3 | 0 | 1| 2020-10-20 | 2020-10-20 |
 | [mikeal/hamt-utils](https://github.com/mikeal/hamt-utils)| 0 | 0 | 10| 2020-09-10 | 2020-10-10 |
