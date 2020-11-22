@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 6
-*  10/2020: 15
+*  11/2020: 4
+*  10/2020: 9
 *  9/2020: 14
-*  8/2020: 7
-*  7/2020: 8
+*  8/2020: 3
+*  7/2020: 11
 *  6/2020: 7
 *  5/2020: 13
 *  4/2020: 9
-*  3/2020: 8
-*  2/2020: 14
-*  1/2020: 6
-*  12/2019: 5
+*  3/2020: 9
+*  2/2020: 10
+*  1/2020: 9
+*  12/2019: 6
 
 ### GitHub Search
 
@@ -88,7 +88,7 @@ Total Results (Limited by GitHUB API): 77
 | [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86876| 2020-09-02 | 2020-10-20 |
 | [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 2 | 0 | 14| 2020-08-06 | 2020-09-09 |
 | [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 875| 2020-07-15 | 2020-11-19 |
-| [ipld/docs](https://github.com/ipld/docs)| 9 | 4 | 2015| 2020-07-10 | 2020-11-10 |
+| [ipld/docs](https://github.com/ipld/docs)| 9 | 5 | 2015| 2020-07-10 | 2020-11-21 |
 
 
 The above set is limited to the 10 most recently created. 
