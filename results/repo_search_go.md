@@ -1,11 +1,10 @@
-Total Matches: 74
+Total Matches: 72
 
-Total Results (Limited by GitHUB API): 37
+Total Results (Limited by GitHUB API): 36
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
-| [multiverse-vcs/go-ipld-multiverse](https://github.com/multiverse-vcs/go-ipld-multiverse)| 1 | 0 | 91| 2020-10-06 | 2020-11-12 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
 | [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60517| 2020-08-26 | 2020-11-13 |
 | [amirylm/libp2p-facade](https://github.com/amirylm/libp2p-facade)| 2 | 0 | 119| 2020-08-24 | 2020-11-13 |
@@ -26,14 +25,14 @@ Total Results (Limited by GitHUB API): 37
 | [rvagg/go-datastore-zipcar](https://github.com/rvagg/go-datastore-zipcar)| 2 | 0 | 57| 2019-08-06 | 2019-08-13 |
 | [Netflix/p2plab](https://github.com/Netflix/p2plab)| 115 | 21 | 16722| 2019-07-27 | 2020-06-02 |
 | [ipld/go-ipld-schema](https://github.com/ipld/go-ipld-schema)| 4 | 1 | 86| 2019-07-01 | 2020-06-05 |
-| [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite)| 119 | 16 | 110871| 2019-03-09 | 2020-11-17 |
+| [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite)| 119 | 16 | 110943| 2019-03-09 | 2020-11-23 |
 | [whyrusleeping/sharray](https://github.com/whyrusleeping/sharray)| 2 | 0 | 6| 2019-01-16 | 2019-07-18 |
 | [jonnycrunch/go-ipld-jsonld](https://github.com/jonnycrunch/go-ipld-jsonld)| 1 | 0 | 6| 2018-11-21 | 2018-07-13 |
 | [ipld/go-ipld-prime](https://github.com/ipld/go-ipld-prime)| 34 | 14 | 1510| 2018-10-31 | 2020-11-19 |
 | [qri-io/go-ipld-manifest](https://github.com/qri-io/go-ipld-manifest)| 6 | 2 | 5| 2018-09-25 | 2018-09-25 |
 | [fossabot/go-ipld-polymorph](https://github.com/fossabot/go-ipld-polymorph)| 0 | 0 | 46| 2018-08-24 | 2018-08-24 |
 | [ipfs/go-unixfs](https://github.com/ipfs/go-unixfs)| 66 | 25 | 26635| 2018-07-30 | 2020-11-10 |
-| [filecoin-project/go-hamt-ipld](https://github.com/filecoin-project/go-hamt-ipld)| 18 | 15 | 214| 2017-11-17 | 2020-11-19 |
+| [filecoin-project/go-hamt-ipld](https://github.com/filecoin-project/go-hamt-ipld)| 18 | 15 | 214| 2017-11-17 | 2020-11-23 |
 | [ipfs/go-ipld-eth](https://github.com/ipfs/go-ipld-eth)| 42 | 12 | 204| 2017-03-06 | 2020-05-04 |
 | [ipfs/go-ipld-git](https://github.com/ipfs/go-ipld-git)| 44 | 15 | 114| 2016-12-13 | 2020-05-04 |
 | [ipld/go-ipld-btc](https://github.com/ipld/go-ipld-btc)| 17 | 12 | 2824| 2016-12-13 | 2019-09-25 |
