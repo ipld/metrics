@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 16
-*  10/2020: 13
-*  9/2020: 7
-*  8/2020: 11
-*  7/2020: 17
-*  6/2020: 8
-*  5/2020: 9
+*  11/2020: 5
+*  10/2020: 12
+*  9/2020: 16
+*  8/2020: 8
+*  7/2020: 13
+*  6/2020: 7
+*  5/2020: 12
 *  4/2020: 4
-*  3/2020: 5
-*  2/2020: 17
-*  1/2020: 13
-*  12/2019: 6
+*  3/2020: 8
+*  2/2020: 13
+*  1/2020: 14
+*  12/2019: 4
 
 ### GitHub Search
 
@@ -87,7 +87,7 @@ Total Results (Limited by GitHUB API): 77
 | [mikeal/hamt-utils](https://github.com/mikeal/hamt-utils)| 0 | 0 | 10| 2020-09-10 | 2020-10-10 |
 | [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86876| 2020-09-02 | 2020-10-20 |
 | [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 2 | 0 | 14| 2020-08-06 | 2020-09-09 |
-| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 875| 2020-07-15 | 2020-11-19 |
+| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 966| 2020-07-15 | 2020-11-25 |
 | [ipld/docs](https://github.com/ipld/docs)| 9 | 5 | 2015| 2020-07-10 | 2020-11-21 |
 
 
