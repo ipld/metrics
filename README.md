@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 7
-*  10/2020: 9
-*  9/2020: 16
-*  8/2020: 7
-*  7/2020: 7
-*  6/2020: 9
-*  5/2020: 2
-*  4/2020: 4
-*  3/2020: 2
-*  2/2020: 15
-*  1/2020: 5
+*  11/2020: 13
+*  10/2020: 35
+*  9/2020: 8
+*  8/2020: 4
+*  7/2020: 21
+*  6/2020: 16
+*  5/2020: 20
+*  4/2020: 16
+*  3/2020: 28
+*  2/2020: 28
+*  1/2020: 17
 *  12/2019: 5
 
 ### GitHub Search
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 77
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 1 | 0 | 20| 2020-10-28 | 2020-10-29 |
+| [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 2 | 0 | 20| 2020-10-28 | 2020-10-29 |
 | [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 14| 2020-10-24 | 2020-10-28 |
 | [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 39| 2020-10-24 | 2020-11-20 |
 | [rvagg/js-ipld-schema-describer](https://github.com/rvagg/js-ipld-schema-describer)| 1 | 0 | 14| 2020-10-21 | 2020-10-24 |
