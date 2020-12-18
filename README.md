@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  12/2020: 0
-*  11/2020: 10
-*  10/2020: 7
-*  9/2020: 16
-*  8/2020: 7
+*  11/2020: 4
+*  10/2020: 8
+*  9/2020: 36
+*  8/2020: 12
 *  7/2020: 16
-*  6/2020: 9
-*  5/2020: 9
-*  4/2020: 2
-*  3/2020: 2
-*  2/2020: 20
-*  1/2020: 14
+*  6/2020: 8
+*  5/2020: 23
+*  4/2020: 15
+*  3/2020: 12
+*  2/2020: 30
+*  1/2020: 17
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 154
+Total Matches: 156
 
-Total Results (Limited by GitHUB API): 77
+Total Results (Limited by GitHUB API): 78
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 5| 2020-12-17 | 2020-12-17 |
 | [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 2 | 0 | 20| 2020-10-28 | 2020-10-29 |
 | [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 14| 2020-10-24 | 2020-10-28 |
 | [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 39| 2020-10-24 | 2020-11-20 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 77
 | [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86876| 2020-09-02 | 2020-10-20 |
 | [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 2 | 0 | 14| 2020-08-06 | 2020-09-09 |
 | [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 886| 2020-07-15 | 2020-12-07 |
-| [ipld/docs](https://github.com/ipld/docs)| 11 | 7 | 2015| 2020-07-10 | 2020-11-21 |
 
 
 The above set is limited to the 10 most recently created. 
