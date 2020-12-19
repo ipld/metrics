@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  12/2020: 0
-*  11/2020: 4
-*  10/2020: 8
-*  9/2020: 36
-*  8/2020: 12
-*  7/2020: 16
-*  6/2020: 8
-*  5/2020: 23
-*  4/2020: 15
-*  3/2020: 12
-*  2/2020: 30
-*  1/2020: 17
+*  11/2020: 3
+*  10/2020: 9
+*  9/2020: 31
+*  8/2020: 8
+*  7/2020: 20
+*  6/2020: 0
+*  5/2020: 13
+*  4/2020: 8
+*  3/2020: 11
+*  2/2020: 18
+*  1/2020: 3
 
 ### GitHub Search
 
@@ -57,7 +57,7 @@ Total Results (Limited by GitHUB API): 38
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20559| 2020-12-12 | 2020-12-12 |
-| [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 0 | 0 | 12| 2020-12-07 | 2020-12-07 |
+| [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 0 | 0 | 15| 2020-12-07 | 2020-12-18 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
 | [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60517| 2020-08-26 | 2020-11-13 |
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 78
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 5| 2020-12-17 | 2020-12-17 |
+| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 13| 2020-12-17 | 2020-12-18 |
 | [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 2 | 0 | 20| 2020-10-28 | 2020-10-29 |
 | [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 14| 2020-10-24 | 2020-10-28 |
 | [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 39| 2020-10-24 | 2020-11-20 |
