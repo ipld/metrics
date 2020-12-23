@@ -1,10 +1,9 @@
-Total Matches: 76
+Total Matches: 74
 
-Total Results (Limited by GitHUB API): 38
+Total Results (Limited by GitHUB API): 37
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20559| 2020-12-12 | 2020-12-12 |
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 0 | 0 | 15| 2020-12-07 | 2020-12-18 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
