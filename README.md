@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 4
-*  11/2020: 6
-*  10/2020: 9
-*  9/2020: 23
-*  8/2020: 6
-*  7/2020: 26
-*  6/2020: 8
-*  5/2020: 19
-*  4/2020: 3
-*  3/2020: 11
-*  2/2020: 13
-*  1/2020: 15
+*  12/2020: 3
+*  11/2020: 11
+*  10/2020: 13
+*  9/2020: 11
+*  8/2020: 9
+*  7/2020: 6
+*  6/2020: 15
+*  5/2020: 4
+*  4/2020: 4
+*  3/2020: 8
+*  2/2020: 14
+*  1/2020: 2
 
 ### GitHub Search
 
@@ -83,7 +83,7 @@ Total Results (Limited by GitHUB API): 78
 | [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 2 | 0 | 20| 2020-10-28 | 2020-10-29 |
 | [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 14| 2020-10-24 | 2020-10-28 |
 | [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 39| 2020-10-24 | 2020-11-20 |
-| [rvagg/js-ipld-schema-describer](https://github.com/rvagg/js-ipld-schema-describer)| 1 | 0 | 14| 2020-10-21 | 2020-10-24 |
+| [rvagg/js-ipld-schema-describer](https://github.com/rvagg/js-ipld-schema-describer)| 2 | 0 | 14| 2020-10-21 | 2020-10-24 |
 | [mikeal/simple-ipld-examples](https://github.com/mikeal/simple-ipld-examples)| 3 | 0 | 1| 2020-10-20 | 2020-10-20 |
 | [mikeal/hamt-utils](https://github.com/mikeal/hamt-utils)| 0 | 0 | 10| 2020-09-10 | 2020-10-10 |
 | [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86876| 2020-09-02 | 2020-10-20 |
