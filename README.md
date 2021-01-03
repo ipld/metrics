@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 0
-*  11/2020: 14
-*  10/2020: 14
+*  12/2020: 9
+*  11/2020: 6
+*  10/2020: 6
 *  9/2020: 20
-*  8/2020: 10
-*  7/2020: 13
+*  8/2020: 6
+*  7/2020: 20
 *  6/2020: 6
-*  5/2020: 16
-*  4/2020: 3
-*  3/2020: 3
+*  5/2020: 11
+*  4/2020: 5
+*  3/2020: 8
 *  2/2020: 22
-*  1/2020: 10
+*  1/2020: 12
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 156
+Total Matches: 158
 
-Total Results (Limited by GitHUB API): 78
+Total Results (Limited by GitHUB API): 79
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [mikeal/dag-query](https://github.com/mikeal/dag-query)| 0 | 0 | 3| 2021-01-02 | 2021-01-02 |
 | [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 13| 2020-12-17 | 2020-12-18 |
 | [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 2 | 0 | 20| 2020-10-28 | 2020-10-29 |
 | [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 14| 2020-10-24 | 2020-10-28 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 78
 | [mikeal/hamt-utils](https://github.com/mikeal/hamt-utils)| 0 | 0 | 10| 2020-09-10 | 2020-10-10 |
 | [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 86876| 2020-09-02 | 2020-10-20 |
 | [mikeal/lfs-store](https://github.com/mikeal/lfs-store)| 2 | 0 | 14| 2020-08-06 | 2020-09-09 |
-| [keyko-io/filecoin-verifier-tools](https://github.com/keyko-io/filecoin-verifier-tools)| 2 | 1 | 886| 2020-07-15 | 2020-12-07 |
 
 
 The above set is limited to the 10 most recently created. 
