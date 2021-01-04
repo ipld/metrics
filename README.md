@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
+*  1/2021: 0
 *  12/2020: 9
-*  11/2020: 6
+*  11/2020: 9
 *  10/2020: 6
-*  9/2020: 20
-*  8/2020: 6
-*  7/2020: 20
-*  6/2020: 6
-*  5/2020: 11
-*  4/2020: 5
-*  3/2020: 8
-*  2/2020: 22
-*  1/2020: 12
+*  9/2020: 14
+*  8/2020: 0
+*  7/2020: 11
+*  6/2020: 8
+*  5/2020: 8
+*  4/2020: 8
+*  3/2020: 0
+*  2/2020: 19
 
 ### GitHub Search
 
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 79
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [mikeal/dag-query](https://github.com/mikeal/dag-query)| 0 | 0 | 3| 2021-01-02 | 2021-01-02 |
+| [mikeal/dag-query](https://github.com/mikeal/dag-query)| 0 | 0 | 4| 2021-01-02 | 2021-01-03 |
 | [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 13| 2020-12-17 | 2020-12-18 |
 | [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 2 | 0 | 20| 2020-10-28 | 2020-10-29 |
 | [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 14| 2020-10-24 | 2020-10-28 |
