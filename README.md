@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2021: 0
+*  1/2021: 9
 *  12/2020: 5
-*  11/2020: 7
+*  11/2020: 8
 *  10/2020: 2
-*  9/2020: 16
+*  9/2020: 10
 *  8/2020: 7
-*  7/2020: 23
-*  6/2020: 2
-*  5/2020: 4
-*  4/2020: 6
-*  3/2020: 2
-*  2/2020: 17
+*  7/2020: 17
+*  6/2020: 5
+*  5/2020: 7
+*  4/2020: 2
+*  3/2020: 5
+*  2/2020: 18
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 37
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 1 | 0 | 17| 2020-12-07 | 2021-01-09 |
+| [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 3 | 0 | 17| 2020-12-07 | 2021-01-09 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
 | [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60517| 2020-08-26 | 2020-11-13 |
