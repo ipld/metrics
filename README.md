@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  1/2021: 6
-*  12/2020: 8
-*  11/2020: 8
-*  10/2020: 16
-*  9/2020: 15
-*  8/2020: 11
-*  7/2020: 15
-*  6/2020: 11
-*  5/2020: 14
+*  12/2020: 7
+*  11/2020: 2
+*  10/2020: 9
+*  9/2020: 21
+*  8/2020: 5
+*  7/2020: 7
+*  6/2020: 7
+*  5/2020: 7
 *  4/2020: 7
-*  3/2020: 11
-*  2/2020: 25
+*  3/2020: 4
+*  2/2020: 10
 
 ### GitHub Search
 
@@ -59,7 +59,7 @@ Total Results (Limited by GitHUB API): 37
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 0 | 17| 2020-12-07 | 2021-01-09 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
-| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60534| 2020-08-26 | 2021-01-22 |
+| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60544| 2020-08-26 | 2021-01-25 |
 | [amirylm/libp2p-facade](https://github.com/amirylm/libp2p-facade)| 2 | 0 | 122| 2020-08-24 | 2020-11-28 |
 | [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60308| 2020-08-10 | 2020-09-10 |
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
