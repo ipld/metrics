@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2021: 26
-*  1/2021: 8
-*  12/2020: 12
-*  11/2020: 20
-*  10/2020: 23
-*  9/2020: 11
-*  8/2020: 4
-*  7/2020: 15
-*  6/2020: 11
-*  5/2020: 11
-*  4/2020: 18
-*  3/2020: 36
+*  2/2021: 10
+*  1/2021: 0
+*  12/2020: 3
+*  11/2020: 10
+*  10/2020: 3
+*  9/2020: 23
+*  8/2020: 13
+*  7/2020: 20
+*  6/2020: 13
+*  5/2020: 13
+*  4/2020: 13
+*  3/2020: 9
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 74
+Total Matches: 76
 
-Total Results (Limited by GitHUB API): 37
+Total Results (Limited by GitHUB API): 38
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 1 | 0 | 7| 2021-02-12 | 2021-02-13 |
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 0 | 17| 2020-12-07 | 2021-01-09 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 37
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
 | [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 5 | 4 | 60418| 2020-05-27 | 2021-02-10 |
 | [creationix/sel-parse-go](https://github.com/creationix/sel-parse-go)| 0 | 0 | 5| 2020-05-07 | 2020-05-17 |
-| [jhamPac/purple](https://github.com/jhamPac/purple)| 0 | 0 | 4| 2020-04-19 | 2020-04-20 |
 
 
 The above set is limited to the 10 most recently created. 
