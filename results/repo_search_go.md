@@ -4,7 +4,7 @@ Total Results (Limited by GitHUB API): 39
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 1 | 0 | 28| 2021-02-22 | 2021-02-22 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 2 | 1 | 34| 2021-02-22 | 2021-02-23 |
 | [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 1 | 0 | 10| 2021-02-12 | 2021-02-18 |
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 0 | 18| 2020-12-07 | 2021-02-18 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
@@ -37,7 +37,7 @@ Total Results (Limited by GitHUB API): 39
 | [ipfs/go-unixfs](https://github.com/ipfs/go-unixfs)| 71 | 26 | 26635| 2018-07-30 | 2020-11-10 |
 | [filecoin-project/go-hamt-ipld](https://github.com/filecoin-project/go-hamt-ipld)| 19 | 18 | 244| 2017-11-17 | 2021-01-27 |
 | [ipfs/go-ipld-eth](https://github.com/ipfs/go-ipld-eth)| 42 | 13 | 204| 2017-03-06 | 2020-05-04 |
-| [ipfs/go-ipld-git](https://github.com/ipfs/go-ipld-git)| 44 | 17 | 116| 2016-12-13 | 2021-02-17 |
+| [ipfs/go-ipld-git](https://github.com/ipfs/go-ipld-git)| 44 | 17 | 145| 2016-12-13 | 2021-02-23 |
 | [ipld/go-ipld-btc](https://github.com/ipld/go-ipld-btc)| 18 | 13 | 2830| 2016-12-13 | 2021-02-18 |
 | [ipfs/go-ipld-zcash](https://github.com/ipfs/go-ipld-zcash)| 13 | 3 | 42| 2016-10-28 | 2020-05-04 |
 | [ipfs/go-ipld-cbor](https://github.com/ipfs/go-ipld-cbor)| 26 | 24 | 139| 2016-10-24 | 2020-11-10 |
