@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2021: 11
-*  2/2021: 4
-*  1/2021: 12
-*  12/2020: 0
-*  11/2020: 16
-*  10/2020: 16
-*  9/2020: 34
-*  8/2020: 8
-*  7/2020: 31
-*  6/2020: 15
-*  5/2020: 22
-*  4/2020: 15
+*  3/2021: 21
+*  2/2021: 15
+*  1/2021: 4
+*  12/2020: 9
+*  11/2020: 18
+*  10/2020: 13
+*  9/2020: 43
+*  8/2020: 13
+*  7/2020: 22
+*  6/2020: 8
+*  5/2020: 29
+*  4/2020: 12
 
 ### GitHub Search
 
@@ -57,7 +57,7 @@ Total Results (Limited by GitHUB API): 40
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 0 | 6| 2021-03-05 | 2021-03-08 |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 100| 2021-02-22 | 2021-03-08 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 162| 2021-02-22 | 2021-03-15 |
 | [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 1 | 0 | 18| 2021-02-12 | 2021-03-12 |
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 0 | 51| 2020-12-07 | 2021-03-08 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
