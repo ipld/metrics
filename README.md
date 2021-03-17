@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2021: 21
-*  2/2021: 15
-*  1/2021: 4
-*  12/2020: 9
-*  11/2020: 18
-*  10/2020: 13
-*  9/2020: 43
-*  8/2020: 13
-*  7/2020: 22
-*  6/2020: 8
-*  5/2020: 29
-*  4/2020: 12
+*  3/2021: 8
+*  2/2021: 0
+*  1/2021: 3
+*  12/2020: 7
+*  11/2020: 14
+*  10/2020: 7
+*  9/2020: 26
+*  8/2020: 17
+*  7/2020: 20
+*  6/2020: 6
+*  5/2020: 6
+*  4/2020: 16
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 40
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 0 | 6| 2021-03-05 | 2021-03-08 |
+| [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 0 | 10| 2021-03-05 | 2021-03-16 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 162| 2021-02-22 | 2021-03-15 |
 | [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 1 | 0 | 18| 2021-02-12 | 2021-03-12 |
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 0 | 51| 2020-12-07 | 2021-03-08 |
