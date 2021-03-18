@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2021: 8
-*  2/2021: 0
-*  1/2021: 3
-*  12/2020: 7
-*  11/2020: 14
-*  10/2020: 7
-*  9/2020: 26
-*  8/2020: 17
-*  7/2020: 20
+*  3/2021: 21
+*  2/2021: 10
+*  1/2021: 0
+*  12/2020: 12
+*  11/2020: 6
+*  10/2020: 9
+*  9/2020: 20
+*  8/2020: 6
+*  7/2020: 26
 *  6/2020: 6
-*  5/2020: 6
-*  4/2020: 16
+*  5/2020: 11
+*  4/2020: 8
 
 ### GitHub Search
 
@@ -56,13 +56,13 @@ Total Results (Limited by GitHUB API): 40
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 0 | 10| 2021-03-05 | 2021-03-16 |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 162| 2021-02-22 | 2021-03-15 |
+| [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 0 | 14| 2021-03-05 | 2021-03-17 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 191| 2021-02-22 | 2021-03-17 |
 | [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 1 | 0 | 18| 2021-02-12 | 2021-03-12 |
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 0 | 51| 2020-12-07 | 2021-03-08 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
-| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60738| 2020-08-26 | 2021-03-13 |
+| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 60762| 2020-08-26 | 2021-03-17 |
 | [amirylm/libp2p-facade](https://github.com/amirylm/libp2p-facade)| 3 | 0 | 122| 2020-08-24 | 2020-11-28 |
 | [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60308| 2020-08-10 | 2020-09-10 |
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
