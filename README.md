@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2021: 0
-*  3/2021: 5
-*  2/2021: 5
-*  1/2021: 0
-*  12/2020: 5
-*  11/2020: 7
-*  10/2020: 5
-*  9/2020: 14
+*  4/2021: 12
+*  3/2021: 4
+*  2/2021: 2
+*  1/2021: 5
+*  12/2020: 2
+*  11/2020: 6
+*  10/2020: 11
+*  9/2020: 3
 *  8/2020: 5
 *  7/2020: 9
-*  6/2020: 2
-*  5/2020: 13
+*  6/2020: 0
+*  5/2020: 2
 
 ### GitHub Search
 
@@ -81,7 +81,7 @@ Total Results (Limited by GitHUB API): 80
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
 | [mikeal/dag-query](https://github.com/mikeal/dag-query)| 0 | 0 | 4| 2021-01-02 | 2021-01-03 |
-| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 19| 2020-12-17 | 2021-01-15 |
+| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 23| 2020-12-17 | 2021-04-07 |
 | [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 2 | 0 | 20| 2020-10-28 | 2020-10-29 |
 | [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 14| 2020-10-24 | 2020-10-28 |
 | [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 39| 2020-10-24 | 2020-11-20 |
