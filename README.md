@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  4/2021: 0
-*  3/2021: 7
-*  2/2021: 4
-*  1/2021: 14
-*  12/2020: 7
-*  11/2020: 17
-*  10/2020: 10
-*  9/2020: 30
-*  8/2020: 3
-*  7/2020: 17
-*  6/2020: 3
-*  5/2020: 22
+*  3/2021: 12
+*  2/2021: 3
+*  1/2021: 3
+*  12/2020: 0
+*  11/2020: 12
+*  10/2020: 9
+*  9/2020: 23
+*  8/2020: 6
+*  7/2020: 12
+*  6/2020: 14
+*  5/2020: 24
 
 ### GitHub Search
 
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 41
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 0 | 86| 2021-03-05 | 2021-04-05 |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 238| 2021-02-22 | 2021-04-05 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 280| 2021-02-22 | 2021-04-10 |
 | [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 1 | 0 | 21| 2021-02-12 | 2021-03-25 |
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 1 | 67| 2020-12-07 | 2021-04-09 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
@@ -88,7 +88,7 @@ Total Results (Limited by GitHUB API): 80
 | [rvagg/js-ipld-schema-describer](https://github.com/rvagg/js-ipld-schema-describer)| 2 | 0 | 14| 2020-10-21 | 2020-10-24 |
 | [mikeal/simple-ipld-examples](https://github.com/mikeal/simple-ipld-examples)| 3 | 0 | 1| 2020-10-20 | 2020-10-20 |
 | [mikeal/hamt-utils](https://github.com/mikeal/hamt-utils)| 0 | 0 | 10| 2020-09-10 | 2020-10-10 |
-| [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 87022| 2020-09-02 | 2021-01-26 |
+| [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 87050| 2020-09-02 | 2021-04-10 |
 
 
 The above set is limited to the 10 most recently created. 
