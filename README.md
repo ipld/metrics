@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2021: 8
-*  3/2021: 4
-*  2/2021: 5
+*  4/2021: 13
+*  3/2021: 6
+*  2/2021: 0
 *  1/2021: 4
-*  12/2020: 2
-*  11/2020: 11
-*  10/2020: 7
-*  9/2020: 6
+*  12/2020: 0
+*  11/2020: 4
+*  10/2020: 6
+*  9/2020: 0
 *  8/2020: 4
-*  7/2020: 13
-*  6/2020: 13
-*  5/2020: 12
+*  7/2020: 8
+*  6/2020: 4
+*  5/2020: 7
 
 ### GitHub Search
 
@@ -60,7 +60,7 @@ Total Results (Limited by GitHUB API): 41
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 0 | 86| 2021-03-05 | 2021-04-05 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 312| 2021-02-22 | 2021-04-21 |
 | [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 1 | 0 | 21| 2021-02-12 | 2021-03-25 |
-| [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 1 | 67| 2020-12-07 | 2021-04-09 |
+| [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 1 | 69| 2020-12-07 | 2021-04-22 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
 | [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 61054| 2020-08-26 | 2021-04-21 |
@@ -88,7 +88,7 @@ Total Results (Limited by GitHUB API): 80
 | [rvagg/js-ipld-schema-describer](https://github.com/rvagg/js-ipld-schema-describer)| 2 | 0 | 14| 2020-10-21 | 2020-10-24 |
 | [mikeal/simple-ipld-examples](https://github.com/mikeal/simple-ipld-examples)| 3 | 0 | 1| 2020-10-20 | 2020-10-20 |
 | [mikeal/hamt-utils](https://github.com/mikeal/hamt-utils)| 0 | 0 | 10| 2020-09-10 | 2020-10-10 |
-| [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 87050| 2020-09-02 | 2021-04-10 |
+| [ipld/js-dag-pb](https://github.com/ipld/js-dag-pb)| 2 | 0 | 87058| 2020-09-02 | 2021-04-22 |
 
 
 The above set is limited to the 10 most recently created. 
