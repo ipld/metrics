@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 0
-*  4/2021: 2
-*  3/2021: 7
-*  2/2021: 3
-*  1/2021: 0
-*  12/2020: 0
+*  5/2021: 31
+*  4/2021: 16
+*  3/2021: 11
+*  2/2021: 4
+*  1/2021: 4
+*  12/2020: 4
 *  11/2020: 12
-*  10/2020: 9
-*  9/2020: 18
-*  8/2020: 2
-*  7/2020: 21
-*  6/2020: 7
+*  10/2020: 19
+*  9/2020: 41
+*  8/2020: 8
+*  7/2020: 30
+*  6/2020: 15
 
 ### GitHub Search
 
@@ -79,10 +79,10 @@ Total Results (Limited by GitHUB API): 81
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 0 | 97| 2021-04-30 | 2021-05-04 |
+| [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 0 | 100| 2021-04-30 | 2021-05-06 |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
 | [mikeal/dag-query](https://github.com/mikeal/dag-query)| 0 | 0 | 4| 2021-01-02 | 2021-01-03 |
-| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 28| 2020-12-17 | 2021-04-26 |
+| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 33| 2020-12-17 | 2021-05-06 |
 | [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 2 | 0 | 20| 2020-10-28 | 2020-10-29 |
 | [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 14| 2020-10-24 | 2020-10-28 |
 | [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 39| 2020-10-24 | 2020-11-20 |
