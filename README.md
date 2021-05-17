@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 10
-*  4/2021: 12
-*  3/2021: 7
+*  5/2021: 17
+*  4/2021: 10
+*  3/2021: 5
 *  2/2021: 0
-*  1/2021: 2
-*  12/2020: 2
-*  11/2020: 16
-*  10/2020: 10
-*  9/2020: 6
-*  8/2020: 6
-*  7/2020: 9
-*  6/2020: 4
+*  1/2021: 10
+*  12/2020: 3
+*  11/2020: 8
+*  10/2020: 5
+*  9/2020: 5
+*  8/2020: 7
+*  7/2020: 7
+*  6/2020: 0
 
 ### GitHub Search
 
@@ -60,7 +60,7 @@ Total Results (Limited by GitHUB API): 41
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 0 | 114| 2021-03-05 | 2021-04-23 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 312| 2021-02-22 | 2021-04-21 |
 | [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 1 | 0 | 27| 2021-02-12 | 2021-04-23 |
-| [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 1 | 68| 2020-12-07 | 2021-04-25 |
+| [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 2 | 68| 2020-12-07 | 2021-04-25 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
 | [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 0 | 1 | 61088| 2020-08-26 | 2021-04-29 |
@@ -80,7 +80,7 @@ Total Results (Limited by GitHUB API): 82
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [Electronic-Signatures-Industries/swarm-b...](https://github.com/Electronic-Signatures-Industries/swarm-bee-block-service)| 0 | 0 | 217| 2021-05-12 | 2021-05-12 |
-| [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 0 | 100| 2021-04-30 | 2021-05-06 |
+| [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 1 | 100| 2021-04-30 | 2021-05-06 |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
 | [mikeal/dag-query](https://github.com/mikeal/dag-query)| 0 | 0 | 4| 2021-01-02 | 2021-01-03 |
 | [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 34| 2020-12-17 | 2021-05-12 |
