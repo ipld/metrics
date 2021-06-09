@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 0
-*  5/2021: 2
-*  4/2021: 8
-*  3/2021: 2
-*  2/2021: 2
-*  1/2021: 4
-*  12/2020: 0
-*  11/2020: 15
-*  10/2020: 5
-*  9/2020: 4
-*  8/2020: 5
-*  7/2020: 9
+*  6/2021: 41
+*  5/2021: 12
+*  4/2021: 12
+*  3/2021: 23
+*  2/2021: 0
+*  1/2021: 0
+*  12/2020: 4
+*  11/2020: 16
+*  10/2020: 16
+*  9/2020: 27
+*  8/2020: 4
+*  7/2020: 15
 
 ### GitHub Search
 
@@ -60,7 +60,7 @@ Total Results (Limited by GitHUB API): 41
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 0 | 114| 2021-03-05 | 2021-06-01 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 315| 2021-02-22 | 2021-06-01 |
 | [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 1 | 0 | 29| 2021-02-12 | 2021-06-01 |
-| [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 2 | 72| 2020-12-07 | 2021-06-01 |
+| [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 2 | 81| 2020-12-07 | 2021-06-08 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
 | [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 1 | 2 | 61129| 2020-08-26 | 2021-06-04 |
