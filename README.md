@@ -22,15 +22,15 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 Google Trends:
 *  6/2021: 12
 *  5/2021: 9
-*  4/2021: 6
-*  3/2021: 9
-*  2/2021: 0
-*  1/2021: 3
+*  4/2021: 0
+*  3/2021: 6
+*  2/2021: 7
+*  1/2021: 6
 *  12/2020: 6
-*  11/2020: 9
-*  10/2020: 3
-*  9/2020: 17
-*  8/2020: 14
+*  11/2020: 3
+*  10/2020: 12
+*  9/2020: 9
+*  8/2020: 0
 *  7/2020: 14
 
 ### GitHub Search
@@ -88,7 +88,7 @@ Total Results (Limited by GitHUB API): 84
 | [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 143| 2020-12-17 | 2021-05-27 |
 | [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 2 | 0 | 20| 2020-10-28 | 2020-10-29 |
 | [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 14| 2020-10-24 | 2020-10-28 |
-| [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 39| 2020-10-24 | 2020-11-20 |
+| [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 54| 2020-10-24 | 2021-06-12 |
 
 
 The above set is limited to the 10 most recently created. 
