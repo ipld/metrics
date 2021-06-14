@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 12
-*  5/2021: 9
-*  4/2021: 0
-*  3/2021: 6
-*  2/2021: 7
-*  1/2021: 6
-*  12/2020: 6
-*  11/2020: 3
-*  10/2020: 12
-*  9/2020: 9
-*  8/2020: 0
-*  7/2020: 14
+*  6/2021: 0
+*  5/2021: 18
+*  4/2021: 9
+*  3/2021: 3
+*  2/2021: 3
+*  1/2021: 0
+*  12/2020: 3
+*  11/2020: 6
+*  10/2020: 9
+*  9/2020: 11
+*  8/2020: 9
+*  7/2020: 9
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 82
+Total Matches: 84
 
-Total Results (Limited by GitHUB API): 41
+Total Results (Limited by GitHUB API): 42
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 6| 2021-06-13 | 2021-06-13 |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 0 | 114| 2021-03-05 | 2021-06-01 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 315| 2021-02-22 | 2021-06-01 |
 | [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 1 | 0 | 29| 2021-02-12 | 2021-06-01 |
-| [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 2 | 81| 2020-12-07 | 2021-06-08 |
+| [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 2 | 82| 2020-12-07 | 2021-06-13 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
 | [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 1 | 2 | 61157| 2020-08-26 | 2021-06-10 |
 | [amirylm/libp2p-facade](https://github.com/amirylm/libp2p-facade)| 3 | 0 | 157| 2020-08-24 | 2021-05-22 |
-| [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60308| 2020-08-10 | 2020-09-10 |
 
 
 The above set is limited to the 10 most recently created. 
