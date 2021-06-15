@@ -1,9 +1,11 @@
-Total Matches: 168
+Total Matches: 172
 
-Total Results (Limited by GitHUB API): 84
+Total Results (Limited by GitHUB API): 86
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 52| 2021-06-14 | 2021-06-14 |
+| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 13| 2021-06-14 | 2021-06-14 |
 | [oliveriosousa/js-ipfs-example-custom-tra...](https://github.com/oliveriosousa/js-ipfs-example-custom-traverse-ipld-graphs)| 0 | 0 | 50| 2021-06-07 | 2021-06-07 |
 | [oliveriosousa/js-ipfs-example-custom-ipl...](https://github.com/oliveriosousa/js-ipfs-example-custom-ipld-formats)| 0 | 0 | 10| 2021-06-07 | 2021-06-07 |
 | [Electronic-Signatures-Industries/swarm-b...](https://github.com/Electronic-Signatures-Industries/swarm-bee-block-service)| 0 | 0 | 217| 2021-05-12 | 2021-05-12 |
@@ -13,7 +15,7 @@ Total Results (Limited by GitHUB API): 84
 | [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 143| 2020-12-17 | 2021-05-27 |
 | [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 2 | 0 | 20| 2020-10-28 | 2020-10-29 |
 | [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 14| 2020-10-24 | 2020-10-28 |
-| [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 54| 2020-10-24 | 2021-06-12 |
+| [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 64| 2020-10-24 | 2021-06-14 |
 | [rvagg/js-ipld-schema-describer](https://github.com/rvagg/js-ipld-schema-describer)| 2 | 0 | 14| 2020-10-21 | 2020-10-24 |
 | [mikeal/simple-ipld-examples](https://github.com/mikeal/simple-ipld-examples)| 3 | 0 | 1| 2020-10-20 | 2020-10-20 |
 | [mikeal/hamt-utils](https://github.com/mikeal/hamt-utils)| 0 | 0 | 10| 2020-09-10 | 2020-10-10 |
@@ -35,8 +37,8 @@ Total Results (Limited by GitHUB API): 84
 | [rvagg/js-ipld-vector](https://github.com/rvagg/js-ipld-vector)| 2 | 0 | 20| 2019-12-09 | 2019-12-09 |
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 12| 2019-11-27 | 2020-10-10 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 131| 2019-10-05 | 2021-05-10 |
-| [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 10 | 1 | 19| 2019-08-26 | 2020-10-09 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 1 | 7951| 2019-08-25 | 2021-06-13 |
+| [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 10 | 1 | 20| 2019-08-26 | 2021-06-14 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 1 | 8003| 2019-08-25 | 2021-06-14 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 14| 2019-08-22 | 2020-03-20 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 1 | 3 | 69| 2019-08-22 | 2020-08-18 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |
@@ -49,7 +51,7 @@ Total Results (Limited by GitHUB API): 84
 | [ipld/js-path-level-one](https://github.com/ipld/js-path-level-one)| 0 | 1 | 9| 2019-05-07 | 2020-08-18 |
 | [ipld/js-codec-interface](https://github.com/ipld/js-codec-interface)| 2 | 1 | 17| 2019-05-03 | 2021-03-03 |
 | [mikeal/js-ipld-http-storage](https://github.com/mikeal/js-ipld-http-storage)| 1 | 0 | 27| 2019-05-02 | 2019-08-29 |
-| [ipld/js-ipld-schema](https://github.com/ipld/js-ipld-schema)| 5 | 2 | 197| 2019-04-30 | 2021-06-11 |
+| [ipld/js-ipld-schema](https://github.com/ipld/js-ipld-schema)| 5 | 2 | 201| 2019-04-30 | 2021-06-14 |
 | [mikeal/ipld-http-block-store](https://github.com/mikeal/ipld-http-block-store)| 0 | 0 | 1| 2019-04-19 | 2019-04-19 |
 | [ipld/js-ipld-stack](https://github.com/ipld/js-ipld-stack)| 7 | 3 | 110| 2019-04-02 | 2019-05-23 |
 | [mikeal/dumb-collection](https://github.com/mikeal/dumb-collection)| 2 | 0 | 1| 2019-03-26 | 2019-03-26 |
