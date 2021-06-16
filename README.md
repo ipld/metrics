@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 27
-*  5/2021: 7
-*  4/2021: 5
-*  3/2021: 5
+*  6/2021: 17
+*  5/2021: 3
+*  4/2021: 18
+*  3/2021: 9
 *  2/2021: 0
-*  1/2021: 0
-*  12/2020: 5
-*  11/2020: 2
-*  10/2020: 12
-*  9/2020: 14
-*  8/2020: 7
-*  7/2020: 9
+*  1/2021: 9
+*  12/2020: 6
+*  11/2020: 9
+*  10/2020: 15
+*  9/2020: 17
+*  8/2020: 14
+*  7/2020: 23
 
 ### GitHub Search
 
@@ -79,8 +79,8 @@ Total Results (Limited by GitHUB API): 86
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 52| 2021-06-14 | 2021-06-14 |
-| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 13| 2021-06-14 | 2021-06-14 |
+| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 53| 2021-06-14 | 2021-06-15 |
+| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 14| 2021-06-14 | 2021-06-15 |
 | [oliveriosousa/js-ipfs-example-custom-tra...](https://github.com/oliveriosousa/js-ipfs-example-custom-traverse-ipld-graphs)| 0 | 0 | 50| 2021-06-07 | 2021-06-07 |
 | [oliveriosousa/js-ipfs-example-custom-ipl...](https://github.com/oliveriosousa/js-ipfs-example-custom-ipld-formats)| 0 | 0 | 10| 2021-06-07 | 2021-06-07 |
 | [Electronic-Signatures-Industries/swarm-b...](https://github.com/Electronic-Signatures-Industries/swarm-bee-block-service)| 0 | 0 | 217| 2021-05-12 | 2021-05-12 |
