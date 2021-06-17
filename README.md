@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 17
-*  5/2021: 3
-*  4/2021: 18
-*  3/2021: 9
-*  2/2021: 0
-*  1/2021: 9
-*  12/2020: 6
-*  11/2020: 9
+*  6/2021: 10
+*  5/2021: 7
+*  4/2021: 8
+*  3/2021: 7
+*  2/2021: 4
+*  1/2021: 4
+*  12/2020: 0
+*  11/2020: 7
 *  10/2020: 15
-*  9/2020: 17
-*  8/2020: 14
-*  7/2020: 23
+*  9/2020: 21
+*  8/2020: 11
+*  7/2020: 28
 
 ### GitHub Search
 
@@ -64,7 +64,7 @@ Total Results (Limited by GitHUB API): 42
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 2 | 82| 2020-12-07 | 2021-06-13 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
-| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 1 | 1 | 60847| 2020-08-26 | 2021-06-14 |
+| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 1 | 1 | 60854| 2020-08-26 | 2021-06-16 |
 | [amirylm/libp2p-facade](https://github.com/amirylm/libp2p-facade)| 3 | 0 | 157| 2020-08-24 | 2021-05-22 |
 
 
@@ -79,8 +79,8 @@ Total Results (Limited by GitHUB API): 86
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 53| 2021-06-14 | 2021-06-15 |
-| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 14| 2021-06-14 | 2021-06-15 |
+| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 53| 2021-06-14 | 2021-06-16 |
+| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 14| 2021-06-14 | 2021-06-16 |
 | [oliveriosousa/js-ipfs-example-custom-tra...](https://github.com/oliveriosousa/js-ipfs-example-custom-traverse-ipld-graphs)| 0 | 0 | 50| 2021-06-07 | 2021-06-07 |
 | [oliveriosousa/js-ipfs-example-custom-ipl...](https://github.com/oliveriosousa/js-ipfs-example-custom-ipld-formats)| 0 | 0 | 10| 2021-06-07 | 2021-06-07 |
 | [Electronic-Signatures-Industries/swarm-b...](https://github.com/Electronic-Signatures-Industries/swarm-bee-block-service)| 0 | 0 | 217| 2021-05-12 | 2021-05-12 |
