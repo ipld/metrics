@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 0
-*  5/2021: 2
-*  4/2021: 7
-*  3/2021: 9
-*  2/2021: 5
-*  1/2021: 5
-*  12/2020: 10
-*  11/2020: 7
-*  10/2020: 9
-*  9/2020: 11
-*  8/2020: 0
-*  7/2020: 5
+*  6/2021: 7
+*  5/2021: 4
+*  4/2021: 4
+*  3/2021: 15
+*  2/2021: 8
+*  1/2021: 4
+*  12/2020: 8
+*  11/2020: 20
+*  10/2020: 12
+*  9/2020: 30
+*  8/2020: 4
+*  7/2020: 15
 
 ### GitHub Search
 
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 42
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
-| [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 0 | 114| 2021-03-05 | 2021-06-01 |
+| [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 134| 2021-03-05 | 2021-06-19 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 4 | 315| 2021-02-22 | 2021-06-01 |
 | [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 1 | 0 | 29| 2021-02-12 | 2021-06-01 |
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 2 | 82| 2020-12-07 | 2021-06-13 |
@@ -79,8 +79,8 @@ Total Results (Limited by GitHUB API): 86
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 54| 2021-06-14 | 2021-06-18 |
-| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 15| 2021-06-14 | 2021-06-18 |
+| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 55| 2021-06-14 | 2021-06-19 |
+| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 14| 2021-06-14 | 2021-06-19 |
 | [oliveriosousa/js-ipfs-example-custom-tra...](https://github.com/oliveriosousa/js-ipfs-example-custom-traverse-ipld-graphs)| 0 | 0 | 50| 2021-06-07 | 2021-06-07 |
 | [oliveriosousa/js-ipfs-example-custom-ipl...](https://github.com/oliveriosousa/js-ipfs-example-custom-ipld-formats)| 0 | 0 | 10| 2021-06-07 | 2021-06-07 |
 | [Electronic-Signatures-Industries/swarm-b...](https://github.com/Electronic-Signatures-Industries/swarm-bee-block-service)| 0 | 0 | 217| 2021-05-12 | 2021-05-12 |

@@ -4,8 +4,8 @@ Total Results (Limited by GitHUB API): 86
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 54| 2021-06-14 | 2021-06-18 |
-| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 15| 2021-06-14 | 2021-06-18 |
+| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 55| 2021-06-14 | 2021-06-19 |
+| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 14| 2021-06-14 | 2021-06-19 |
 | [oliveriosousa/js-ipfs-example-custom-tra...](https://github.com/oliveriosousa/js-ipfs-example-custom-traverse-ipld-graphs)| 0 | 0 | 50| 2021-06-07 | 2021-06-07 |
 | [oliveriosousa/js-ipfs-example-custom-ipl...](https://github.com/oliveriosousa/js-ipfs-example-custom-ipld-formats)| 0 | 0 | 10| 2021-06-07 | 2021-06-07 |
 | [Electronic-Signatures-Industries/swarm-b...](https://github.com/Electronic-Signatures-Industries/swarm-bee-block-service)| 0 | 0 | 217| 2021-05-12 | 2021-05-12 |
@@ -38,7 +38,7 @@ Total Results (Limited by GitHUB API): 86
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 12| 2019-11-27 | 2020-10-10 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 131| 2019-10-05 | 2021-05-10 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 10 | 1 | 24| 2019-08-26 | 2021-06-15 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 1 | 8196| 2019-08-25 | 2021-06-18 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 1 | 8244| 2019-08-25 | 2021-06-19 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 14| 2019-08-22 | 2020-03-20 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 1 | 3 | 69| 2019-08-22 | 2020-08-18 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 86
 | [ipld/js-ipld-stack](https://github.com/ipld/js-ipld-stack)| 7 | 3 | 110| 2019-04-02 | 2019-05-23 |
 | [mikeal/dumb-collection](https://github.com/mikeal/dumb-collection)| 2 | 0 | 1| 2019-03-26 | 2019-03-26 |
 | [peer-base/peer-base-pinner](https://github.com/peer-base/peer-base-pinner)| 8 | 1 | 58| 2019-03-12 | 2019-05-07 |
-| [vasa-develop/ultimate-ipfs-series](https://github.com/vasa-develop/ultimate-ipfs-series)| 16 | 8 | 125| 2019-02-22 | 2021-05-08 |
+| [vasa-develop/ultimate-ipfs-series](https://github.com/vasa-develop/ultimate-ipfs-series)| 16 | 8 | 125| 2019-02-22 | 2021-06-19 |
 | [vmx/ipld-graphviz](https://github.com/vmx/ipld-graphviz)| 0 | 0 | 7| 2019-02-14 | 2019-06-03 |
 | [vmx/js-ipld-selectors](https://github.com/vmx/js-ipld-selectors)| 4 | 0 | 39| 2019-02-13 | 2019-03-06 |
 | [alanshaw/ipld-formats](https://github.com/alanshaw/ipld-formats)| 2 | 0 | 3539| 2019-01-17 | 2019-01-18 |
