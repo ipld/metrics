@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 5
-*  5/2021: 18
-*  4/2021: 11
-*  3/2021: 4
-*  2/2021: 4
-*  1/2021: 7
-*  12/2020: 15
-*  11/2020: 7
-*  10/2020: 29
-*  9/2020: 14
-*  8/2020: 7
-*  7/2020: 18
+*  6/2021: 4
+*  5/2021: 19
+*  4/2021: 13
+*  3/2021: 6
+*  2/2021: 3
+*  1/2021: 13
+*  12/2020: 0
+*  11/2020: 16
+*  10/2020: 9
+*  9/2020: 12
+*  8/2020: 3
+*  7/2020: 9
 
 ### GitHub Search
 
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 43
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 4 | 2 | 82| 2020-12-07 | 2021-06-13 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
 | [vulcanize/ipld-btc-server](https://github.com/vulcanize/ipld-btc-server)| 0 | 0 | 60230| 2020-08-26 | 2020-09-02 |
-| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 1 | 1 | 60846| 2020-08-26 | 2021-06-26 |
+| [vulcanize/ipld-eth-server](https://github.com/vulcanize/ipld-eth-server)| 1 | 1 | 60797| 2020-08-26 | 2021-06-28 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -79,8 +79,8 @@ Total Results (Limited by GitHUB API): 84
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 57| 2021-06-14 | 2021-06-27 |
-| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 15| 2021-06-14 | 2021-06-27 |
+| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 57| 2021-06-14 | 2021-06-28 |
+| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 16| 2021-06-14 | 2021-06-28 |
 | [Electronic-Signatures-Industries/swarm-b...](https://github.com/Electronic-Signatures-Industries/swarm-bee-block-service)| 0 | 0 | 217| 2021-05-12 | 2021-05-12 |
 | [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 1 | 100| 2021-04-30 | 2021-05-06 |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
