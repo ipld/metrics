@@ -4,8 +4,8 @@ Total Results (Limited by GitHUB API): 84
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 59| 2021-06-14 | 2021-07-09 |
-| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 18| 2021-06-14 | 2021-07-09 |
+| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 59| 2021-06-14 | 2021-07-10 |
+| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 18| 2021-06-14 | 2021-07-10 |
 | [Electronic-Signatures-Industries/swarm-b...](https://github.com/Electronic-Signatures-Industries/swarm-bee-block-service)| 0 | 0 | 217| 2021-05-12 | 2021-05-12 |
 | [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 1 | 100| 2021-04-30 | 2021-05-06 |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
@@ -36,7 +36,7 @@ Total Results (Limited by GitHUB API): 84
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 12| 2019-11-27 | 2020-10-10 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 131| 2019-10-05 | 2021-05-10 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 11 | 1 | 84| 2019-08-26 | 2021-07-09 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 1 | 3700| 2019-08-25 | 2021-07-09 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 1 | 3750| 2019-08-25 | 2021-07-10 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 14| 2019-08-22 | 2020-03-20 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 1 | 3 | 69| 2019-08-22 | 2020-08-18 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |
@@ -63,7 +63,7 @@ Total Results (Limited by GitHUB API): 84
 | [ipfs-shipyard/js-ipfs-versidag](https://github.com/ipfs-shipyard/js-ipfs-versidag)| 3 | 1 | 193| 2018-11-27 | 2018-12-11 |
 | [mikeal/linx](https://github.com/mikeal/linx)| 1 | 0 | 8| 2018-10-07 | 2018-10-07 |
 | [underlay/js-dweb-loader](https://github.com/underlay/js-dweb-loader)| 10 | 0 | 120| 2018-10-04 | 2021-05-08 |
-| [interplanetarymindmap/mind-map](https://github.com/interplanetarymindmap/mind-map)| 11 | 1 | 2008| 2018-09-20 | 2018-11-15 |
+| [interplanetarymindmap/mind-map](https://github.com/interplanetarymindmap/mind-map)| 12 | 1 | 2008| 2018-09-20 | 2018-11-15 |
 | [ipfs/ipld-explorer-components](https://github.com/ipfs/ipld-explorer-components)| 13 | 13 | 7215| 2018-09-05 | 2021-06-24 |
 | [jimpick/hypercore-simple-ipld](https://github.com/jimpick/hypercore-simple-ipld)| 3 | 0 | 22| 2018-09-04 | 2018-10-15 |
 | [ipld/js-dag-json](https://github.com/ipld/js-dag-json)| 4 | 1 | 70| 2018-08-14 | 2021-07-01 |
