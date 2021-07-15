@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 6
-*  6/2021: 8
-*  5/2021: 4
-*  4/2021: 4
-*  3/2021: 4
-*  2/2021: 0
-*  1/2021: 6
-*  12/2020: 0
-*  11/2020: 12
-*  10/2020: 2
-*  9/2020: 0
-*  8/2020: 2
+*  7/2021: 16
+*  6/2021: 6
+*  5/2021: 9
+*  4/2021: 9
+*  3/2021: 9
+*  2/2021: 6
+*  1/2021: 0
+*  12/2020: 3
+*  11/2020: 6
+*  10/2020: 12
+*  9/2020: 23
+*  8/2020: 6
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 43
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 6 | 0 | 777| 2021-06-15 | 2021-07-13 |
+| [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 9 | 0 | 846| 2021-06-15 | 2021-07-14 |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 134| 2021-03-05 | 2021-06-23 |
@@ -79,8 +79,8 @@ Total Results (Limited by GitHUB API): 84
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 60| 2021-06-14 | 2021-07-13 |
-| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 19| 2021-06-14 | 2021-07-13 |
+| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 60| 2021-06-14 | 2021-07-14 |
+| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 19| 2021-06-14 | 2021-07-14 |
 | [Electronic-Signatures-Industries/swarm-b...](https://github.com/Electronic-Signatures-Industries/swarm-bee-block-service)| 0 | 0 | 217| 2021-05-12 | 2021-05-12 |
 | [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 1 | 100| 2021-04-30 | 2021-05-06 |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
