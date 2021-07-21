@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 6
+*  7/2021: 28
 *  6/2021: 3
-*  5/2021: 6
-*  4/2021: 9
-*  3/2021: 9
-*  2/2021: 6
-*  1/2021: 12
+*  5/2021: 10
+*  4/2021: 26
+*  3/2021: 12
+*  2/2021: 0
+*  1/2021: 9
 *  12/2020: 6
-*  11/2020: 15
-*  10/2020: 3
-*  9/2020: 26
-*  8/2020: 6
+*  11/2020: 13
+*  10/2020: 6
+*  9/2020: 3
+*  8/2020: 3
 
 ### GitHub Search
 
@@ -56,11 +56,11 @@ Total Results (Limited by GitHUB API): 43
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 9 | 0 | 880| 2021-06-15 | 2021-07-15 |
+| [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 9 | 1 | 461| 2021-06-15 | 2021-07-20 |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 134| 2021-03-05 | 2021-06-23 |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 5 | 315| 2021-02-22 | 2021-06-01 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 5 | 346| 2021-02-22 | 2021-07-20 |
 | [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 2 | 0 | 29| 2021-02-12 | 2021-06-01 |
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 5 | 2 | 82| 2020-12-07 | 2021-06-13 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
@@ -79,16 +79,16 @@ Total Results (Limited by GitHUB API): 84
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 61| 2021-06-14 | 2021-07-19 |
-| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 20| 2021-06-14 | 2021-07-19 |
+| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 58| 2021-06-14 | 2021-07-20 |
+| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 23| 2021-06-14 | 2021-07-20 |
 | [Electronic-Signatures-Industries/swarm-b...](https://github.com/Electronic-Signatures-Industries/swarm-bee-block-service)| 0 | 0 | 217| 2021-05-12 | 2021-05-12 |
 | [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 1 | 100| 2021-04-30 | 2021-05-06 |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
 | [mikeal/dag-query](https://github.com/mikeal/dag-query)| 0 | 0 | 4| 2021-01-02 | 2021-01-03 |
-| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 146| 2020-12-17 | 2021-07-01 |
+| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 148| 2020-12-17 | 2021-07-20 |
 | [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 2 | 0 | 20| 2020-10-28 | 2020-10-29 |
 | [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 14| 2020-10-24 | 2020-10-28 |
-| [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 75| 2020-10-24 | 2021-07-09 |
+| [rvagg/js-ipld-schema-validator](https://github.com/rvagg/js-ipld-schema-validator)| 0 | 0 | 77| 2020-10-24 | 2021-07-20 |
 
 
 The above set is limited to the 10 most recently created. 
