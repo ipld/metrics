@@ -4,8 +4,8 @@ Total Results (Limited by GitHUB API): 84
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs-examples/js-ipfs-traverse-ipld-grap...](https://github.com/ipfs-examples/js-ipfs-traverse-ipld-graphs)| 0 | 0 | 54| 2021-06-14 | 2021-07-26 |
-| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 16| 2021-06-14 | 2021-07-26 |
+| [ipfs-examples/js-ipfs-traverse-ipld-grap...](https://github.com/ipfs-examples/js-ipfs-traverse-ipld-graphs)| 0 | 0 | 56| 2021-06-14 | 2021-07-27 |
+| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 17| 2021-06-14 | 2021-07-27 |
 | [Electronic-Signatures-Industries/swarm-b...](https://github.com/Electronic-Signatures-Industries/swarm-bee-block-service)| 0 | 0 | 217| 2021-05-12 | 2021-05-12 |
 | [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 1 | 100| 2021-04-30 | 2021-05-06 |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
@@ -26,7 +26,7 @@ Total Results (Limited by GitHUB API): 84
 | [rvagg/js-bitcoin-extract](https://github.com/rvagg/js-bitcoin-extract)| 1 | 0 | 15| 2020-05-16 | 2020-06-29 |
 | [ipld/js-dag-cbor](https://github.com/ipld/js-dag-cbor)| 5 | 3 | 235| 2020-05-12 | 2021-07-20 |
 | [chafey/ipld-schema-app](https://github.com/chafey/ipld-schema-app)| 1 | 0 | 3669| 2020-03-20 | 2021-06-28 |
-| [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 0 | 0 | 2| 2020-03-18 | 2020-03-18 |
+| [rvagg/js-example-dag-generate](https://github.com/rvagg/js-example-dag-generate)| 1 | 0 | 2| 2020-03-18 | 2020-03-18 |
 | [chafey/js-ipld-blockstore](https://github.com/chafey/js-ipld-blockstore)| 0 | 1 | 5| 2020-02-28 | 2020-02-29 |
 | [ipld/js-schema-validation](https://github.com/ipld/js-schema-validation)| 0 | 1 | 52| 2020-02-27 | 2020-09-10 |
 | [mikeal/dagdb](https://github.com/mikeal/dagdb)| 125 | 6 | 486| 2020-02-13 | 2020-11-27 |
@@ -36,7 +36,7 @@ Total Results (Limited by GitHUB API): 84
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 12| 2019-11-27 | 2020-10-10 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 131| 2019-10-05 | 2021-05-10 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 12 | 1 | 93| 2019-08-26 | 2021-07-23 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 1 | 4554| 2019-08-25 | 2021-07-26 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 1 | 4605| 2019-08-25 | 2021-07-27 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 14| 2019-08-22 | 2020-03-20 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 1 | 3 | 69| 2019-08-22 | 2020-08-18 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |
@@ -67,7 +67,7 @@ Total Results (Limited by GitHUB API): 84
 | [ipfs/ipld-explorer-components](https://github.com/ipfs/ipld-explorer-components)| 13 | 13 | 7215| 2018-09-05 | 2021-06-24 |
 | [jimpick/hypercore-simple-ipld](https://github.com/jimpick/hypercore-simple-ipld)| 3 | 0 | 22| 2018-09-04 | 2018-10-15 |
 | [ipld/js-dag-json](https://github.com/ipld/js-dag-json)| 4 | 1 | 71| 2018-08-14 | 2021-07-20 |
-| [vmx/dagbuilder](https://github.com/vmx/dagbuilder)| 2 | 0 | 29| 2018-08-10 | 2020-04-29 |
+| [vmx/dagbuilder](https://github.com/vmx/dagbuilder)| 3 | 0 | 29| 2018-08-10 | 2020-04-29 |
 | [mikeal/graph-push](https://github.com/mikeal/graph-push)| 0 | 0 | 43| 2018-07-03 | 2018-07-07 |
 | [mikeal/dag-cbor-sync](https://github.com/mikeal/dag-cbor-sync)| 2 | 2 | 122| 2018-06-30 | 2020-04-23 |
 | [ipld/js-unixfsv2](https://github.com/ipld/js-unixfsv2)| 3 | 1 | 166| 2018-06-30 | 2020-09-11 |
