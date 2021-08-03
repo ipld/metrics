@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 8
-*  6/2021: 6
-*  5/2021: 10
-*  4/2021: 10
-*  3/2021: 2
-*  2/2021: 0
+*  7/2021: 11
+*  6/2021: 8
+*  5/2021: 14
+*  4/2021: 11
+*  3/2021: 11
+*  2/2021: 8
 *  1/2021: 4
-*  12/2020: 0
-*  11/2020: 8
-*  10/2020: 14
-*  9/2020: 4
-*  8/2020: 4
+*  12/2020: 4
+*  11/2020: 15
+*  10/2020: 22
+*  9/2020: 14
+*  8/2020: 0
 
 ### GitHub Search
 
@@ -56,8 +56,8 @@ Total Results (Limited by GitHUB API): 44
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 46| 2021-07-29 | 2021-07-31 |
-| [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 11 | 1 | 759| 2021-06-15 | 2021-07-30 |
+| [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 91| 2021-07-29 | 2021-08-02 |
+| [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 11 | 1 | 757| 2021-06-15 | 2021-08-02 |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 134| 2021-03-05 | 2021-06-23 |
