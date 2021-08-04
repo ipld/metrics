@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 11
-*  6/2021: 8
-*  5/2021: 14
-*  4/2021: 11
-*  3/2021: 11
-*  2/2021: 8
-*  1/2021: 4
-*  12/2020: 4
-*  11/2020: 15
-*  10/2020: 22
-*  9/2020: 14
-*  8/2020: 0
+*  8/2021: 0
+*  7/2021: 14
+*  6/2021: 14
+*  5/2021: 5
+*  4/2021: 9
+*  3/2021: 18
+*  2/2021: 15
+*  1/2021: 0
+*  12/2020: 9
+*  11/2020: 23
+*  10/2020: 4
+*  9/2020: 26
 
 ### GitHub Search
 
@@ -56,11 +56,11 @@ Total Results (Limited by GitHUB API): 44
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 91| 2021-07-29 | 2021-08-02 |
-| [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 11 | 1 | 757| 2021-06-15 | 2021-08-02 |
+| [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 131| 2021-07-29 | 2021-08-03 |
+| [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 11 | 1 | 769| 2021-06-15 | 2021-08-03 |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
-| [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 134| 2021-03-05 | 2021-06-23 |
+| [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 134| 2021-03-05 | 2021-08-03 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 5 | 5 | 346| 2021-02-22 | 2021-07-21 |
 | [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 2 | 0 | 29| 2021-02-12 | 2021-06-01 |
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 5 | 2 | 82| 2020-12-07 | 2021-06-13 |
@@ -86,7 +86,7 @@ Total Results (Limited by GitHUB API): 85
 | [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 1 | 106| 2021-04-30 | 2021-07-28 |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
 | [mikeal/dag-query](https://github.com/mikeal/dag-query)| 0 | 0 | 4| 2021-01-02 | 2021-01-03 |
-| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 148| 2020-12-17 | 2021-07-20 |
+| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 151| 2020-12-17 | 2021-08-03 |
 | [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 2 | 0 | 20| 2020-10-28 | 2020-10-29 |
 | [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 14| 2020-10-24 | 2020-10-28 |
 
