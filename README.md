@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  8/2021: 0
-*  7/2021: 5
+*  7/2021: 2
 *  6/2021: 7
 *  5/2021: 5
-*  4/2021: 2
-*  3/2021: 2
-*  2/2021: 8
-*  1/2021: 5
-*  12/2020: 2
-*  11/2020: 5
-*  10/2020: 7
-*  9/2020: 11
+*  4/2021: 10
+*  3/2021: 9
+*  2/2021: 0
+*  1/2021: 2
+*  12/2020: 7
+*  11/2020: 2
+*  10/2020: 9
+*  9/2020: 14
 
 ### GitHub Search
 
@@ -57,9 +57,9 @@ Total Results (Limited by GitHUB API): 46
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [simplecoincom/boltdb-to-ipld-hamt](https://github.com/simplecoincom/boltdb-to-ipld-hamt)| 0 | 0 | 37| 2021-08-04 | 2021-08-04 |
-| [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 2 | 0 | 259| 2021-08-04 | 2021-08-04 |
+| [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 2 | 0 | 273| 2021-08-04 | 2021-08-05 |
 | [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 139| 2021-07-29 | 2021-08-04 |
-| [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 11 | 1 | 769| 2021-06-15 | 2021-08-03 |
+| [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 11 | 1 | 774| 2021-06-15 | 2021-08-05 |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 134| 2021-03-05 | 2021-08-03 |
@@ -86,7 +86,7 @@ Total Results (Limited by GitHUB API): 85
 | [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 1 | 106| 2021-04-30 | 2021-07-28 |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
 | [mikeal/dag-query](https://github.com/mikeal/dag-query)| 0 | 0 | 4| 2021-01-02 | 2021-01-03 |
-| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 153| 2020-12-17 | 2021-08-04 |
+| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 157| 2020-12-17 | 2021-08-05 |
 | [mikeal/fast-block-store](https://github.com/mikeal/fast-block-store)| 2 | 0 | 20| 2020-10-28 | 2020-10-29 |
 | [rvagg/car-to-schema](https://github.com/rvagg/car-to-schema)| 0 | 1 | 14| 2020-10-24 | 2020-10-28 |
 
