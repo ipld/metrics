@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 18
-*  7/2021: 6
-*  6/2021: 8
-*  5/2021: 8
-*  4/2021: 12
+*  8/2021: 16
+*  7/2021: 8
+*  6/2021: 10
+*  5/2021: 14
+*  4/2021: 8
 *  3/2021: 4
-*  2/2021: 2
+*  2/2021: 4
 *  1/2021: 2
-*  12/2020: 0
-*  11/2020: 14
-*  10/2020: 12
-*  9/2020: 6
+*  12/2020: 2
+*  11/2020: 10
+*  10/2020: 8
+*  9/2020: 2
 
 ### GitHub Search
 
@@ -58,12 +58,12 @@ Total Results (Limited by GitHUB API): 46
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [simplecoincom/boltdb-to-ipld-hamt](https://github.com/simplecoincom/boltdb-to-ipld-hamt)| 0 | 0 | 9| 2021-08-04 | 2021-08-10 |
 | [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 2 | 0 | 272| 2021-08-04 | 2021-08-09 |
-| [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 145| 2021-07-29 | 2021-08-10 |
+| [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 147| 2021-07-29 | 2021-08-10 |
 | [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 11 | 1 | 775| 2021-06-15 | 2021-08-06 |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 134| 2021-03-05 | 2021-08-03 |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 5 | 5 | 347| 2021-02-22 | 2021-08-06 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 5 | 5 | 348| 2021-02-22 | 2021-08-10 |
 | [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 2 | 0 | 29| 2021-02-12 | 2021-06-01 |
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 5 | 2 | 82| 2020-12-07 | 2021-06-13 |
 
