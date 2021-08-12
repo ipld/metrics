@@ -1,9 +1,10 @@
-Total Matches: 92
+Total Matches: 94
 
-Total Results (Limited by GitHUB API): 46
+Total Results (Limited by GitHUB API): 47
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [willscott/wasm-adl](https://github.com/willscott/wasm-adl)| 1 | 0 | 8| 2021-08-11 | 2021-08-11 |
 | [simplecoincom/boltdb-to-ipld-hamt](https://github.com/simplecoincom/boltdb-to-ipld-hamt)| 0 | 0 | 9| 2021-08-04 | 2021-08-10 |
 | [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 2 | 0 | 272| 2021-08-04 | 2021-08-09 |
 | [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 147| 2021-07-29 | 2021-08-10 |
@@ -11,7 +12,7 @@ Total Results (Limited by GitHUB API): 46
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 134| 2021-03-05 | 2021-08-03 |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 5 | 5 | 348| 2021-02-22 | 2021-08-10 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 5 | 5 | 349| 2021-02-22 | 2021-08-11 |
 | [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 2 | 0 | 29| 2021-02-12 | 2021-06-01 |
 | [ipld/go-ipld-graphql](https://github.com/ipld/go-ipld-graphql)| 5 | 2 | 82| 2020-12-07 | 2021-06-13 |
 | [ur-the-zissou/go-accumulator-dag](https://github.com/ur-the-zissou/go-accumulator-dag)| 3 | 0 | 23| 2020-11-08 | 2020-11-08 |
@@ -20,7 +21,7 @@ Total Results (Limited by GitHUB API): 46
 | [amirylm/libp2p-facade](https://github.com/amirylm/libp2p-facade)| 3 | 0 | 157| 2020-08-24 | 2021-05-22 |
 | [vulcanize/ipld-btc-indexer](https://github.com/vulcanize/ipld-btc-indexer)| 0 | 0 | 60308| 2020-08-10 | 2020-09-10 |
 | [dgtony/cidec](https://github.com/dgtony/cidec)| 0 | 0 | 7| 2020-06-24 | 2020-06-24 |
-| [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 8 | 6 | 60531| 2020-05-27 | 2021-08-05 |
+| [vulcanize/ipld-eth-indexer](https://github.com/vulcanize/ipld-eth-indexer)| 9 | 6 | 60531| 2020-05-27 | 2021-08-05 |
 | [creationix/sel-parse-go](https://github.com/creationix/sel-parse-go)| 0 | 0 | 5| 2020-05-07 | 2020-05-17 |
 | [jhamPac/purple](https://github.com/jhamPac/purple)| 0 | 0 | 4| 2020-04-19 | 2020-04-20 |
 | [cuitaixiang/go-ipld-prime-notes](https://github.com/cuitaixiang/go-ipld-prime-notes)| 0 | 0 | 867| 2020-04-08 | 2020-04-14 |
@@ -38,10 +39,10 @@ Total Results (Limited by GitHUB API): 46
 | [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite)| 160 | 25 | 111232| 2019-03-09 | 2021-08-02 |
 | [whyrusleeping/sharray](https://github.com/whyrusleeping/sharray)| 3 | 0 | 6| 2019-01-16 | 2019-07-18 |
 | [jonnycrunch/go-ipld-jsonld](https://github.com/jonnycrunch/go-ipld-jsonld)| 1 | 0 | 6| 2018-11-21 | 2018-07-13 |
-| [ipld/go-ipld-prime](https://github.com/ipld/go-ipld-prime)| 58 | 26 | 2270| 2018-10-31 | 2021-08-10 |
+| [ipld/go-ipld-prime](https://github.com/ipld/go-ipld-prime)| 58 | 26 | 2272| 2018-10-31 | 2021-08-11 |
 | [qri-io/go-ipld-manifest](https://github.com/qri-io/go-ipld-manifest)| 6 | 2 | 5| 2018-09-25 | 2018-09-25 |
 | [fossabot/go-ipld-polymorph](https://github.com/fossabot/go-ipld-polymorph)| 0 | 0 | 46| 2018-08-24 | 2018-08-24 |
-| [ipfs/go-unixfs](https://github.com/ipfs/go-unixfs)| 82 | 30 | 26899| 2018-07-30 | 2021-08-10 |
+| [ipfs/go-unixfs](https://github.com/ipfs/go-unixfs)| 82 | 30 | 26815| 2018-07-30 | 2021-08-11 |
 | [filecoin-project/go-hamt-ipld](https://github.com/filecoin-project/go-hamt-ipld)| 22 | 20 | 303| 2017-11-17 | 2021-07-13 |
 | [ipfs/go-ipld-eth](https://github.com/ipfs/go-ipld-eth)| 42 | 14 | 204| 2017-03-06 | 2020-05-04 |
 | [ipfs/go-ipld-git](https://github.com/ipfs/go-ipld-git)| 48 | 19 | 248| 2016-12-13 | 2021-08-04 |
