@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 28
-*  7/2021: 13
-*  6/2021: 13
-*  5/2021: 19
-*  4/2021: 19
-*  3/2021: 6
-*  2/2021: 3
-*  1/2021: 0
-*  12/2020: 0
-*  11/2020: 16
-*  10/2020: 3
+*  8/2021: 17
+*  7/2021: 10
+*  6/2021: 26
+*  5/2021: 6
+*  4/2021: 16
+*  3/2021: 3
+*  2/2021: 7
+*  1/2021: 3
+*  12/2020: 3
+*  11/2020: 22
+*  10/2020: 6
 *  9/2020: 15
 
 ### GitHub Search
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 47
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [willscott/wasm-adl](https://github.com/willscott/wasm-adl)| 1 | 0 | 34| 2021-08-11 | 2021-08-13 |
 | [simplecoincom/boltdb-to-ipld-hamt](https://github.com/simplecoincom/boltdb-to-ipld-hamt)| 0 | 0 | 9| 2021-08-04 | 2021-08-10 |
-| [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 0 | 272| 2021-08-04 | 2021-08-09 |
+| [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 1 | 272| 2021-08-04 | 2021-08-09 |
 | [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 147| 2021-07-29 | 2021-08-10 |
 | [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 11 | 1 | 775| 2021-06-15 | 2021-08-06 |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |

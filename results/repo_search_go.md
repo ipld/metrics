@@ -6,7 +6,7 @@ Total Results (Limited by GitHUB API): 47
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [willscott/wasm-adl](https://github.com/willscott/wasm-adl)| 1 | 0 | 34| 2021-08-11 | 2021-08-13 |
 | [simplecoincom/boltdb-to-ipld-hamt](https://github.com/simplecoincom/boltdb-to-ipld-hamt)| 0 | 0 | 9| 2021-08-04 | 2021-08-10 |
-| [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 0 | 272| 2021-08-04 | 2021-08-09 |
+| [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 1 | 272| 2021-08-04 | 2021-08-09 |
 | [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 147| 2021-07-29 | 2021-08-10 |
 | [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 11 | 1 | 775| 2021-06-15 | 2021-08-06 |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
@@ -39,7 +39,7 @@ Total Results (Limited by GitHUB API): 47
 | [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite)| 160 | 25 | 111232| 2019-03-09 | 2021-08-02 |
 | [whyrusleeping/sharray](https://github.com/whyrusleeping/sharray)| 3 | 0 | 6| 2019-01-16 | 2019-07-18 |
 | [jonnycrunch/go-ipld-jsonld](https://github.com/jonnycrunch/go-ipld-jsonld)| 1 | 0 | 6| 2018-11-21 | 2018-07-13 |
-| [ipld/go-ipld-prime](https://github.com/ipld/go-ipld-prime)| 58 | 26 | 2356| 2018-10-31 | 2021-08-13 |
+| [ipld/go-ipld-prime](https://github.com/ipld/go-ipld-prime)| 58 | 26 | 2358| 2018-10-31 | 2021-08-14 |
 | [qri-io/go-ipld-manifest](https://github.com/qri-io/go-ipld-manifest)| 6 | 2 | 5| 2018-09-25 | 2018-09-25 |
 | [fossabot/go-ipld-polymorph](https://github.com/fossabot/go-ipld-polymorph)| 0 | 0 | 46| 2018-08-24 | 2018-08-24 |
 | [ipfs/go-unixfs](https://github.com/ipfs/go-unixfs)| 82 | 30 | 26828| 2018-07-30 | 2021-08-13 |
