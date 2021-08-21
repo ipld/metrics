@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 8
-*  7/2021: 0
-*  6/2021: 12
-*  5/2021: 16
-*  4/2021: 0
-*  3/2021: 15
-*  2/2021: 0
-*  1/2021: 12
-*  12/2020: 0
-*  11/2020: 12
-*  10/2020: 12
-*  9/2020: 30
+*  8/2021: 0
+*  7/2021: 7
+*  6/2021: 7
+*  5/2021: 11
+*  4/2021: 5
+*  3/2021: 7
+*  2/2021: 5
+*  1/2021: 4
+*  12/2020: 4
+*  11/2020: 13
+*  10/2020: 11
+*  9/2020: 8
 
 ### GitHub Search
 
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 86
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [jimpick/js-car-zero-length-blocks](https://github.com/jimpick/js-car-zero-length-blocks)| 0 | 1 | 6| 2021-08-06 | 2021-08-06 |
+| [jimpick/js-car-zero-length-blocks](https://github.com/jimpick/js-car-zero-length-blocks)| 0 | 0 | 6| 2021-08-06 | 2021-08-06 |
 | [ipld/js-ipld-format-to-blockcodec](https://github.com/ipld/js-ipld-format-to-blockcodec)| 0 | 0 | 85| 2021-07-28 | 2021-07-28 |
 | [ipfs-examples/js-ipfs-traverse-ipld-grap...](https://github.com/ipfs-examples/js-ipfs-traverse-ipld-graphs)| 0 | 0 | 61| 2021-06-14 | 2021-08-13 |
 | [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 21| 2021-06-14 | 2021-08-13 |
