@@ -6,7 +6,7 @@ Total Results (Limited by GitHUB API): 47
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [willscott/wasm-adl](https://github.com/willscott/wasm-adl)| 2 | 0 | 34| 2021-08-11 | 2021-08-13 |
 | [simplecoincom/boltdb-to-ipld-hamt](https://github.com/simplecoincom/boltdb-to-ipld-hamt)| 0 | 0 | 9| 2021-08-04 | 2021-08-10 |
-| [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 1 | 277| 2021-08-04 | 2021-08-23 |
+| [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 1 | 284| 2021-08-04 | 2021-08-27 |
 | [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 147| 2021-07-29 | 2021-08-10 |
 | [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 13 | 2 | 816| 2021-06-15 | 2021-08-24 |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
@@ -42,7 +42,7 @@ Total Results (Limited by GitHUB API): 47
 | [ipld/go-ipld-prime](https://github.com/ipld/go-ipld-prime)| 60 | 28 | 2723| 2018-10-31 | 2021-08-24 |
 | [qri-io/go-ipld-manifest](https://github.com/qri-io/go-ipld-manifest)| 6 | 2 | 5| 2018-09-25 | 2018-09-25 |
 | [fossabot/go-ipld-polymorph](https://github.com/fossabot/go-ipld-polymorph)| 0 | 0 | 46| 2018-08-24 | 2018-08-24 |
-| [ipfs/go-unixfs](https://github.com/ipfs/go-unixfs)| 82 | 30 | 26718| 2018-07-30 | 2021-08-26 |
+| [ipfs/go-unixfs](https://github.com/ipfs/go-unixfs)| 82 | 30 | 26700| 2018-07-30 | 2021-08-27 |
 | [filecoin-project/go-hamt-ipld](https://github.com/filecoin-project/go-hamt-ipld)| 23 | 20 | 308| 2017-11-17 | 2021-08-19 |
 | [ipfs/go-ipld-eth](https://github.com/ipfs/go-ipld-eth)| 42 | 14 | 205| 2017-03-06 | 2021-08-20 |
 | [ipfs/go-ipld-git](https://github.com/ipfs/go-ipld-git)| 48 | 19 | 252| 2016-12-13 | 2021-08-18 |
