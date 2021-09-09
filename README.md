@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 0
-*  8/2021: 5
-*  7/2021: 24
-*  6/2021: 9
-*  5/2021: 23
+*  9/2021: 24
+*  8/2021: 0
+*  7/2021: 21
+*  6/2021: 3
+*  5/2021: 13
 *  4/2021: 14
-*  3/2021: 26
-*  2/2021: 10
-*  1/2021: 9
-*  12/2020: 5
-*  11/2020: 27
-*  10/2020: 13
+*  3/2021: 7
+*  2/2021: 7
+*  1/2021: 7
+*  12/2020: 10
+*  11/2020: 0
+*  10/2020: 7
 
 ### GitHub Search
 
@@ -82,8 +82,8 @@ Total Results (Limited by GitHUB API): 87
 | [maksympogonets/ultimate-ipfs-series](https://github.com/maksympogonets/ultimate-ipfs-series)| 2 | 0 | 47| 2021-08-30 | 2021-08-30 |
 | [jimpick/js-car-zero-length-blocks](https://github.com/jimpick/js-car-zero-length-blocks)| 0 | 0 | 6| 2021-08-06 | 2021-08-06 |
 | [ipld/js-ipld-format-to-blockcodec](https://github.com/ipld/js-ipld-format-to-blockcodec)| 0 | 0 | 85| 2021-07-28 | 2021-07-28 |
-| [ipfs-examples/js-ipfs-traverse-ipld-grap...](https://github.com/ipfs-examples/js-ipfs-traverse-ipld-graphs)| 0 | 0 | 66| 2021-06-14 | 2021-08-24 |
-| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 23| 2021-06-14 | 2021-08-24 |
+| [ipfs-examples/js-ipfs-traverse-ipld-grap...](https://github.com/ipfs-examples/js-ipfs-traverse-ipld-graphs)| 0 | 0 | 68| 2021-06-14 | 2021-09-08 |
+| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 22| 2021-06-14 | 2021-09-08 |
 | [Electronic-Signatures-Industries/swarm-b...](https://github.com/Electronic-Signatures-Industries/swarm-bee-block-service)| 0 | 0 | 217| 2021-05-12 | 2021-05-12 |
 | [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 1 | 106| 2021-04-30 | 2021-07-28 |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
