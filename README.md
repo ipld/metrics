@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 12
-*  8/2021: 10
-*  7/2021: 6
-*  6/2021: 10
-*  5/2021: 6
-*  4/2021: 8
-*  3/2021: 4
-*  2/2021: 4
-*  1/2021: 0
+*  9/2021: 10
+*  8/2021: 9
+*  7/2021: 4
+*  6/2021: 9
+*  5/2021: 11
+*  4/2021: 11
+*  3/2021: 3
+*  2/2021: 6
+*  1/2021: 2
 *  12/2020: 4
-*  11/2020: 10
-*  10/2020: 6
+*  11/2020: 11
+*  10/2020: 11
 
 ### GitHub Search
 
@@ -60,7 +60,7 @@ Total Results (Limited by GitHUB API): 47
 | [willscott/wasm-adl](https://github.com/willscott/wasm-adl)| 2 | 0 | 34| 2021-08-11 | 2021-08-13 |
 | [simplecoincom/boltdb-to-ipld-hamt](https://github.com/simplecoincom/boltdb-to-ipld-hamt)| 0 | 0 | 9| 2021-08-04 | 2021-08-10 |
 | [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 150| 2021-07-29 | 2021-09-09 |
-| [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 14 | 3 | 866| 2021-06-15 | 2021-09-13 |
+| [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 15 | 3 | 871| 2021-06-15 | 2021-09-14 |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 152| 2021-03-05 | 2021-08-17 |
@@ -73,15 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 176
+Total Matches: 174
 
-Total Results (Limited by GitHUB API): 88
+Total Results (Limited by GitHUB API): 87
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [maksympogonets/ultimate-ipfs-series](https://github.com/maksympogonets/ultimate-ipfs-series)| 2 | 0 | 47| 2021-08-30 | 2021-08-30 |
 | [jimpick/js-car-zero-length-blocks](https://github.com/jimpick/js-car-zero-length-blocks)| 0 | 0 | 6| 2021-08-06 | 2021-08-06 |
-| [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 1 | 313| 2021-08-04 | 2021-09-10 |
+| [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 1 | 315| 2021-08-04 | 2021-09-14 |
 | [ipld/js-ipld-format-to-blockcodec](https://github.com/ipld/js-ipld-format-to-blockcodec)| 0 | 0 | 85| 2021-07-28 | 2021-07-28 |
 | [ipfs-examples/js-ipfs-traverse-ipld-grap...](https://github.com/ipfs-examples/js-ipfs-traverse-ipld-graphs)| 0 | 0 | 68| 2021-06-14 | 2021-09-08 |
 | [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 22| 2021-06-14 | 2021-09-08 |
@@ -89,6 +88,7 @@ Total Results (Limited by GitHUB API): 88
 | [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 1 | 106| 2021-04-30 | 2021-07-28 |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
 | [mikeal/dag-query](https://github.com/mikeal/dag-query)| 0 | 0 | 4| 2021-01-02 | 2021-01-03 |
+| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 157| 2020-12-17 | 2021-08-05 |
 
 
 The above set is limited to the 10 most recently created. 

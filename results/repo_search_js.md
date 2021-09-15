@@ -1,12 +1,11 @@
-Total Matches: 176
+Total Matches: 174
 
-Total Results (Limited by GitHUB API): 88
+Total Results (Limited by GitHUB API): 87
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [maksympogonets/ultimate-ipfs-series](https://github.com/maksympogonets/ultimate-ipfs-series)| 2 | 0 | 47| 2021-08-30 | 2021-08-30 |
 | [jimpick/js-car-zero-length-blocks](https://github.com/jimpick/js-car-zero-length-blocks)| 0 | 0 | 6| 2021-08-06 | 2021-08-06 |
-| [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 1 | 313| 2021-08-04 | 2021-09-10 |
+| [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 1 | 315| 2021-08-04 | 2021-09-14 |
 | [ipld/js-ipld-format-to-blockcodec](https://github.com/ipld/js-ipld-format-to-blockcodec)| 0 | 0 | 85| 2021-07-28 | 2021-07-28 |
 | [ipfs-examples/js-ipfs-traverse-ipld-grap...](https://github.com/ipfs-examples/js-ipfs-traverse-ipld-graphs)| 0 | 0 | 68| 2021-06-14 | 2021-09-08 |
 | [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 22| 2021-06-14 | 2021-09-08 |
@@ -40,7 +39,7 @@ Total Results (Limited by GitHUB API): 88
 | [mikeal/csv-ipld-schema-gen](https://github.com/mikeal/csv-ipld-schema-gen)| 0 | 0 | 12| 2019-11-27 | 2020-10-10 |
 | [simpleaswater/ipld](https://github.com/simpleaswater/ipld)| 1 | 0 | 131| 2019-10-05 | 2021-05-10 |
 | [rvagg/js-ipld-hashmap](https://github.com/rvagg/js-ipld-hashmap)| 12 | 1 | 104| 2019-08-26 | 2021-09-13 |
-| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 1 | 7114| 2019-08-25 | 2021-09-13 |
+| [ipld/metrics](https://github.com/ipld/metrics)| 0 | 1 | 7172| 2019-08-25 | 2021-09-14 |
 | [vmx/ipld-stac](https://github.com/vmx/ipld-stac)| 1 | 0 | 14| 2019-08-22 | 2020-03-20 |
 | [ipld/js-schema-gen](https://github.com/ipld/js-schema-gen)| 1 | 4 | 69| 2019-08-22 | 2020-08-18 |
 | [rvagg/js-datastore-zipcar](https://github.com/rvagg/js-datastore-zipcar)| 8 | 0 | 67| 2019-08-12 | 2019-12-13 |
