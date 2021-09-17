@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 0
-*  8/2021: 11
-*  7/2021: 11
-*  6/2021: 7
-*  5/2021: 7
-*  4/2021: 11
-*  3/2021: 10
-*  2/2021: 4
-*  1/2021: 3
-*  12/2020: 11
+*  9/2021: 6
+*  8/2021: 7
+*  7/2021: 5
+*  6/2021: 5
+*  5/2021: 2
+*  4/2021: 2
+*  3/2021: 7
+*  2/2021: 5
+*  1/2021: 5
+*  12/2020: 5
 *  11/2020: 7
-*  10/2020: 3
+*  10/2020: 2
 
 ### GitHub Search
 
@@ -56,11 +56,11 @@ Total Results (Limited by GitHUB API): 47
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [proofzero/go-ipld-linkstore](https://github.com/proofzero/go-ipld-linkstore)| 1 | 1 | 153| 2021-08-31 | 2021-09-10 |
+| [proofzero/go-ipld-linkstore](https://github.com/proofzero/go-ipld-linkstore)| 1 | 1 | 155| 2021-08-31 | 2021-09-16 |
 | [willscott/wasm-adl](https://github.com/willscott/wasm-adl)| 2 | 0 | 34| 2021-08-11 | 2021-08-13 |
 | [simplecoincom/boltdb-to-ipld-hamt](https://github.com/simplecoincom/boltdb-to-ipld-hamt)| 0 | 0 | 9| 2021-08-04 | 2021-08-10 |
 | [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 150| 2021-07-29 | 2021-09-09 |
-| [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 15 | 3 | 915| 2021-06-15 | 2021-09-15 |
+| [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 15 | 3 | 923| 2021-06-15 | 2021-09-16 |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 152| 2021-03-05 | 2021-08-17 |
@@ -80,7 +80,7 @@ Total Results (Limited by GitHUB API): 87
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [jimpick/js-car-zero-length-blocks](https://github.com/jimpick/js-car-zero-length-blocks)| 0 | 0 | 6| 2021-08-06 | 2021-08-06 |
-| [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 1 | 316| 2021-08-04 | 2021-09-15 |
+| [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 1 | 317| 2021-08-04 | 2021-09-16 |
 | [ipld/js-ipld-format-to-blockcodec](https://github.com/ipld/js-ipld-format-to-blockcodec)| 0 | 0 | 85| 2021-07-28 | 2021-07-28 |
 | [ipfs-examples/js-ipfs-traverse-ipld-grap...](https://github.com/ipfs-examples/js-ipfs-traverse-ipld-graphs)| 0 | 0 | 68| 2021-06-14 | 2021-09-08 |
 | [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 22| 2021-06-14 | 2021-09-08 |
