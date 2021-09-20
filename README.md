@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 5
-*  8/2021: 5
-*  7/2021: 0
-*  6/2021: 5
-*  5/2021: 2
-*  4/2021: 2
-*  3/2021: 5
-*  2/2021: 5
-*  1/2021: 5
-*  12/2020: 2
-*  11/2020: 2
-*  10/2020: 9
+*  9/2021: 15
+*  8/2021: 7
+*  7/2021: 18
+*  6/2021: 11
+*  5/2021: 0
+*  4/2021: 14
+*  3/2021: 10
+*  2/2021: 12
+*  1/2021: 4
+*  12/2020: 4
+*  11/2020: 7
+*  10/2020: 3
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 94
+Total Matches: 96
 
-Total Results (Limited by GitHUB API): 47
+Total Results (Limited by GitHUB API): 48
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ipld/go-datalark](https://github.com/ipld/go-datalark)| 0 | 0 | 24| 2021-09-19 | 2021-09-19 |
 | [proofzero/go-ipld-linkstore](https://github.com/proofzero/go-ipld-linkstore)| 1 | 1 | 155| 2021-08-31 | 2021-09-16 |
 | [willscott/wasm-adl](https://github.com/willscott/wasm-adl)| 2 | 0 | 34| 2021-08-11 | 2021-08-13 |
 | [simplecoincom/boltdb-to-ipld-hamt](https://github.com/simplecoincom/boltdb-to-ipld-hamt)| 0 | 0 | 9| 2021-08-04 | 2021-08-10 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 47
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
 | [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 152| 2021-03-05 | 2021-08-17 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 5 | 5 | 385| 2021-02-22 | 2021-08-18 |
-| [ipfs/go-ipld-legacy](https://github.com/ipfs/go-ipld-legacy)| 2 | 0 | 39| 2021-02-12 | 2021-08-18 |
 
 
 The above set is limited to the 10 most recently created. 
