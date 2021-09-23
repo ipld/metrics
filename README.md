@@ -20,15 +20,15 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 14
-*  8/2021: 5
-*  7/2021: 8
-*  6/2021: 8
-*  5/2021: 3
-*  4/2021: 10
-*  3/2021: 10
+*  9/2021: 4
+*  8/2021: 10
+*  7/2021: 5
+*  6/2021: 2
+*  5/2021: 5
+*  4/2021: 15
+*  3/2021: 9
 *  2/2021: 5
-*  1/2021: 2
+*  1/2021: 5
 *  12/2020: 0
 *  11/2020: 10
 *  10/2020: 7
@@ -57,7 +57,7 @@ Total Results (Limited by GitHUB API): 48
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [ipld/go-datalark](https://github.com/ipld/go-datalark)| 0 | 0 | 24| 2021-09-19 | 2021-09-19 |
-| [proofzero/go-ipld-linkstore](https://github.com/proofzero/go-ipld-linkstore)| 2 | 1 | 157| 2021-08-31 | 2021-09-21 |
+| [proofzero/go-ipld-linkstore](https://github.com/proofzero/go-ipld-linkstore)| 3 | 1 | 157| 2021-08-31 | 2021-09-21 |
 | [willscott/wasm-adl](https://github.com/willscott/wasm-adl)| 2 | 0 | 34| 2021-08-11 | 2021-08-13 |
 | [simplecoincom/boltdb-to-ipld-hamt](https://github.com/simplecoincom/boltdb-to-ipld-hamt)| 0 | 0 | 9| 2021-08-04 | 2021-08-10 |
 | [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 150| 2021-07-29 | 2021-09-09 |
