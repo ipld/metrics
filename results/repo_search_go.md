@@ -49,6 +49,6 @@ Total Results (Limited by GitHUB API): 48
 | [ipfs/go-ipld-git](https://github.com/ipfs/go-ipld-git)| 48 | 19 | 254| 2016-12-13 | 2021-09-09 |
 | [ipld/go-ipld-btc](https://github.com/ipld/go-ipld-btc)| 20 | 14 | 2869| 2016-12-13 | 2021-08-17 |
 | [ipfs/go-ipld-zcash](https://github.com/ipfs/go-ipld-zcash)| 13 | 3 | 42| 2016-10-28 | 2020-05-04 |
-| [ipfs/go-ipld-cbor](https://github.com/ipfs/go-ipld-cbor)| 30 | 24 | 156| 2016-10-24 | 2021-08-18 |
+| [ipfs/go-ipld-cbor](https://github.com/ipfs/go-ipld-cbor)| 31 | 24 | 156| 2016-10-24 | 2021-08-18 |
 | [ipfs/go-ipld-format](https://github.com/ipfs/go-ipld-format)| 53 | 22 | 116| 2016-10-14 | 2021-08-17 |
 | [ipld/go-ipld-deprecated](https://github.com/ipld/go-ipld-deprecated)| 32 | 13 | 49| 2015-07-23 | 2018-08-08 |
