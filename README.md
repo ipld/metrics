@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 9
-*  8/2021: 6
-*  7/2021: 18
-*  6/2021: 31
-*  5/2021: 30
-*  4/2021: 12
-*  3/2021: 6
-*  2/2021: 13
-*  1/2021: 6
-*  12/2020: 12
-*  11/2020: 18
-*  10/2020: 47
+*  9/2021: 13
+*  8/2021: 7
+*  7/2021: 5
+*  6/2021: 8
+*  5/2021: 10
+*  4/2021: 0
+*  3/2021: 5
+*  2/2021: 8
+*  1/2021: 5
+*  12/2020: 5
+*  11/2020: 7
+*  10/2020: 5
 
 ### GitHub Search
 
@@ -60,11 +60,11 @@ Total Results (Limited by GitHUB API): 48
 | [proofzero/go-ipld-linkstore](https://github.com/proofzero/go-ipld-linkstore)| 3 | 1 | 157| 2021-08-31 | 2021-09-21 |
 | [willscott/wasm-adl](https://github.com/willscott/wasm-adl)| 2 | 0 | 34| 2021-08-11 | 2021-08-13 |
 | [simplecoincom/boltdb-to-ipld-hamt](https://github.com/simplecoincom/boltdb-to-ipld-hamt)| 0 | 0 | 9| 2021-08-04 | 2021-08-10 |
-| [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 150| 2021-07-29 | 2021-09-09 |
+| [simplecoincom/go-ipld-adl-hamt-container](https://github.com/simplecoincom/go-ipld-adl-hamt-container)| 0 | 0 | 154| 2021-07-29 | 2021-09-27 |
 | [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 15 | 3 | 923| 2021-06-15 | 2021-09-16 |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
-| [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 152| 2021-03-05 | 2021-08-17 |
+| [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 157| 2021-03-05 | 2021-09-27 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 5 | 5 | 385| 2021-02-22 | 2021-08-18 |
 
 
@@ -88,7 +88,7 @@ Total Results (Limited by GitHUB API): 87
 | [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 1 | 106| 2021-04-30 | 2021-07-28 |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
 | [mikeal/dag-query](https://github.com/mikeal/dag-query)| 0 | 0 | 4| 2021-01-02 | 2021-01-03 |
-| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 157| 2020-12-17 | 2021-08-05 |
+| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 159| 2020-12-17 | 2021-09-27 |
 
 
 The above set is limited to the 10 most recently created. 
