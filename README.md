@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 9
-*  8/2021: 7
-*  7/2021: 10
-*  6/2021: 0
-*  5/2021: 0
-*  4/2021: 7
-*  3/2021: 2
-*  2/2021: 3
-*  1/2021: 5
-*  12/2020: 2
-*  11/2020: 2
-*  10/2020: 5
+*  9/2021: 5
+*  8/2021: 6
+*  7/2021: 8
+*  6/2021: 8
+*  5/2021: 6
+*  4/2021: 12
+*  3/2021: 4
+*  2/2021: 4
+*  1/2021: 8
+*  12/2020: 4
+*  11/2020: 14
+*  10/2020: 6
 
 ### GitHub Search
 
@@ -64,7 +64,7 @@ Total Results (Limited by GitHUB API): 48
 | [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 16 | 3 | 923| 2021-06-15 | 2021-09-16 |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
-| [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 164| 2021-03-05 | 2021-09-29 |
+| [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 166| 2021-03-05 | 2021-09-30 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 5 | 5 | 385| 2021-02-22 | 2021-08-18 |
 
 
@@ -82,8 +82,8 @@ Total Results (Limited by GitHUB API): 87
 | [jimpick/js-car-zero-length-blocks](https://github.com/jimpick/js-car-zero-length-blocks)| 0 | 0 | 6| 2021-08-06 | 2021-08-06 |
 | [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 1 | 320| 2021-08-04 | 2021-09-28 |
 | [ipld/js-ipld-format-to-blockcodec](https://github.com/ipld/js-ipld-format-to-blockcodec)| 0 | 0 | 85| 2021-07-28 | 2021-07-28 |
-| [ipfs-examples/js-ipfs-traverse-ipld-grap...](https://github.com/ipfs-examples/js-ipfs-traverse-ipld-graphs)| 0 | 0 | 17| 2021-06-14 | 2021-09-29 |
-| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 10| 2021-06-14 | 2021-09-29 |
+| [ipfs-examples/js-ipfs-traverse-ipld-grap...](https://github.com/ipfs-examples/js-ipfs-traverse-ipld-graphs)| 0 | 0 | 18| 2021-06-14 | 2021-09-30 |
+| [ipfs-examples/js-ipfs-custom-ipld-format...](https://github.com/ipfs-examples/js-ipfs-custom-ipld-formats)| 0 | 0 | 11| 2021-06-14 | 2021-09-30 |
 | [Electronic-Signatures-Industries/swarm-b...](https://github.com/Electronic-Signatures-Industries/swarm-bee-block-service)| 0 | 0 | 217| 2021-05-12 | 2021-05-12 |
 | [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 1 | 106| 2021-04-30 | 2021-07-28 |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
