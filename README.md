@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 22
-*  8/2021: 8
-*  7/2021: 15
-*  6/2021: 8
-*  5/2021: 7
-*  4/2021: 19
-*  3/2021: 0
-*  2/2021: 0
-*  1/2021: 7
-*  12/2020: 0
-*  11/2020: 26
-*  10/2020: 7
+*  9/2021: 20
+*  8/2021: 0
+*  7/2021: 9
+*  6/2021: 9
+*  5/2021: 18
+*  4/2021: 9
+*  3/2021: 4
+*  2/2021: 10
+*  1/2021: 14
+*  12/2020: 9
+*  11/2020: 14
+*  10/2020: 13
 
 ### GitHub Search
 
@@ -64,7 +64,7 @@ Total Results (Limited by GitHUB API): 48
 | [filecoin-project/dagstore](https://github.com/filecoin-project/dagstore)| 16 | 3 | 923| 2021-06-15 | 2021-09-16 |
 | [daotl/go-ipld-channel](https://github.com/daotl/go-ipld-channel)| 0 | 0 | 19| 2021-06-13 | 2021-06-14 |
 | [vulcanize/ipld-cosmos-indexer](https://github.com/vulcanize/ipld-cosmos-indexer)| 0 | 0 | 14| 2021-03-30 | 2021-03-30 |
-| [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 1 | 2 | 166| 2021-03-05 | 2021-09-30 |
+| [ipfs/go-unixfsnode](https://github.com/ipfs/go-unixfsnode)| 2 | 2 | 170| 2021-03-05 | 2021-10-02 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 5 | 5 | 385| 2021-02-22 | 2021-08-18 |
 
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 174
+Total Matches: 176
 
-Total Results (Limited by GitHUB API): 87
+Total Results (Limited by GitHUB API): 88
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Electronic-Signatures-Industries/ancon-p...](https://github.com/Electronic-Signatures-Industries/ancon-protocol)| 0 | 0 | 155041| 2021-08-23 | 2021-10-02 |
 | [jimpick/js-car-zero-length-blocks](https://github.com/jimpick/js-car-zero-length-blocks)| 0 | 0 | 6| 2021-08-06 | 2021-08-06 |
 | [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 1 | 320| 2021-08-04 | 2021-09-28 |
 | [ipld/js-ipld-format-to-blockcodec](https://github.com/ipld/js-ipld-format-to-blockcodec)| 0 | 0 | 85| 2021-07-28 | 2021-07-28 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 87
 | [ipld/js-blockcodec-to-ipld-format](https://github.com/ipld/js-blockcodec-to-ipld-format)| 0 | 1 | 106| 2021-04-30 | 2021-07-28 |
 | [mikeal/encrypted-block](https://github.com/mikeal/encrypted-block)| 1 | 0 | 5| 2021-01-09 | 2021-01-09 |
 | [mikeal/dag-query](https://github.com/mikeal/dag-query)| 0 | 0 | 4| 2021-01-02 | 2021-01-03 |
-| [rvagg/js-ipld-garbage](https://github.com/rvagg/js-ipld-garbage)| 0 | 0 | 160| 2020-12-17 | 2021-09-28 |
 
 
 The above set is limited to the 10 most recently created. 
