@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 20
-*  8/2021: 0
-*  7/2021: 9
-*  6/2021: 9
-*  5/2021: 18
-*  4/2021: 9
-*  3/2021: 4
-*  2/2021: 10
-*  1/2021: 14
-*  12/2020: 9
-*  11/2020: 14
-*  10/2020: 13
+*  10/2021: 0
+*  9/2021: 7
+*  8/2021: 2
+*  7/2021: 5
+*  6/2021: 11
+*  5/2021: 9
+*  4/2021: 11
+*  3/2021: 2
+*  2/2021: 5
+*  1/2021: 9
+*  12/2020: 2
+*  11/2020: 4
 
 ### GitHub Search
 
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 88
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Electronic-Signatures-Industries/ancon-p...](https://github.com/Electronic-Signatures-Industries/ancon-protocol)| 0 | 0 | 155041| 2021-08-23 | 2021-10-02 |
+| [Electronic-Signatures-Industries/ancon-p...](https://github.com/Electronic-Signatures-Industries/ancon-protocol)| 0 | 0 | 155043| 2021-08-23 | 2021-10-03 |
 | [jimpick/js-car-zero-length-blocks](https://github.com/jimpick/js-car-zero-length-blocks)| 0 | 0 | 6| 2021-08-06 | 2021-08-06 |
 | [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 1 | 320| 2021-08-04 | 2021-09-28 |
 | [ipld/js-ipld-format-to-blockcodec](https://github.com/ipld/js-ipld-format-to-blockcodec)| 0 | 0 | 85| 2021-07-28 | 2021-07-28 |
