@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  10/2021: 0
-*  9/2021: 13
-*  8/2021: 3
+*  9/2021: 17
+*  8/2021: 12
 *  7/2021: 9
-*  6/2021: 6
+*  6/2021: 9
 *  5/2021: 6
-*  4/2021: 3
-*  3/2021: 9
-*  2/2021: 0
+*  4/2021: 0
+*  3/2021: 6
+*  2/2021: 3
 *  1/2021: 0
-*  12/2020: 9
-*  11/2020: 6
+*  12/2020: 3
+*  11/2020: 9
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 49
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Electronic-Signatures-Industries/ancon-i...](https://github.com/Electronic-Signatures-Industries/ancon-ipld-router-sync)| 0 | 0 | 55| 2021-10-04 | 2021-10-04 |
+| [Electronic-Signatures-Industries/ancon-i...](https://github.com/Electronic-Signatures-Industries/ancon-ipld-router-sync)| 0 | 0 | 73| 2021-10-04 | 2021-10-05 |
 | [ipld/go-datalark](https://github.com/ipld/go-datalark)| 0 | 0 | 24| 2021-09-19 | 2021-09-19 |
 | [proofzero/go-ipld-linkstore](https://github.com/proofzero/go-ipld-linkstore)| 3 | 1 | 157| 2021-08-31 | 2021-09-21 |
 | [willscott/wasm-adl](https://github.com/willscott/wasm-adl)| 2 | 0 | 34| 2021-08-11 | 2021-08-13 |
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 88
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Electronic-Signatures-Industries/ancon-p...](https://github.com/Electronic-Signatures-Industries/ancon-protocol)| 0 | 0 | 155063| 2021-08-23 | 2021-10-04 |
+| [Electronic-Signatures-Industries/ancon-p...](https://github.com/Electronic-Signatures-Industries/ancon-protocol)| 0 | 0 | 155246| 2021-08-23 | 2021-10-06 |
 | [jimpick/js-car-zero-length-blocks](https://github.com/jimpick/js-car-zero-length-blocks)| 0 | 0 | 6| 2021-08-06 | 2021-08-06 |
 | [ipld/codec-fixtures](https://github.com/ipld/codec-fixtures)| 3 | 1 | 320| 2021-08-04 | 2021-09-28 |
 | [ipld/js-ipld-format-to-blockcodec](https://github.com/ipld/js-ipld-format-to-blockcodec)| 0 | 0 | 85| 2021-07-28 | 2021-07-28 |
